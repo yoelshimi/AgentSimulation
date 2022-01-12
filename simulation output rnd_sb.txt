@@ -1,0 +1,605 @@
+
+**-------------------------**
+ Tue Feb  2 20:11:09 2021
+population: {'snb': 87, 'sb': 175, 'nsnb': 203, 'nsb': 173} 
+sick divisions:
+ 'snb': 87.0, 'sb': 146.0, 'nsnb': 200.0, 'nsb': 138.0
+hospital divisions:
+ 'snb': 10.0, 'sb': 34.0, 'nsnb': 4.0, 'nsb': 3.0
+Dead divisions:
+ 'snb': 4.0, 'sb': 7.0, 'nsnb': 0.0, 'nsb': 0.0
+**-------------------------**
+ Tue Feb  2 20:51:16 2021
+population: {'snb': 86, 'sb': 180, 'nsnb': 202, 'nsb': 152} 
+sick divisions:
+ 'snb': 84.0, 'sb': 128.0, 'nsnb': 197.0, 'nsb': 111.0
+hospital divisions:
+ 'snb': 16.0, 'sb': 23.0, 'nsnb': 6.0, 'nsb': 3.0
+Dead divisions:
+ 'snb': 3.0, 'sb': 4.0, 'nsnb': 0.0, 'nsb': 0.0
+**-------------------------**
+ Sun Feb  7 11:27:37 2021
+population: {'snb': 0, 'sb': 182, 'nsnb': 463, 'nsb': 0} 
+sick divisions:
+ 'snb': 0.0, 'sb': 53.0, 'nsnb': 366.0, 'nsb': 0.0
+hospital divisions:
+ 'snb': 0.0, 'sb': 13.0, 'nsnb': 7.0, 'nsb': 0.0
+Dead divisions:
+ 'snb': 0.0, 'sb': 0.0, 'nsnb': 1.0, 'nsb': 0.0
+**-------------------------**
+ Sun Feb  7 11:33:53 2021
+population: {'snb': 0, 'sb': 1946, 'nsnb': 4507, 'nsb': 0} 
+sick divisions:
+ 'snb': 0.0, 'sb': 670.0, 'nsnb': 3893.0, 'nsb': 0.0
+hospital divisions:
+ 'snb': 0.0, 'sb': 123.0, 'nsnb': 74.0, 'nsb': 0.0
+Dead divisions:
+ 'snb': 0.0, 'sb': 32.0, 'nsnb': 4.0, 'nsb': 0.0
+**-------------------------**
+ Sun Feb  7 11:40:26 2021
+population: {'snb': 1930, 'sb': 0, 'nsnb': 0, 'nsb': 4701} 
+sick divisions:
+ 'snb': 39.0, 'sb': 0.0, 'nsnb': 0.0, 'nsb': 48.0
+hospital divisions:
+ 'snb': 10.0, 'sb': 0.0, 'nsnb': 0.0, 'nsb': 1.0
+Dead divisions:
+ 'snb': 3.0, 'sb': 0.0, 'nsnb': 0.0, 'nsb': 0.0
+**-------------------------**
+ Fri Mar  5 11:54:13 2021
+population: {'snb': 103, 'sb': 0, 'nsnb': 0, 'nsb': 216} 
+sick divisions:
+ 'snb': 81.0, 'sb': 0.0, 'nsnb': 0.0, 'nsb': 67.0
+hospital divisions:
+ 'snb': 15.0, 'sb': 0.0, 'nsnb': 0.0, 'nsb': 2.0
+Dead divisions:
+ 'snb': 3.0, 'sb': 0.0, 'nsnb': 0.0, 'nsb': 0.0
+**-------------------------**
+ Sat Mar  6 22:33:05 2021
+population: {'snb': 102, 'sb': 0, 'nsnb': 0, 'nsb': 255} 
+sick divisions:
+ 'snb': 72.0, 'sb': 0.0, 'nsnb': 0.0, 'nsb': 70.0
+hospital divisions:
+ 'snb': 12.0, 'sb': 0.0, 'nsnb': 0.0, 'nsb': 1.0
+Dead divisions:
+ 'snb': 3.0, 'sb': 0.0, 'nsnb': 0.0, 'nsb': 1.0
+**-------------------------**
+ Sat Mar  6 23:26:27 2021
+population: {'snb': 96, 'sb': 0, 'nsnb': 0, 'nsb': 227} 
+sick divisions:
+ 'snb': 5.0, 'sb': 0.0, 'nsnb': 0.0, 'nsb': 227.0
+hospital divisions:
+ 'snb': 1.0, 'sb': 0.0, 'nsnb': 0.0, 'nsb': 6.0
+Dead divisions:
+ 'snb': 0.0, 'sb': 0.0, 'nsnb': 0.0, 'nsb': 1.0
+**-------------------------**
+ Sat Mar  6 23:27:48 2021
+population: {'snb': 86, 'sb': 0, 'nsnb': 0, 'nsb': 250} 
+sick divisions:
+ 'snb': 3.0, 'sb': 0.0, 'nsnb': 0.0, 'nsb': 194.0
+hospital divisions:
+ 'snb': 1.0, 'sb': 0.0, 'nsnb': 0.0, 'nsb': 4.0
+Dead divisions:
+ 'snb': 0.0, 'sb': 0.0, 'nsnb': 0.0, 'nsb': 0.0
+**-------------------------**
+ Sat Mar  6 23:30:09 2021
+population: {'snb': 95, 'sb': 0, 'nsnb': 0, 'nsb': 228} 
+sick divisions:
+ 'snb': 4.0, 'sb': 0.0, 'nsnb': 0.0, 'nsb': 5.0
+hospital divisions:
+ 'snb': 1.0, 'sb': 0.0, 'nsnb': 0.0, 'nsb': 0.0
+Dead divisions:
+ 'snb': 0.0, 'sb': 0.0, 'nsnb': 0.0, 'nsb': 0.0
+**-------------------------**
+ Thu Mar 18 14:40:08 2021
+population: {'snb': 97, 'sb': 0, 'nsnb': 0, 'nsb': 237} 
+sick divisions:
+ 'snb': 4.0, 'sb': 0.0, 'nsnb': 0.0, 'nsb': 6.0
+hospital divisions:
+ 'snb': 1.0, 'sb': 0.0, 'nsnb': 0.0, 'nsb': 0.0
+Dead divisions:
+ 'snb': 1.0, 'sb': 0.0, 'nsnb': 0.0, 'nsb': 0.0
+**-------------------------**
+ Thu Mar 18 15:10:58 2021
+population: {'snb': 1025, 'sb': 0, 'nsnb': 0, 'nsb': 2321} 
+sick divisions:
+ 'snb': 215.0, 'sb': 0.0, 'nsnb': 0.0, 'nsb': 1731.0
+hospital divisions:
+ 'snb': 42.0, 'sb': 0.0, 'nsnb': 0.0, 'nsb': 35.0
+Dead divisions:
+ 'snb': 42.0, 'sb': 0.0, 'nsnb': 0.0, 'nsb': 0.0
+**-------------------------**
+ Thu Mar 18 15:12:59 2021
+population: {'snb': 990, 'sb': 0, 'nsnb': 0, 'nsb': 2246} 
+sick divisions:
+ 'snb': 260.0, 'sb': 0.0, 'nsnb': 0.0, 'nsb': 1758.0
+hospital divisions:
+ 'snb': 260.0, 'sb': 0.0, 'nsnb': 0.0, 'nsb': 1758.0
+Dead divisions:
+ 'snb': 260.0, 'sb': 0.0, 'nsnb': 0.0, 'nsb': 1758.0
+**-------------------------**
+ Thu Mar 18 15:14:25 2021
+population: {'snb': 960, 'sb': 0, 'nsnb': 0, 'nsb': 2296} 
+sick divisions:
+ 'snb': 224.0, 'sb': 0.0, 'nsnb': 0.0, 'nsb': 1565.0
+hospital divisions:
+ 'snb': 95.0, 'sb': 0.0, 'nsnb': 0.0, 'nsb': 775.0
+Dead divisions:
+ 'snb': 95.0, 'sb': 0.0, 'nsnb': 0.0, 'nsb': 775.0
+**-------------------------**
+ Thu Mar 18 15:18:06 2021
+population: {'snb': 995, 'sb': 0, 'nsnb': 0, 'nsb': 2285} 
+sick divisions:
+ 'snb': 227.0, 'sb': 0.0, 'nsnb': 0.0, 'nsb': 1653.0
+hospital divisions:
+ 'snb': 207.0, 'sb': 0.0, 'nsnb': 0.0, 'nsb': 1548.0
+Dead divisions:
+ 'snb': 207.0, 'sb': 0.0, 'nsnb': 0.0, 'nsb': 0.0
+**-------------------------**
+ Thu Mar 18 15:20:32 2021
+population: {'snb': 1019, 'sb': 0, 'nsnb': 0, 'nsb': 2329} 
+sick divisions:
+ 'snb': 200.0, 'sb': 0.0, 'nsnb': 0.0, 'nsb': 1726.0
+hospital divisions:
+ 'snb': 199.0, 'sb': 0.0, 'nsnb': 0.0, 'nsb': 1726.0
+Dead divisions:
+ 'snb': 199.0, 'sb': 0.0, 'nsnb': 0.0, 'nsb': 0.0
+**-------------------------**
+ Sat Apr  3 23:12:36 2021
+population: {'snb': 484, 'sb': 0, 'nsnb': 0, 'nsb': 1134} 
+sick divisions:
+ 'snb': 60.0, 'sb': 0.0, 'nsnb': 0.0, 'nsb': 54.0
+hospital divisions:
+ 'snb': 60.0, 'sb': 0.0, 'nsnb': 0.0, 'nsb': 54.0
+Dead divisions:
+ 'snb': 60.0, 'sb': 0.0, 'nsnb': 0.0, 'nsb': 0.0
+infectors SB: {'snb': 68, 'sb': 0, 'nsnb': 0, 'nsb': 8} 
+**-------------------------**
+ Fri Apr 16 16:55:52 2021
+population: {'snb': 11, 'sb': 0, 'nsnb': 0, 'nsb': 15} 
+sick divisions:
+ 'snb': 0.0, 'sb': 0.0, 'nsnb': 0.0, 'nsb': 1.0
+hospital divisions:
+ 'snb': 0.0, 'sb': 0.0, 'nsnb': 0.0, 'nsb': 1.0
+Dead divisions:
+ 'snb': 0.0, 'sb': 0.0, 'nsnb': 0.0, 'nsb': 0.0
+infectors SB: {'snb': 0, 'sb': 0, 'nsnb': 0, 'nsb': 0} 
+**-------------------------**
+ Fri May 21 00:14:26 2021
+population: {'snb': 0, 'sb': 8, 'nsnb': 17, 'nsb': 0} 
+sick divisions:
+ 'snb': 0.0, 'sb': 0.0, 'nsnb': 7.0, 'nsb': 0.0
+hospital divisions:
+ 'snb': 0.0, 'sb': 0.0, 'nsnb': 2.0, 'nsb': 0.0
+Dead divisions:
+ 'snb': 0.0, 'sb': 0.0, 'nsnb': 0.0, 'nsb': 0.0
+infectors SB: {'snb': 0, 'sb': 0, 'nsnb': 6, 'nsb': 0} 
+**-------------------------**
+ Fri May 21 00:18:47 2021
+population: {'snb': 0, 'sb': 7767, 'nsnb': 18483, 'nsb': 0} 
+sick divisions:
+ 'snb': 0.0, 'sb': 1717.0, 'nsnb': 13430.0, 'nsb': 0.0
+hospital divisions:
+ 'snb': 0.0, 'sb': 30.0, 'nsnb': 2714.0, 'nsb': 0.0
+Dead divisions:
+ 'snb': 0.0, 'sb': 7.0, 'nsnb': 131.0, 'nsb': 0.0
+infectors SB: {'snb': 0, 'sb': 319, 'nsnb': 14778, 'nsb': 0} 
+**-------------------------**
+ Sun May 30 00:27:06 2021
+population: {'snb': 0, 'sb': 204, 'nsnb': 489, 'nsb': 0} 
+sick divisions:
+ 'snb': 0.0, 'sb': 41.0, 'nsnb': 346.0, 'nsb': 0.0
+hospital divisions:
+ 'snb': 0.0, 'sb': 0.0, 'nsnb': 72.0, 'nsb': 0.0
+Dead divisions:
+ 'snb': 0.0, 'sb': 0.0, 'nsnb': 5.0, 'nsb': 0.0
+infectors SB: {'snb': 0, 'sb': 8, 'nsnb': 375, 'nsb': 0} 
+**-------------------------**
+ Sun May 30 13:33:48 2021
+population: {'snb': 0, 'sb': 212, 'nsnb': 474, 'nsb': 0} 
+sick divisions:
+ 'snb': 0.0, 'sb': 48.0, 'nsnb': 351.0, 'nsb': 0.0
+hospital divisions:
+ 'snb': 0.0, 'sb': 1.0, 'nsnb': 63.0, 'nsb': 0.0
+Dead divisions:
+ 'snb': 0.0, 'sb': 0.0, 'nsnb': 7.0, 'nsb': 0.0
+infectors SB: {'snb': 0, 'sb': 15, 'nsnb': 383, 'nsb': 0} 
+**-------------------------**
+ Sun May 30 13:37:28 2021
+population: {'snb': 0, 'sb': 164, 'nsnb': 456, 'nsb': 0} 
+sick divisions:
+ 'snb': 0.0, 'sb': 32.0, 'nsnb': 287.0, 'nsb': 0.0
+hospital divisions:
+ 'snb': 0.0, 'sb': 1.0, 'nsnb': 61.0, 'nsb': 0.0
+Dead divisions:
+ 'snb': 0.0, 'sb': 0.0, 'nsnb': 2.0, 'nsb': 0.0
+infectors SB: {'snb': 0, 'sb': 7, 'nsnb': 313, 'nsb': 0} 
+**-------------------------**
+ Sun May 30 13:38:58 2021
+population: {'snb': 0, 'sb': 230, 'nsnb': 450, 'nsb': 0} 
+sick divisions:
+ 'snb': 0.0, 'sb': 54.0, 'nsnb': 312.0, 'nsb': 0.0
+hospital divisions:
+ 'snb': 0.0, 'sb': 1.0, 'nsnb': 52.0, 'nsb': 0.0
+Dead divisions:
+ 'snb': 0.0, 'sb': 1.0, 'nsnb': 4.0, 'nsb': 0.0
+infectors SB: {'snb': 0, 'sb': 16, 'nsnb': 361, 'nsb': 0} 
+**-------------------------**
+ Sun May 30 13:40:58 2021
+population: {'snb': 0, 'sb': 2018, 'nsnb': 4744, 'nsb': 0} 
+sick divisions:
+ 'snb': 0.0, 'sb': 421.0, 'nsnb': 3501.0, 'nsb': 0.0
+hospital divisions:
+ 'snb': 0.0, 'sb': 8.0, 'nsnb': 699.0, 'nsb': 0.0
+Dead divisions:
+ 'snb': 0.0, 'sb': 0.0, 'nsnb': 28.0, 'nsb': 0.0
+infectors SB: {'snb': 0, 'sb': 88, 'nsnb': 3786, 'nsb': 0} 
+**-------------------------**
+ Sun May 30 14:04:06 2021
+population: {'snb': 0, 'sb': 1926, 'nsnb': 4644, 'nsb': 0} 
+sick divisions:
+ 'snb': 0.0, 'sb': 424.0, 'nsnb': 3416.0, 'nsb': 0.0
+hospital divisions:
+ 'snb': 0.0, 'sb': 6.0, 'nsnb': 709.0, 'nsb': 0.0
+Dead divisions:
+ 'snb': 0.0, 'sb': 2.0, 'nsnb': 31.0, 'nsb': 0.0
+infectors SB: {'snb': 0, 'sb': 90, 'nsnb': 3793, 'nsb': 0} 
+**-------------------------**
+ Sun May 30 21:51:29 2021
+population: {'snb': 0, 'sb': 2008, 'nsnb': 4636, 'nsb': 0} 
+sick divisions:
+ 'snb': 0.0, 'sb': 418.0, 'nsnb': 3436.0, 'nsb': 0.0
+hospital divisions:
+ 'snb': 0.0, 'sb': 10.0, 'nsnb': 701.0, 'nsb': 0.0
+Dead divisions:
+ 'snb': 0.0, 'sb': 3.0, 'nsnb': 34.0, 'nsb': 0.0
+infectors SB: {'snb': 0, 'sb': 87, 'nsnb': 3786, 'nsb': 0} 
+**-------------------------**
+ Mon May 31 15:11:45 2021
+population: {'snb': 0, 'sb': 1947, 'nsnb': 4667, 'nsb': 0} 
+sick divisions:
+ 'snb': 0.0, 'sb': 409.0, 'nsnb': 3285.0, 'nsb': 0.0
+hospital divisions:
+ 'snb': 0.0, 'sb': 6.0, 'nsnb': 699.0, 'nsb': 0.0
+Dead divisions:
+ 'snb': 0.0, 'sb': 0.0, 'nsnb': 37.0, 'nsb': 0.0
+infectors SB: {'snb': 0, 'sb': 75, 'nsnb': 3609, 'nsb': 0} 
+**-------------------------**
+ Mon May 31 15:50:45 2021
+population: {'snb': 0, 'sb': 1922, 'nsnb': 4612, 'nsb': 0} 
+sick divisions:
+ 'snb': 0.0, 'sb': 460.0, 'nsnb': 3436.0, 'nsb': 0.0
+hospital divisions:
+ 'snb': 0.0, 'sb': 13.0, 'nsnb': 724.0, 'nsb': 0.0
+Dead divisions:
+ 'snb': 0.0, 'sb': 2.0, 'nsnb': 40.0, 'nsb': 0.0
+infectors SB: {'snb': 0, 'sb': 95, 'nsnb': 3790, 'nsb': 0} 
+**-------------------------**
+ Mon May 31 16:15:36 2021
+population: {'snb': 0, 'sb': 1923, 'nsnb': 4639, 'nsb': 0} 
+sick divisions:
+ 'snb': 0.0, 'sb': 419.0, 'nsnb': 3277.0, 'nsb': 0.0
+hospital divisions:
+ 'snb': 0.0, 'sb': 8.0, 'nsnb': 662.0, 'nsb': 0.0
+Dead divisions:
+ 'snb': 0.0, 'sb': 1.0, 'nsnb': 31.0, 'nsb': 0.0
+infectors SB: {'snb': 0, 'sb': 88, 'nsnb': 3643, 'nsb': 0} 
+**-------------------------**
+ Mon May 31 16:26:06 2021
+population: {'snb': 0, 'sb': 2015, 'nsnb': 4619, 'nsb': 0} 
+sick divisions:
+ 'snb': 0.0, 'sb': 437.0, 'nsnb': 3383.0, 'nsb': 0.0
+hospital divisions:
+ 'snb': 0.0, 'sb': 7.0, 'nsnb': 696.0, 'nsb': 0.0
+Dead divisions:
+ 'snb': 0.0, 'sb': 1.0, 'nsnb': 45.0, 'nsb': 0.0
+infectors SB: {'snb': 0, 'sb': 106, 'nsnb': 3707, 'nsb': 0} 
+**-------------------------**
+ Mon May 31 16:33:32 2021
+population: {'snb': 0, 'sb': 1938, 'nsnb': 4660, 'nsb': 0} 
+sick divisions:
+ 'snb': 0.0, 'sb': 432.0, 'nsnb': 3368.0, 'nsb': 0.0
+hospital divisions:
+ 'snb': 0.0, 'sb': 10.0, 'nsnb': 705.0, 'nsb': 0.0
+Dead divisions:
+ 'snb': 0.0, 'sb': 2.0, 'nsnb': 22.0, 'nsb': 0.0
+infectors SB: {'snb': 0, 'sb': 83, 'nsnb': 3766, 'nsb': 0} 
+**-------------------------**
+ Mon May 31 16:55:26 2021
+population: {'snb': 0, 'sb': 1929, 'nsnb': 4539, 'nsb': 0} 
+sick divisions:
+ 'snb': 0.0, 'sb': 455.0, 'nsnb': 3378.0, 'nsb': 0.0
+hospital divisions:
+ 'snb': 0.0, 'sb': 8.0, 'nsnb': 691.0, 'nsb': 0.0
+Dead divisions:
+ 'snb': 0.0, 'sb': 3.0, 'nsnb': 29.0, 'nsb': 0.0
+infectors SB: {'snb': 0, 'sb': 95, 'nsnb': 3707, 'nsb': 0} 
+**-------------------------**
+ Mon May 31 16:59:37 2021
+population: {'snb': 0, 'sb': 2025, 'nsnb': 4687, 'nsb': 0} 
+sick divisions:
+ 'snb': 0.0, 'sb': 421.0, 'nsnb': 3312.0, 'nsb': 0.0
+hospital divisions:
+ 'snb': 0.0, 'sb': 10.0, 'nsnb': 646.0, 'nsb': 0.0
+Dead divisions:
+ 'snb': 0.0, 'sb': 2.0, 'nsnb': 33.0, 'nsb': 0.0
+infectors SB: {'snb': 0, 'sb': 84, 'nsnb': 3679, 'nsb': 0} 
+**-------------------------**
+ Mon May 31 17:10:23 2021
+population: {'snb': 0, 'sb': 1990, 'nsnb': 4608, 'nsb': 0} 
+sick divisions:
+ 'snb': 0.0, 'sb': 466.0, 'nsnb': 3331.0, 'nsb': 0.0
+hospital divisions:
+ 'snb': 0.0, 'sb': 7.0, 'nsnb': 659.0, 'nsb': 0.0
+Dead divisions:
+ 'snb': 0.0, 'sb': 1.0, 'nsnb': 30.0, 'nsb': 0.0
+infectors SB: {'snb': 0, 'sb': 91, 'nsnb': 3656, 'nsb': 0} 
+**-------------------------**
+ Mon May 31 17:14:36 2021
+population: {'snb': 0, 'sb': 1951, 'nsnb': 4495, 'nsb': 0} 
+sick divisions:
+ 'snb': 0.0, 'sb': 414.0, 'nsnb': 3192.0, 'nsb': 0.0
+hospital divisions:
+ 'snb': 0.0, 'sb': 8.0, 'nsnb': 631.0, 'nsb': 0.0
+Dead divisions:
+ 'snb': 0.0, 'sb': 2.0, 'nsnb': 25.0, 'nsb': 0.0
+infectors SB: {'snb': 0, 'sb': 74, 'nsnb': 3544, 'nsb': 0} 
+**-------------------------**
+ Mon May 31 17:30:06 2021
+population: {'snb': 0, 'sb': 1946, 'nsnb': 4560, 'nsb': 0} 
+sick divisions:
+ 'snb': 0.0, 'sb': 452.0, 'nsnb': 3440.0, 'nsb': 0.0
+hospital divisions:
+ 'snb': 0.0, 'sb': 5.0, 'nsnb': 705.0, 'nsb': 0.0
+Dead divisions:
+ 'snb': 0.0, 'sb': 1.0, 'nsnb': 39.0, 'nsb': 0.0
+infectors SB: {'snb': 0, 'sb': 77, 'nsnb': 3790, 'nsb': 0} 
+**-------------------------**
+ Tue Jun  1 21:45:38 2021
+population: {'snb': 0, 'sb': 2011, 'nsnb': 4619, 'nsb': 0} 
+sick divisions:
+ 'snb': 0.0, 'sb': 426.0, 'nsnb': 3372.0, 'nsb': 0.0
+hospital divisions:
+ 'snb': 0.0, 'sb': 11.0, 'nsnb': 697.0, 'nsb': 0.0
+Dead divisions:
+ 'snb': 0.0, 'sb': 2.0, 'nsnb': 47.0, 'nsb': 0.0
+infectors SB: {'snb': 0, 'sb': 92, 'nsnb': 3669, 'nsb': 0} 
+**-------------------------**
+ Tue Jun  1 21:48:49 2021
+population: {'snb': 0, 'sb': 1984, 'nsnb': 4562, 'nsb': 0} 
+sick divisions:
+ 'snb': 0.0, 'sb': 423.0, 'nsnb': 3363.0, 'nsb': 0.0
+hospital divisions:
+ 'snb': 0.0, 'sb': 6.0, 'nsnb': 695.0, 'nsb': 0.0
+Dead divisions:
+ 'snb': 0.0, 'sb': 1.0, 'nsnb': 32.0, 'nsb': 0.0
+infectors SB: {'snb': 0, 'sb': 75, 'nsnb': 3694, 'nsb': 0} 
+**-------------------------**
+ Tue Jun  1 22:04:33 2021
+population: {'snb': 0, 'sb': 1990, 'nsnb': 4634, 'nsb': 0} 
+sick divisions:
+ 'snb': 0.0, 'sb': 476.0, 'nsnb': 3527.0, 'nsb': 0.0
+hospital divisions:
+ 'snb': 0.0, 'sb': 12.0, 'nsnb': 744.0, 'nsb': 0.0
+Dead divisions:
+ 'snb': 0.0, 'sb': 1.0, 'nsnb': 29.0, 'nsb': 0.0
+infectors SB: {'snb': 0, 'sb': 92, 'nsnb': 3901, 'nsb': 0} 
+**-------------------------**
+ Tue Jun  1 22:05:13 2021
+population: {'snb': 0, 'sb': 1962, 'nsnb': 4540, 'nsb': 0} 
+sick divisions:
+ 'snb': 0.0, 'sb': 417.0, 'nsnb': 3255.0, 'nsb': 0.0
+hospital divisions:
+ 'snb': 0.0, 'sb': 10.0, 'nsnb': 662.0, 'nsb': 0.0
+Dead divisions:
+ 'snb': 0.0, 'sb': 1.0, 'nsnb': 31.0, 'nsb': 0.0
+infectors SB: {'snb': 0, 'sb': 77, 'nsnb': 3660, 'nsb': 0} 
+**-------------------------**
+ Tue Jun  1 22:09:07 2021
+population: {'snb': 0, 'sb': 1998, 'nsnb': 4604, 'nsb': 0} 
+sick divisions:
+ 'snb': 0.0, 'sb': 504.0, 'nsnb': 3560.0, 'nsb': 0.0
+hospital divisions:
+ 'snb': 0.0, 'sb': 10.0, 'nsnb': 682.0, 'nsb': 0.0
+Dead divisions:
+ 'snb': 0.0, 'sb': 5.0, 'nsnb': 28.0, 'nsb': 0.0
+infectors SB: {'snb': 0, 'sb': 103, 'nsnb': 3763, 'nsb': 0} 
+**-------------------------**
+ Tue Jun  1 22:15:17 2021
+population: {'snb': 0, 'sb': 1951, 'nsnb': 4583, 'nsb': 0} 
+sick divisions:
+ 'snb': 0.0, 'sb': 476.0, 'nsnb': 3505.0, 'nsb': 0.0
+hospital divisions:
+ 'snb': 0.0, 'sb': 11.0, 'nsnb': 704.0, 'nsb': 0.0
+Dead divisions:
+ 'snb': 0.0, 'sb': 2.0, 'nsnb': 36.0, 'nsb': 0.0
+infectors SB: {'snb': 0, 'sb': 78, 'nsnb': 3707, 'nsb': 0} 
+**-------------------------**
+ Fri Jun  4 15:14:58 2021
+population: {'snb': 0, 'sb': 2028, 'nsnb': 4542, 'nsb': 0} 
+sick divisions:
+ 'snb': 0.0, 'sb': 512.0, 'nsnb': 3615.0, 'nsb': 0.0
+hospital divisions:
+ 'snb': 0.0, 'sb': 11.0, 'nsnb': 718.0, 'nsb': 0.0
+Dead divisions:
+ 'snb': 0.0, 'sb': 2.0, 'nsnb': 28.0, 'nsb': 0.0
+infectors SB: {'snb': 0, 'sb': 98, 'nsnb': 3832, 'nsb': 0} 
+**-------------------------**
+ Fri Jun  4 15:19:48 2021
+population: {'snb': 0, 'sb': 1983, 'nsnb': 4745, 'nsb': 0} 
+sick divisions:
+ 'snb': 0.0, 'sb': 62.0, 'nsnb': 145.0, 'nsb': 0.0
+hospital divisions:
+ 'snb': 0.0, 'sb': 0.0, 'nsnb': 27.0, 'nsb': 0.0
+Dead divisions:
+ 'snb': 0.0, 'sb': 0.0, 'nsnb': 1.0, 'nsb': 0.0
+infectors SB: {'snb': 0, 'sb': 1, 'nsnb': 5, 'nsb': 0} 
+**-------------------------**
+ Wed Jun 16 00:14:51 2021
+population: {'snb': 0, 'sb': 1915, 'nsnb': 4587, 'nsb': 0} 
+sick divisions:
+ 'snb': 0.0, 'sb': 61.0, 'nsnb': 140.0, 'nsb': 0.0
+hospital divisions:
+ 'snb': 0.0, 'sb': 4.0, 'nsnb': 23.0, 'nsb': 0.0
+Dead divisions:
+ 'snb': 0.0, 'sb': 0.0, 'nsnb': 1.0, 'nsb': 0.0
+infectors SB: {'snb': 0, 'sb': 0, 'nsnb': 6, 'nsb': 0} 
+**-------------------------**
+ Wed Jun 16 00:42:07 2021
+population: {'snb': 0, 'sb': 6598, 'nsnb': 0, 'nsb': 0} 
+sick divisions:
+ 'snb': 0.0, 'sb': 771.0, 'nsnb': 0.0, 'nsb': 0.0
+hospital divisions:
+ 'snb': 0.0, 'sb': 11.0, 'nsnb': 0.0, 'nsb': 0.0
+Dead divisions:
+ 'snb': 0.0, 'sb': 3.0, 'nsnb': 0.0, 'nsb': 0.0
+infectors SB: {'snb': 0, 'sb': 112, 'nsnb': 0, 'nsb': 0} 
+**-------------------------**
+ Wed Jun 16 00:45:36 2021
+population: {'snb': 0, 'sb': 6622, 'nsnb': 0, 'nsb': 0} 
+sick divisions:
+ 'snb': 0.0, 'sb': 2556.0, 'nsnb': 0.0, 'nsb': 0.0
+hospital divisions:
+ 'snb': 0.0, 'sb': 38.0, 'nsnb': 0.0, 'nsb': 0.0
+Dead divisions:
+ 'snb': 0.0, 'sb': 9.0, 'nsnb': 0.0, 'nsb': 0.0
+infectors SB: {'snb': 0, 'sb': 2959, 'nsnb': 0, 'nsb': 0} 
+**-------------------------**
+ Wed Jun 16 01:07:24 2021
+population: {'snb': 0, 'sb': 6508, 'nsnb': 0, 'nsb': 0} 
+sick divisions:
+ 'snb': 0.0, 'sb': 67.0, 'nsnb': 0.0, 'nsb': 0.0
+hospital divisions:
+ 'snb': 0.0, 'sb': 1.0, 'nsnb': 0.0, 'nsb': 0.0
+Dead divisions:
+ 'snb': 0.0, 'sb': 0.0, 'nsnb': 0.0, 'nsb': 0.0
+infectors SB: {'snb': 0, 'sb': 2, 'nsnb': 0, 'nsb': 0} 
+**-------------------------**
+ Wed Jun 16 01:08:15 2021
+population: {'snb': 0, 'sb': 6452, 'nsnb': 0, 'nsb': 0} 
+sick divisions:
+ 'snb': 0.0, 'sb': 97.0, 'nsnb': 0.0, 'nsb': 0.0
+hospital divisions:
+ 'snb': 0.0, 'sb': 3.0, 'nsnb': 0.0, 'nsb': 0.0
+Dead divisions:
+ 'snb': 0.0, 'sb': 0.0, 'nsnb': 0.0, 'nsb': 0.0
+infectors SB: {'snb': 0, 'sb': 33, 'nsnb': 0, 'nsb': 0} 
+**-------------------------**
+ Wed Jun 16 01:08:59 2021
+population: {'snb': 0, 'sb': 6580, 'nsnb': 0, 'nsb': 0} 
+sick divisions:
+ 'snb': 0.0, 'sb': 6580.0, 'nsnb': 0.0, 'nsb': 0.0
+hospital divisions:
+ 'snb': 0.0, 'sb': 114.0, 'nsnb': 0.0, 'nsb': 0.0
+Dead divisions:
+ 'snb': 0.0, 'sb': 23.0, 'nsnb': 0.0, 'nsb': 0.0
+infectors SB: {'snb': 0, 'sb': 6515, 'nsnb': 0, 'nsb': 0} 
+**-------------------------**
+ Mon Jun 21 16:28:19 2021
+population: {'snb': 0, 'sb': 6542, 'nsnb': 0, 'nsb': 0} 
+sick divisions:
+ 'snb': 0.0, 'sb': 6542.0, 'nsnb': 0.0, 'nsb': 0.0
+hospital divisions:
+ 'snb': 0.0, 'sb': 129.0, 'nsnb': 0.0, 'nsb': 0.0
+Dead divisions:
+ 'snb': 0.0, 'sb': 27.0, 'nsnb': 0.0, 'nsb': 0.0
+infectors SB: {'snb': 0, 'sb': 6477, 'nsnb': 0, 'nsb': 0} 
+**-------------------------**
+ Sun Nov 21 19:13:08 2021
+population: {'snb': 0, 'sb': 6656, 'nsnb': 0, 'nsb': 0} 
+sick divisions:
+ 'snb': 0.0, 'sb': 6656.0, 'nsnb': 0.0, 'nsb': 0.0
+hospital divisions:
+ 'snb': 0.0, 'sb': 120.0, 'nsnb': 0.0, 'nsb': 0.0
+Dead divisions:
+ 'snb': 0.0, 'sb': 25.0, 'nsnb': 0.0, 'nsb': 0.0
+infectors SB: {'snb': 0, 'sb': 6590, 'nsnb': 0, 'nsb': 0} 
+**-------------------------**
+ Sun Nov 21 19:14:04 2021
+population: {'snb': 0, 'sb': 6524, 'nsnb': 0, 'nsb': 0} 
+sick divisions:
+ 'snb': 0.0, 'sb': 6524.0, 'nsnb': 0.0, 'nsb': 0.0
+hospital divisions:
+ 'snb': 0.0, 'sb': 132.0, 'nsnb': 0.0, 'nsb': 0.0
+Dead divisions:
+ 'snb': 0.0, 'sb': 28.0, 'nsnb': 0.0, 'nsb': 0.0
+infectors SB: {'snb': 0, 'sb': 6459, 'nsnb': 0, 'nsb': 0} 
+**-------------------------**
+ Sun Nov 21 19:50:08 2021
+population: {'snb': 0, 'sb': 6542, 'nsnb': 0, 'nsb': 0} 
+sick divisions:
+ 'snb': 0.0, 'sb': 6542.0, 'nsnb': 0.0, 'nsb': 0.0
+hospital divisions:
+ 'snb': 0.0, 'sb': 69.0, 'nsnb': 0.0, 'nsb': 0.0
+Dead divisions:
+ 'snb': 0.0, 'sb': 18.0, 'nsnb': 0.0, 'nsb': 0.0
+infectors SB: {'snb': 0, 'sb': 6477, 'nsnb': 0, 'nsb': 0} 
+**-------------------------**
+ Sun Nov 21 19:55:07 2021
+population: {'snb': 0, 'sb': 6542, 'nsnb': 0, 'nsb': 0} 
+sick divisions:
+ 'snb': 0.0, 'sb': 6542.0, 'nsnb': 0.0, 'nsb': 0.0
+hospital divisions:
+ 'snb': 0.0, 'sb': 59.0, 'nsnb': 0.0, 'nsb': 0.0
+Dead divisions:
+ 'snb': 0.0, 'sb': 12.0, 'nsnb': 0.0, 'nsb': 0.0
+infectors SB: {'snb': 0, 'sb': 6477, 'nsnb': 0, 'nsb': 0} 
+**-------------------------**
+ Sun Nov 21 20:13:36 2021
+population: {'snb': 0, 'sb': 6654, 'nsnb': 0, 'nsb': 0} 
+sick divisions:
+ 'snb': 0.0, 'sb': 6654.0, 'nsnb': 0.0, 'nsb': 0.0
+hospital divisions:
+ 'snb': 0.0, 'sb': 74.0, 'nsnb': 0.0, 'nsb': 0.0
+Dead divisions:
+ 'snb': 0.0, 'sb': 18.0, 'nsnb': 0.0, 'nsb': 0.0
+infectors SB: {'snb': 0, 'sb': 6588, 'nsnb': 0, 'nsb': 0} 
+**-------------------------**
+ Sun Nov 21 20:17:48 2021
+population: {'snb': 0, 'sb': 6724, 'nsnb': 0, 'nsb': 0} 
+sick divisions:
+ 'snb': 0.0, 'sb': 6724.0, 'nsnb': 0.0, 'nsb': 0.0
+hospital divisions:
+ 'snb': 0.0, 'sb': 86.0, 'nsnb': 0.0, 'nsb': 0.0
+Dead divisions:
+ 'snb': 0.0, 'sb': 17.0, 'nsnb': 0.0, 'nsb': 0.0
+infectors SB: {'snb': 0, 'sb': 6657, 'nsnb': 0, 'nsb': 0} 
+**-------------------------**
+ Sun Nov 21 20:20:23 2021
+population: {'snb': 0, 'sb': 6712, 'nsnb': 0, 'nsb': 0} 
+sick divisions:
+ 'snb': 0.0, 'sb': 6712.0, 'nsnb': 0.0, 'nsb': 0.0
+hospital divisions:
+ 'snb': 0.0, 'sb': 70.0, 'nsnb': 0.0, 'nsb': 0.0
+Dead divisions:
+ 'snb': 0.0, 'sb': 16.0, 'nsnb': 0.0, 'nsb': 0.0
+infectors SB: {'snb': 0, 'sb': 6645, 'nsnb': 0, 'nsb': 0} 
+**-------------------------**
+ Sun Nov 21 21:24:38 2021
+population: {'snb': 0, 'sb': 6574, 'nsnb': 0, 'nsb': 0} 
+sick divisions:
+ 'snb': 0.0, 'sb': 6574.0, 'nsnb': 0.0, 'nsb': 0.0
+hospital divisions:
+ 'snb': 0.0, 'sb': 83.0, 'nsnb': 0.0, 'nsb': 0.0
+Dead divisions:
+ 'snb': 0.0, 'sb': 15.0, 'nsnb': 0.0, 'nsb': 0.0
+infectors SB: {'snb': 0, 'sb': 6509, 'nsnb': 0, 'nsb': 0} 
+**-------------------------**
+ Sun Nov 21 21:26:07 2021
+population: {'snb': 0, 'sb': 6528, 'nsnb': 0, 'nsb': 0} 
+sick divisions:
+ 'snb': 0.0, 'sb': 136.0, 'nsnb': 0.0, 'nsb': 0.0
+hospital divisions:
+ 'snb': 0.0, 'sb': 3.0, 'nsnb': 0.0, 'nsb': 0.0
+Dead divisions:
+ 'snb': 0.0, 'sb': 1.0, 'nsnb': 0.0, 'nsb': 0.0
+infectors SB: {'snb': 0, 'sb': 71, 'nsnb': 0, 'nsb': 0} 
+**-------------------------**
+ Sun Nov 21 21:28:28 2021
+population: {'snb': 1366, 'sb': 1991, 'nsnb': 669, 'nsb': 2486} 
+sick divisions:
+ 'snb': 1273.0, 'sb': 926.0, 'nsnb': 614.0, 'nsb': 1203.0
+hospital divisions:
+ 'snb': 19.0, 'sb': 13.0, 'nsnb': 94.0, 'nsb': 209.0
+Dead divisions:
+ 'snb': 4.0, 'sb': 4.0, 'nsnb': 2.0, 'nsb': 4.0
+infectors SB: {'snb': 2137, 'sb': 369, 'nsnb': 984, 'nsb': 461} 

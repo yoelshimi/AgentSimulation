@@ -1,0 +1,12 @@
+
+Local current time :Sun Nov 21 21:29:12 2021
+mean, var of degree dist. : 17.005682690830902, 10.646948692966248
+people: 6511
+class size: 25 office size: 5
+beta S->E: 3.0 gamma E E->I: inf gamma R I->R: 0.25 iter per day: 24
+lockdown: 1
+mean weight: 0.181940049131173 fraction initially infected: 0.01
+Graph simulation : R0 direct: 2.781609195402299 Growth rate: 18.4375 R0 ratio infected at end: 1.8938336242001166
+max inf: 0.09230532944248196 at: 8328
+Dreg simulation : R0 direct: 2.5866666666666664 Growth rate: 13.200000000000003 R0 ratio infected at end: 2.608974358974359
+max inf: 0.15942251574258948 at: 6672

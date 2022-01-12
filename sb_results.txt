@@ -1,0 +1,19 @@
+
+**-------------------------**
+ Wed Jan 20 23:12:48 2021
+population: {'snb': 96, 'sb': 205, 'nsnb': 195, 'nsb': 159} 
+sick divisions:
+ 'snb': 89.0, 'sb': 143.0, 'nsnb': 179.0, 'nsb': 99.0
+hospital divisions:
+ 'snb': 17.0, 'sb': 26.0, 'nsnb': 1.0, 'nsb': 2.0
+Dead divisions:
+ 'snb': 3.0, 'sb': 5.0, 'nsnb': 0.0, 'nsb': 0.0
+**-------------------------**
+ Wed Jan 20 23:32:59 2021
+population: {'snb': 17, 'sb': 19, 'nsnb': 16, 'nsb': 18} 
+sick divisions:
+ 'snb': 15.0, 'sb': 9.0, 'nsnb': 15.0, 'nsb': 10.0
+hospital divisions:
+ 'snb': 4.0, 'sb': 0.0, 'nsnb': 0.0, 'nsb': 0.0
+Dead divisions:
+ 'snb': 0.0, 'sb': 0.0, 'nsnb': 0.0, 'nsb': 0.0

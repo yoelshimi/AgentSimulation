@@ -1,0 +1,995 @@
+
+clustered graph, size: 322
+first eig: 26.267761823449522
+ second eig:28.963867253023228 spectral gap: -2.6961054295737057
+gamma fitted graph first eig: -9.827082988192124 second eig: 25.211296402924223 spectral gap: -35.03837939111635
+clustered graph, size: 674
+first eig: 26.717057688584646
+ second eig:30.011769218207405 spectral gap: -3.2947115296227594
+gamma fitted graph first eig: 10.426351683954202 second eig: 26.958124214720975 spectral gap: -16.531772530766773
+clustered graph, size: 1649
+first eig: 26.93669213529175
+ second eig:29.94913440321374 spectral gap: -3.0124422679219904
+gamma fitted graph first eig: -10.35716028791761 second eig: 25.875947933083793 spectral gap: -36.2331082210014
+clustered graph, size: 3240
+first eig: 26.975353478842006
+ second eig:29.932060029753128 spectral gap: -2.9567065509111217
+gamma fitted graph first eig: -10.464101947407679 second eig: 26.29851366279201 spectral gap: -36.76261561019969
+clustered graph, size: 6586
+first eig: 27.104765897673392
+ second eig:29.99491595620984 spectral gap: -2.890150058536449
+gamma fitted graph first eig: -10.588172225471672 second eig: 26.55507912466508 spectral gap: -37.14325135013675
+clustered graph, size: 16521
+first eig: 27.120867649178475
+ second eig:30.066182733445345 spectral gap: -2.94531508426687
+gamma fitted graph first eig: 10.628402227297798 second eig: 26.841068843538057 spectral gap: -16.21266661624026
+clustered graph, size: 33073
+first eig: 27.16189438531009
+ second eig:30.106913261655805 spectral gap: -2.9450188763457135
+gamma fitted graph first eig: 10.648988934537769 second eig: 26.71560679538874 spectral gap: -16.06661786085097
+clustered graph, size: 66253
+first eig: 27.15180525188608
+ second eig:30.060102035480863 spectral gap: -2.908296783594782
+gamma fitted graph first eig: 10.65839780444541 second eig: 26.679081861803745 spectral gap: -16.020684057358334
+clustered graph, size: 335
+first eig: 26.193341714216768
+ second eig:29.237213430714807 spectral gap: -3.043871716498039
+gamma fitted graph first eig: -10.034421105012862 second eig: 26.392252518810917 spectral gap: -36.42667362382378
+clustered graph, size: 648
+first eig: 26.67683798861279
+ second eig:29.635329485718785 spectral gap: -2.958491497105996
+gamma fitted graph first eig: 10.136005992213843 second eig: 25.992035996028992 spectral gap: -15.85603000381515
+clustered graph, size: 1641
+first eig: 26.90734728580227
+ second eig:29.81744657075808 spectral gap: -2.910099284955809
+gamma fitted graph first eig: 10.401008954902933 second eig: 26.388349466249416 spectral gap: -15.987340511346483
+clustered graph, size: 3254
+first eig: 26.989941674142305
+ second eig:29.91900560570548 spectral gap: -2.9290639315631744
+gamma fitted graph first eig: 10.475968796626772 second eig: 26.520671179816347 spectral gap: -16.044702383189573
+clustered graph, size: 6626
+first eig: 27.100972617643684
+ second eig:30.01662021577031 spectral gap: -2.9156475981266254
+gamma fitted graph first eig: -10.613542780633857 second eig: 26.73026310737969 spectral gap: -37.34380588801355
+clustered graph, size: 16368
+first eig: 27.125508721347973
+ second eig:29.965876303524333 spectral gap: -2.840367582176359
+gamma fitted graph first eig: 10.627893760747511 second eig: 26.583758840449963 spectral gap: -15.955865079702452
+clustered graph, size: 32816
+first eig: 27.15049269000923
+ second eig:30.03341070032153 spectral gap: -2.8829180103122987
+gamma fitted graph first eig: 10.595120528006799 second eig: 26.527183146495044 spectral gap: -15.932062618488246
+clustered graph, size: 65867
+first eig: 27.13956944967757
+ second eig:30.01703483937482 spectral gap: -2.8774653896972495
+gamma fitted graph first eig: -10.612610124198754 second eig: 26.557261185563977 spectral gap: -37.16987130976273
+clustered graph, size: 656first eig: 29.50585252855071 second eig:26.6443244869792 spectral gap: 2.8615280415715105
+gamma fitted graph first eig: 25.894854953961556 second eig: -10.198339832274485 spectral gap: 36.09319478623604
+clustered graph, size: 1323first eig: 30.051927726413712 second eig:26.912288802794052 spectral gap: 3.1396389236196605
+gamma fitted graph first eig: 26.3585643971036 second eig: -10.454484801863934 spectral gap: 36.81304919896753
+clustered graph, size: 2542first eig: 29.73662003039197 second eig:26.987501759159144 spectral gap: 2.749118271232824
+gamma fitted graph first eig: 26.21014609983725 second eig: -10.386176373388366 spectral gap: 36.59632247322561
+clustered graph, size: 5383first eig: 30.038863945670702 second eig:27.101407143728544 spectral gap: 2.937456801942158
+gamma fitted graph first eig: 26.686266437931327 second eig: -10.590492549426799 spectral gap: 37.27675898735812
+clustered graph, size: 10414first eig: 30.006068225448026 second eig:27.13152124300734 spectral gap: 2.874546982440684
+gamma fitted graph first eig: 26.51703197642083 second eig: 10.573774209686366 spectral gap: 15.943257766734465
+clustered graph, size: 21030first eig: 30.063364247193853 second eig:27.14742795761524 spectral gap: 2.915936289578614
+gamma fitted graph first eig: 26.67746398334541 second eig: -10.703645368159998 spectral gap: 37.38110935150541
+clustered graph, size: 42007first eig: 30.069983184344093 second eig:27.160336750261038 spectral gap: 2.9096464340830543
+gamma fitted graph first eig: 26.637186179893366 second eig: -10.589204125996277 spectral gap: 37.226390305889645
+clustered graph, size: 675first eig: 29.938892490805898 second eig:26.58988968703923 spectral gap: 3.3490028037666697
+gamma fitted graph first eig: 27.0960389830834 second eig: 10.595309140444531 spectral gap: 16.50072984263887
+clustered graph, size: 1291first eig: 29.681643802704965 second eig:26.942842031540785 spectral gap: 2.73880177116418
+gamma fitted graph first eig: 26.052867768014192 second eig: -10.311823621026534 spectral gap: 36.36469138904073
+clustered graph, size: 2583first eig: 29.924773079580355 second eig:27.04849581856773 spectral gap: 2.876277261012625
+gamma fitted graph first eig: 26.284851995818048 second eig: -10.453211418703292 spectral gap: 36.73806341452134
+clustered graph, size: 5295first eig: 29.962035640102574 second eig:27.094125177168145 spectral gap: 2.8679104629344288
+gamma fitted graph first eig: 26.80699618870278 second eig: 10.55383837318884 spectral gap: 16.253157815513937
+clustered graph, size: 10564first eig: 30.053666443844325 second eig:27.0950994525678 spectral gap: 2.9585669912765233
+gamma fitted graph first eig: 26.69818932623576 second eig: -10.582906092022032 spectral gap: 37.28109541825779
+clustered graph, size: 21018first eig: 29.996135823519626 second eig:27.108965019192482 spectral gap: 2.8871708043271447
+gamma fitted graph first eig: 26.506019767437508 second eig: -10.616036746033796 spectral gap: 37.12205651347131
+clustered graph, size: 42087first eig: 30.05098053078885 second eig:27.151771477721827 spectral gap: 2.899209053067022
+gamma fitted graph first eig: 26.500778829318364 second eig: 10.579443330707857 spectral gap: 15.921335498610507
+clustered graph, size: 84442first eig: 30.050076673400742 second eig:27.16002777223198 spectral gap: 2.890048901168761
+gamma fitted graph first eig: 26.630779336284256 second eig: 10.6091128441824 spectral gap: 16.021666492101858
+clustered graph, size: 647first eig: 29.464344315935083 second eig:26.5802341608195 spectral gap: 2.8841101551155823
+gamma fitted graph first eig: 25.77860561959132 second eig: 10.096918091896349 spectral gap: 15.681687527694972
+clustered graph, size: 1319first eig: 30.081941256051913 second eig:26.98686967709249 spectral gap: 3.0950715789594234
+gamma fitted graph first eig: 26.561141064362875 second eig: 10.364394995158776 spectral gap: 16.1967460692041
+clustered graph, size: 2623first eig: 29.915733409782675 second eig:27.024628051350298 spectral gap: 2.8911053584323767
+gamma fitted graph first eig: 26.143421081133813 second eig: -10.373857066799777 spectral gap: 36.51727814793359
+clustered graph, size: 5229first eig: 29.89853714938963 second eig:27.069225288894394 spectral gap: 2.8293118604952348
+gamma fitted graph first eig: 26.36329218318201 second eig: -10.428771079888794 spectral gap: 36.7920632630708
+clustered graph, size: 10606first eig: 30.069023930963525 second eig:27.151026732001213 spectral gap: 2.9179971989623112
+gamma fitted graph first eig: 26.714995888750817 second eig: -10.59410237169632 spectral gap: 37.309098260447136
+clustered graph, size: 21003first eig: 30.04082460843867 second eig:27.135557940641363 spectral gap: 2.9052666677973065
+gamma fitted graph first eig: 26.545388137825398 second eig: 10.583829192087416 spectral gap: 15.961558945737982
+clustered graph, size: 42372first eig: 30.072989929970255 second eig:27.162679277895858 spectral gap: 2.910310652074397
+gamma fitted graph first eig: 26.662368354185745 second eig: -10.619182967289127 spectral gap: 37.28155132147487
+clustered graph, size: 84569first eig: 30.04873143865684 second eig:27.153072577463284 spectral gap: 2.8956588611935565
+gamma fitted graph first eig: 26.60084272820038 second eig: 10.589280467514996 spectral gap: 16.011562260685384
+clustered graph, size: 169059first eig: 30.054306684463626 second eig:27.16002929122002 spectral gap: 2.8942773932436054
+gamma fitted graph first eig: 26.637912132927354 second eig: -10.651492835813627 spectral gap: 37.28940496874098
+clustered graph, size: 342first eig: 29.48688646804286 second eig:26.23188056444993 spectral gap: 3.255005903592931
+gamma fitted graph first eig: 25.579730867011637 second eig: 9.865585589728159 spectral gap: 15.714145277283478
+clustered graph, size: 648first eig: 29.29879274589908 second eig:26.4399875921116 spectral gap: 2.858805153787479
+gamma fitted graph first eig: 25.751758669872512 second eig: 10.139394041792551 spectral gap: 15.61236462807996
+clustered graph, size: 1299first eig: 29.85608233477486 second eig:26.868339749388845 spectral gap: 2.987742585386016
+gamma fitted graph first eig: 26.179023677751072 second eig: 10.396297926679209 spectral gap: 15.782725751071863
+clustered graph, size: 2594first eig: 29.950275126013835 second eig:27.029641426158573 spectral gap: 2.920633699855262
+gamma fitted graph first eig: 26.543185121865054 second eig: 10.530562223687992 spectral gap: 16.012622898177064
+clustered graph, size: 5216first eig: 30.05501548468552 second eig:27.080466955813026 spectral gap: 2.974548528872493
+gamma fitted graph first eig: 26.59045099311077 second eig: 10.575362091097409 spectral gap: 16.01508890201336
+clustered graph, size: 10572first eig: 30.078953717564527 second eig:27.13112213797631 spectral gap: 2.947831579588218
+gamma fitted graph first eig: 26.834803673904897 second eig: 10.653080880838758 spectral gap: 16.18172279306614
+clustered graph, size: 317first eig: 29.392134597290777 second eig:25.997771237362578 spectral gap: 3.3943633599281995
+gamma fitted graph first eig: 26.475214816361532 second eig: 10.031199018275377 spectral gap: 16.444015798086156
+clustered graph, size: 653first eig: 29.33070184682492 second eig:26.794020736533994 spectral gap: 2.5366811102909246
+gamma fitted graph first eig: 25.045610660408016 second eig: 9.968094679210644 spectral gap: 15.077515981197372
+clustered graph, size: 1351first eig: 30.119762760017014 second eig:26.955212875495658 spectral gap: 3.1645498845213567
+gamma fitted graph first eig: 26.73456417647031 second eig: 10.584253739147623 spectral gap: 16.150310437322688
+clustered graph, size: 2638first eig: 29.91517671269508 second eig:27.051659211627662 spectral gap: 2.8635175010674168
+gamma fitted graph first eig: 26.35662915398992 second eig: 10.495943365210575 spectral gap: 15.860685788779346
+clustered graph, size: 5447first eig: 30.118046475231125 second eig:27.15589187280665 spectral gap: 2.9621546024244765
+gamma fitted graph first eig: 27.075898861447627 second eig: 10.62072887679242 spectral gap: 16.455169984655207
+clustered graph, size: 10604first eig: 30.018754750743685 second eig:27.085821030937637 spectral gap: 2.932933719806048
+gamma fitted graph first eig: 26.662021088939845 second eig: 10.551245854505673 spectral gap: 16.110775234434172
+clustered graph, size: 21333first eig: 30.11010518389886 second eig:27.157859307316734 spectral gap: 2.9522458765821256
+gamma fitted graph first eig: 26.567285849444954 second eig: 10.577739396424782 spectral gap: 15.989546453020171
+clustered graph, size: 42060first eig: 30.032292919682774 second eig:27.151826825348042 spectral gap: 2.880466094334732
+gamma fitted graph first eig: 26.514463466604287 second eig: 10.594167877983619 spectral gap: 15.920295588620668
+clustered graph, size: 84632first eig: 30.057640676962674 second eig:27.17596915194863 spectral gap: 2.881671525014042
+gamma fitted graph first eig: 26.575069917519663 second eig: 10.603608382519232 spectral gap: 15.971461535000431
+clustered graph, size: 169313first eig: 30.05667598259898 second eig:27.167001115442037 spectral gap: 2.889674867156941
+gamma fitted graph first eig: 26.58180823184303 second eig: 10.721140744255273 spectral gap: 15.860667487587758
+clustered graph, size: 337579first eig: 30.055453747779517 second eig:27.163358023129266 spectral gap: 2.8920957246502503
+gamma fitted graph first eig: 26.60259202423976 second eig: 10.704099065843552 spectral gap: 15.89849295839621
+clustered graph, size: 3311first eig: 30.03624161786859 second eig:27.069682634802994 spectral gap: 2.966558983065596
+gamma fitted graph first eig: 27.031993582337783 second eig: 10.57399327335963 spectral gap: 16.458000308978153
+clustered graph, size: 3133first eig: 29.76742322303433 second eig:27.03179165004096 spectral gap: 2.73563157299337
+gamma fitted graph first eig: 25.991786603326368 second eig: 10.448301128560596 spectral gap: 15.543485474765772
+clustered graph, size: 3397first eig: 30.07098865543241 second eig:27.111414876336767 spectral gap: 2.959573779095642
+gamma fitted graph first eig: 26.97550880966509 second eig: 10.618061130808751 spectral gap: 16.35744767885634
+clustered graph, size: 3335first eig: 29.9950013472436 second eig:27.06433689845859 spectral gap: 2.930664448785013
+gamma fitted graph first eig: 26.683631319166583 second eig: 10.5313653503974 spectral gap: 16.152265968769186
+clustered graph, size: 3271first eig: 29.951439368844152 second eig:27.001344944815486 spectral gap: 2.9500944240286664
+gamma fitted graph first eig: 26.232683837039467 second eig: 10.433650116262072 spectral gap: 15.799033720777395
+clustered graph, size: 3207first eig: 29.836522328680687 second eig:26.985374036620065 spectral gap: 2.8511482920606213
+gamma fitted graph first eig: 26.448739924220913 second eig: 10.485060662396688 spectral gap: 15.963679261824225
+clustered graph, size: 325first eig: 29.457501755852814 second eig:26.0943865005591 spectral gap: 3.363115255293714
+gamma fitted graph first eig: 26.276947537562844 second eig: 9.969175479201578 spectral gap: 16.307772058361266
+clustered graph, size: 350first eig: 29.505514204224653 second eig:26.221530141424612 spectral gap: 3.283984062800041
+gamma fitted graph first eig: 27.062400452870136 second eig: 10.287602709403073 spectral gap: 16.77479774346706
+clustered graph, size: 951first eig: 29.737450651951026 second eig:26.80594994068024 spectral gap: 2.931500711270786
+gamma fitted graph first eig: 25.998559119677005 second eig: 10.179608548188577 spectral gap: 15.818950571488427
+clustered graph, size: 1051first eig: 30.0136499940823 second eig:26.875152054750963 spectral gap: 3.1384979393313372
+gamma fitted graph first eig: 27.110205342578514 second eig: 10.413952596229784 spectral gap: 16.69625274634873
+clustered graph, size: 960first eig: 29.500490737464208 second eig:26.80071519482334 spectral gap: 2.699775542640868
+gamma fitted graph first eig: 25.545838615661882 second eig: 10.308663149593487 spectral gap: 15.237175466068395
+clustered graph, size: 312first eig: 29.127460608976495 second eig:26.258434115306546 spectral gap: 2.869026493669949
+gamma fitted graph first eig: 27.116676185033857 second eig: 9.941745976748946 spectral gap: 17.174930208284913
+clustered graph, size: 350first eig: 30.025815982123678 second eig:26.497990233474493 spectral gap: 3.5278257486491853
+gamma fitted graph first eig: 26.347464890664305 second eig: 10.001193716718635 spectral gap: 16.34627117394567
+clustered graph, size: 338first eig: 29.015918162899393 second eig:26.170413559300865 spectral gap: 2.8455046035985276
+gamma fitted graph first eig: 25.142518088519623 second eig: 9.998174230291442 spectral gap: 15.144343858228181
+clustered graph, size: 354first eig: 29.402163438024033 second eig:26.241273296174732 spectral gap: 3.1608901418493005
+gamma fitted graph first eig: 25.841518321579816 second eig: 10.099442426741454 spectral gap: 15.742075894838361
+clustered graph, size: 381first eig: 29.826502976591353 second eig:26.31888943893543 spectral gap: 3.5076135376559243
+gamma fitted graph first eig: 27.433531763272338 second eig: 10.287902025248078 spectral gap: 17.14562973802426
+clustered graph, size: 321first eig: 29.27222117730753 second eig:26.08380784670352 spectral gap: 3.188413330604007
+gamma fitted graph first eig: 25.075592025858548 second eig: 9.822025156760215 spectral gap: 15.253566869098332
+clustered graph, size: 331first eig: 29.467324228363648 second eig:26.101708082200513 spectral gap: 3.365616146163134
+gamma fitted graph first eig: 26.29946893502121 second eig: 10.181436316020307 spectral gap: 16.118032619000903
+clustered graph, size: 3291first eig: 30.04574682639295 second eig:26.99189745935886 spectral gap: 3.05384936703409
+gamma fitted graph first eig: 26.59491026366486 second eig: 10.685629726762167 spectral gap: 15.909280536902694
+clustered graph, size: 3294first eig: 29.947164786483157 second eig:27.07848217900012 spectral gap: 2.868682607483038
+gamma fitted graph first eig: 26.457169568134777 second eig: 10.523420862429472 spectral gap: 15.933748705705305
+clustered graph, size: 3265first eig: 29.95312739551974 second eig:27.04959161100387 spectral gap: 2.9035357845158707
+gamma fitted graph first eig: 26.533941435108467 second eig: 10.51666680673382 spectral gap: 16.017274628374647
+clustered graph, size: 3291first eig: 15.57239089958846 second eig:15.124940067610913 spectral gap: 0.4474508319775463
+gamma fitted graph first eig: 12.6101611028785 second eig: 4.932109623249234 spectral gap: 7.678051479629266
+clustered graph, size: 3285first eig: 12.094361031653252 second eig:11.917266438412774 spectral gap: 0.1770945932404775
+gamma fitted graph first eig: 9.602843755890232 second eig: 4.716727980631815 spectral gap: 4.886115775258417
+clustered graph, size: 337first eig: 11.686094877298753 second eig:11.380082549536736 spectral gap: 0.3060123277620175
+gamma fitted graph first eig: 9.616223552199864 second eig: 4.418774384854048 spectral gap: 5.197449167345816
+clustered graph, size: 371first eig: 12.015402547174862 second eig:11.599051934236641 spectral gap: 0.4163506129382206
+gamma fitted graph first eig: 10.379267152003873 second eig: 4.7031915031418094 spectral gap: 5.676075648862064
+clustered graph, size: 343first eig: 11.625539305295028 second eig:11.345361223506961 spectral gap: 0.28017808178806725
+gamma fitted graph first eig: 9.58882951158302 second eig: 4.520293898430361 spectral gap: 5.068535613152659
+clustered graph, size: 330first eig: 11.674819322325373 second eig:11.396588115877185 spectral gap: 0.2782312064481882
+gamma fitted graph first eig: 9.183976182040528 second eig: 4.390353600703976 spectral gap: 4.793622581336552
+clustered graph, size: 328first eig: 11.613676270954752 second eig:11.386387298861647 spectral gap: 0.2272889720931044
+gamma fitted graph first eig: 10.240503359637888 second eig: 4.639919507063626 spectral gap: 5.600583852574262
+clustered graph, size: 310first eig: 8.96993677697343 second eig:8.87720664664495 spectral gap: 0.09273013032847999
+gamma fitted graph first eig: 4.063692762914791 second eig: 2.071095497162582 spectral gap: 1.9925972657522095
+clustered graph, size: 329first eig: 9.685580818075643 second eig:9.504365407899648 spectral gap: 0.1812154101759944
+gamma fitted graph first eig: 5.839286460466075 second eig: 2.85017031686514 spectral gap: 2.9891161436009344
+clustered graph, size: 3321first eig: 9.737218172242585 second eig:9.678543651918972 spectral gap: 0.05867452032361342
+gamma fitted graph first eig: 6.740362330546878 second eig: 3.265028714432965 spectral gap: 3.4753336161139132
+clustered graph, size: 3280first eig: 18.694213383828966 second eig:18.593383990881815 spectral gap: 0.10082939294715132
+gamma fitted graph first eig: 12.253904596835786 second eig: 6.212595331054498 spectral gap: 6.041309265781289
+clustered graph, size: 3276first eig: 18.785936920960843 second eig:18.686403857979645 spectral gap: 0.09953306298119813
+gamma fitted graph first eig: 12.254401175185771 second eig: 6.052244666661778 spectral gap: 6.202156508523993
+clustered graph, size: 3224first eig: 18.723626357525973 second eig:18.58486377203544 spectral gap: 0.13876258549053233
+gamma fitted graph first eig: 12.404477095339134 second eig: 6.110656764839239 spectral gap: 6.293820330499895
+clustered graph, size: 3266first eig: 18.757434863017313 second eig:18.660360834266108 spectral gap: 0.09707402875120508
+gamma fitted graph first eig: 12.20584491257683 second eig: 6.0411946034449375 spectral gap: 6.164650309131892
+clustered graph, size: 3276first eig: 18.782551582295444 second eig:18.64466529453125 spectral gap: 0.13788628776419287
+gamma fitted graph first eig: 12.447533881191626 second eig: 6.1462575312723775 spectral gap: 6.301276349919249
+clustered graph, size: 3304first eig: 18.72668993295821 second eig:18.623581851428415 spectral gap: 0.10310808152979334
+gamma fitted graph first eig: 12.541468603359723 second eig: 6.142161306466374 spectral gap: 6.399307296893349
+clustered graph, size: 3252first eig: 18.447469654184005 second eig:18.416185902949405 spectral gap: 0.03128375123460003
+gamma fitted graph first eig: 6.0026087803616885 second eig: 6.108313315202839 spectral gap: -0.10570453484115028
+clustered graph, size: 3244first eig: 18.42856418372439 second eig:18.408863875269244 spectral gap: 0.019700308455146143
+gamma fitted graph first eig: 6.0041188557257446 second eig: 6.0579822749913435 spectral gap: -0.0538634192655989
+clustered graph, size: 3375first eig: 18.40912925716241 second eig:18.397794250488072 spectral gap: 0.011335006674336512
+gamma fitted graph first eig: 6.143462627570709 second eig: 6.197933988826564 spectral gap: -0.054471361255854944
+clustered graph, size: 3183first eig: 18.386076445412314 second eig:18.36413188543745 spectral gap: 0.021944559974865996
+gamma fitted graph first eig: 5.865205157169478 second eig: 5.928248117935385 spectral gap: -0.0630429607659071
+clustered graph, size: 3169first eig: 18.430698436286377 second eig:18.41797766453308 spectral gap: 0.012720771753297555
+gamma fitted graph first eig: 5.860434149313754 second eig: 5.87540424488784 spectral gap: -0.01497009557408635
+clustered graph, size: 3240first eig: 18.459228929233063 second eig:18.446524565828813 spectral gap: 0.012704363404250074
+gamma fitted graph first eig: 5.975700124708887 second eig: 6.037759018436686 spectral gap: -0.06205889372779971
+clustered graph, size: 3292first eig: 18.422169829762357 second eig:18.41929222767702 spectral gap: 0.002877602085337827
+gamma fitted graph first eig: 6.092761580015038 second eig: 6.120902484664018 spectral gap: -0.028140904648980225
+clustered graph, size: 3342first eig: 18.408550877136477 second eig:18.402914050372797 spectral gap: 0.005636826763680602
+gamma fitted graph first eig: 6.040731128036023 second eig: 6.167164462986339 spectral gap: -0.12643333495031595
+clustered graph, size: 3239first eig: 18.4460257997149 second eig:18.429560101003652 spectral gap: 0.016465698711247256
+gamma fitted graph first eig: 5.989550085727661 second eig: 6.070183953578822 spectral gap: -0.08063386785116133
+clustered graph, size: 335first eig: 3.5623484730084045 second eig:3.8696789238365614 spectral gap: -0.3073304508281569
+gamma fitted graph first eig: 5.757873538689885 second eig: 5.887971587570967 spectral gap: -0.13009804888108256
+clustered graph, size: 341first eig: 3.6727213357727617 second eig:3.880742152370189 spectral gap: -0.20802081659742733
+gamma fitted graph first eig: 5.874262897705858 second eig: 6.087146013513616 spectral gap: -0.21288311580775776
+clustered graph, size: 318first eig: 3.835977650851095 second eig:3.8852402264785995 spectral gap: -0.04926257562750447
+gamma fitted graph first eig: 5.641424248572734 second eig: 5.916726468077524 spectral gap: -0.2753022195047903
+clustered graph, size: 343first eig: 3.8834888295220362 second eig:3.7213990960041117 spectral gap: 0.16208973351792455
+gamma fitted graph first eig: 5.628390009944684 second eig: 5.799204351492442 spectral gap: -0.1708143415477581
+clustered graph, size: 336first eig: 3.692097899512085 second eig:3.785030301915019 spectral gap: -0.09293240240293432
+gamma fitted graph first eig: 5.8652662853143065 second eig: 5.9771421052254325 spectral gap: -0.11187581991112605
+clustered graph, size: 313first eig: 3.8596771072120215 second eig:3.7937418153175293 spectral gap: 0.06593529189449221
+gamma fitted graph first eig: 5.463103451796187 second eig: 5.58110703885594 spectral gap: -0.11800358705975267
+clustered graph, size: 327first eig: 3.339990376225031 second eig:3.509664933391042 spectral gap: -0.1696745571660112
+gamma fitted graph first eig: 5.543166864797827 second eig: 5.8360220956288185 spectral gap: -0.2928552308309911
+clustered graph, size: 334first eig: 3.552916192756833 second eig:3.7384575311002797 spectral gap: -0.18554133834344677
+gamma fitted graph first eig: 5.49539639726275 second eig: 5.589063966346613 spectral gap: -0.09366756908386265
+clustered graph, size: 324first eig: 4.146943505494417 second eig:3.9490612826695486 spectral gap: 0.19788222282486867
+gamma fitted graph first eig: 5.315728571462744 second eig: 5.526479430654622 spectral gap: -0.21075085919187853
+clustered graph, size: 293first eig: 3.599528257611507 second eig:3.6496892142812256 spectral gap: -0.05016095666971854
+gamma fitted graph first eig: 4.952552182383656 second eig: 5.142578311824092 spectral gap: -0.19002612944043662
+clustered graph, size: 321first eig: 3.7081675961407026 second eig:3.8183540883152354 spectral gap: -0.1101864921745328
+gamma fitted graph first eig: 5.690752665237915 second eig: 5.8084318216878845 spectral gap: -0.11767915644996929
+clustered graph, size: 352first eig: 3.589587062782975 second eig:3.647263337086615 spectral gap: -0.057676274303640085
+gamma fitted graph first eig: 5.752756775826173 second eig: 5.919791176565399 spectral gap: -0.16703440073922593
+clustered graph, size: 351first eig: 3.714355674531277 second eig:3.8719188527668607 spectral gap: -0.15756317823558375
+gamma fitted graph first eig: 5.766145736121745 second eig: 6.036768585449778 spectral gap: -0.27062284932803315
+clustered graph, size: 342first eig: 3.5717501420319384 second eig:3.717418293839971 spectral gap: -0.1456681518080325
+gamma fitted graph first eig: 5.720356414666397 second eig: 5.7661397211967635 spectral gap: -0.04578330653036655
+clustered graph, size: 348first eig: 3.403389813286372 second eig:3.6011059010208273 spectral gap: -0.19771608773445548
+gamma fitted graph first eig: 5.544763411726969 second eig: 5.62377696433123 spectral gap: -0.07901355260426168
+clustered graph, size: 308first eig: 3.530231906692868 second eig:3.602546753424474 spectral gap: -0.07231484673160615
+gamma fitted graph first eig: 5.4988533990280635 second eig: 5.66117160426078 spectral gap: -0.16231820523271612
+clustered graph, size: 322first eig: 3.488764578100483 second eig:3.621523969883269 spectral gap: -0.13275939178278628
+gamma fitted graph first eig: 5.267426256235536 second eig: 5.417478111702918 spectral gap: -0.15005185546738176
+clustered graph, size: 296first eig: 3.317186581804784 second eig:3.488306931972927 spectral gap: -0.1711203501681431
+gamma fitted graph first eig: 5.090255311786046 second eig: 5.407259422194522 spectral gap: -0.317004110408476
+clustered graph, size: 322first eig: 3.9439592192543667 second eig:3.8591918437507347 spectral gap: 0.084767375503632
+gamma fitted graph first eig: 5.3731222161188095 second eig: 5.6517586324037055 spectral gap: -0.278636416284896
+clustered graph, size: 772first eig: 18.026265600406848 second eig:17.93889196707548 spectral gap: 0.08737363333136727
+gamma fitted graph first eig: 5.883750227894703 second eig: 5.9867915714328515 spectral gap: -0.10304134353814831
+clustered graph, size: 833first eig: 19.39292312911391 second eig:19.27441955800775 spectral gap: 0.11850357110616017
+gamma fitted graph first eig: 8.56995297481837 second eig: 8.761452848669952 spectral gap: -0.19149987385158163
+clustered graph, size: 800first eig: 18.007955771373247 second eig:17.914260798930652 spectral gap: 0.09369497244259506
+gamma fitted graph first eig: 5.7783859263734625 second eig: 5.973652558701428 spectral gap: -0.19526663232796526
+clustered graph, size: 866first eig: 18.104858040292978 second eig:18.062911940219063 spectral gap: 0.04194610007391475
+gamma fitted graph first eig: 5.925999853450193 second eig: 5.947155332149993 spectral gap: -0.021155478699800057
+clustered graph, size: 807first eig: 18.130608548808514 second eig:18.097387852172933 spectral gap: 0.03322069663558125
+gamma fitted graph first eig: 5.817180506159307 second eig: 5.87828378074879 spectral gap: -0.06110327458948284
+clustered graph, size: 782first eig: 29.682116956691836 second eig:29.25658645116617 spectral gap: 0.4255305055256642
+gamma fitted graph first eig: 12.143312951627125 second eig: 12.454709545312861 spectral gap: -0.31139659368573547
+clustered graph, size: 850first eig: 30.516353384245356 second eig:29.86852030052876 spectral gap: 0.6478330837165949
+gamma fitted graph first eig: 13.156524182444866 second eig: 13.434664155995188 spectral gap: -0.2781399735503225
+clustered graph, size: 358first eig: 23.54966218145461 second eig:22.164330568500688 spectral gap: 1.385331612953923
+gamma fitted graph first eig: 12.588722855776622 second eig: 12.726552548811048 spectral gap: -0.13782969303442627
+clustered graph, size: 803first eig: 30.45823001048424 second eig:30.054259404847596 spectral gap: 0.4039706056366441
+gamma fitted graph first eig: 12.653060487464552 second eig: 12.879490709827436 spectral gap: -0.22643022236288424
+clustered graph, size: 803first eig: 29.372052363576557 second eig:28.972059905100874 spectral gap: 0.3999924584756833
+gamma fitted graph first eig: 12.551636806099685 second eig: 12.867070172652301 spectral gap: -0.31543336655261633
+clustered graph, size: 858first eig: 30.65916509472968 second eig:30.15096818334132 spectral gap: 0.5081969113883602
+gamma fitted graph first eig: 12.765434836244834 second eig: 13.03681536638948 spectral gap: -0.27138053014464525
+clustered graph, size: 745first eig: 28.61547345668257 second eig:28.047733860437404 spectral gap: 0.5677395962451648
+gamma fitted graph first eig: 12.341055556942504 second eig: 12.47404637228589 spectral gap: -0.13299081534338697
+clustered graph, size: 842first eig: 19.371853013141063 second eig:19.28566916052471 spectral gap: 0.08618385261635453
+gamma fitted graph first eig: 8.480416863215078 second eig: 8.59094653087134 spectral gap: -0.11052966765626238
+clustered graph, size: 753first eig: 19.240355739398655 second eig:19.204424823792273 spectral gap: 0.035930915606382285
+gamma fitted graph first eig: 8.15663168125213 second eig: 8.336630478487379 spectral gap: -0.1799987972352497
+clustered graph, size: 881first eig: 19.445498570927793 second eig:19.412503926888668 spectral gap: 0.032994644039124665
+gamma fitted graph first eig: 8.752353990063138 second eig: 8.91225583834563 spectral gap: -0.159901848282491
+clustered graph, size: 835first eig: 19.37470820213186 second eig:19.29867643498389 spectral gap: 0.07603176714797044
+gamma fitted graph first eig: 8.417827063377038 second eig: 8.528131951559192 spectral gap: -0.11030488818215467
+clustered graph, size: 817first eig: 19.252723868435748 second eig:19.221847525835308 spectral gap: 0.0308763426004397
+gamma fitted graph first eig: 8.5985369063858 second eig: 9.005195053794406 spectral gap: -0.4066581474086064
+clustered graph, size: 822first eig: 19.422630049041008 second eig:19.341557607148886 spectral gap: 0.08107244189212182
+gamma fitted graph first eig: 8.429437580540158 second eig: 8.588611789577637 spectral gap: -0.15917420903747903
+clustered graph, size: 846first eig: 19.3334041262981 second eig:19.284970016836745 spectral gap: 0.04843410946135407
+gamma fitted graph first eig: 8.276518698237648 second eig: 8.38688575609188 spectral gap: -0.11036705785423173
+clustered graph, size: 813first eig: 19.327014313646732 second eig:19.321469271985745 spectral gap: 0.005545041660987238
+gamma fitted graph first eig: 8.210869428947223 second eig: 8.605794476433964 spectral gap: -0.3949250474867405
+clustered graph, size: 780first eig: 19.322166818178662 second eig:19.207580347058958 spectral gap: 0.11458647111970421
+gamma fitted graph first eig: 8.378670710754394 second eig: 8.518378802269686 spectral gap: -0.13970809151529195
+clustered graph, size: 830first eig: 19.347246728696536 second eig:19.31207341798343 spectral gap: 0.035173310713105366
+gamma fitted graph first eig: 8.392288533110461 second eig: 8.589088576648873 spectral gap: -0.19680004353841163
+clustered graph, size: 840first eig: 19.38708832997135 second eig:19.346964655619164 spectral gap: 0.040123674352184224
+gamma fitted graph first eig: 8.313410407750352 second eig: 8.571254727898225 spectral gap: -0.25784432014787306
+clustered graph, size: 793first eig: 19.34283176919315 second eig:19.308526864564502 spectral gap: 0.0343049046286481
+gamma fitted graph first eig: 8.446809536445118 second eig: 8.590783666098332 spectral gap: -0.14397412965321443
+clustered graph, size: 889first eig: 19.517703387501765 second eig:19.445652715650873 spectral gap: 0.0720506718508922
+gamma fitted graph first eig: 8.550873883799332 second eig: 8.61767166768137 spectral gap: -0.06679778388203772
+clustered graph, size: 818first eig: 19.4426484950843 second eig:19.348413224974973 spectral gap: 0.09423527010932631
+gamma fitted graph first eig: 8.415060623156853 second eig: 8.683593556952417 spectral gap: -0.268532933795564
+clustered graph, size: 826first eig: 19.3143656589431 second eig:19.242501595193783 spectral gap: 0.07186406374931664
+gamma fitted graph first eig: 8.312270484562287 second eig: 8.545657361329805 spectral gap: -0.23338687676751846
+clustered graph, size: 870first eig: 19.460015339859712 second eig:19.3381331926763 spectral gap: 0.12188214718341328
+gamma fitted graph first eig: 8.765419024603824 second eig: 8.96969452190946 spectral gap: -0.20427549730563577
+clustered graph, size: 821first eig: 19.344622385290315 second eig:19.305693421846627 spectral gap: 0.03892896344368779
+gamma fitted graph first eig: 8.318278741488472 second eig: 8.38465882276405 spectral gap: -0.06638008127557882
+clustered graph, size: 832first eig: 19.370163839305352 second eig:19.28725197812772 spectral gap: 0.08291186117763161
+gamma fitted graph first eig: 8.401022118955423 second eig: 8.553520421356119 spectral gap: -0.15249830240069606
+clustered graph, size: 748first eig: 19.19380656529043 second eig:19.14172016052333 spectral gap: 0.052086404767099026
+gamma fitted graph first eig: 8.312165014651306 second eig: 8.42365688465322 spectral gap: -0.11149187000191318
+clustered graph, size: 761first eig: 19.314534759671364 second eig:19.25310337426906 spectral gap: 0.06143138540230453
+gamma fitted graph first eig: 8.278352071274748 second eig: 8.574752064781674 spectral gap: -0.2963999935069257
+clustered graph, size: 815first eig: 19.33632182117774 second eig:19.30759537808721 spectral gap: 0.028726443090530296
+gamma fitted graph first eig: 8.536868301582128 second eig: 8.668536470428986 spectral gap: -0.13166816884685772
+clustered graph, size: 852first eig: 19.358930051536337 second eig:19.322297612342286 spectral gap: 0.0366324391940509
+gamma fitted graph first eig: 8.37083980761554 second eig: 8.42367550128016 spectral gap: -0.05283569366461904
+clustered graph, size: 814first eig: 19.384691700611853 second eig:19.27876869148276 spectral gap: 0.1059230091290928
+gamma fitted graph first eig: 8.347183273391433 second eig: 8.527996909864372 spectral gap: -0.1808136364729389
+clustered graph, size: 827first eig: 19.351403223718687 second eig:19.314255442353346 spectral gap: 0.03714778136534136
+gamma fitted graph first eig: 7.0451814369267485 second eig: 7.188069802911138 spectral gap: -0.1428883659843896
+clustered graph, size: 851first eig: 19.352386302004874 second eig:19.290912585011608 spectral gap: 0.06147371699326598
+gamma fitted graph first eig: 7.0460233394875305 second eig: 7.092695833775274 spectral gap: -0.04667249428774323
+clustered graph, size: 902first eig: 19.391152976798043 second eig:19.358918687124984 spectral gap: 0.032234289673059635
+gamma fitted graph first eig: 7.545068839468236 second eig: 7.61029788139822 spectral gap: -0.06522904192998435
+clustered graph, size: 783first eig: 19.340553952625278 second eig:19.292825942478736 spectral gap: 0.04772801014654249
+gamma fitted graph first eig: 7.054468742459311 second eig: 7.216739170602218 spectral gap: -0.16227042814290726
+clustered graph, size: 818first eig: 19.32720261070311 second eig:19.290767481290573 spectral gap: 0.03643512941253846
+gamma fitted graph first eig: 7.055495528842447 second eig: 7.1685345658668735 spectral gap: -0.11303903702442675
+clustered graph, size: 855first eig: 19.424540055983268 second eig:19.390662815803502 spectral gap: 0.03387724017976623
+gamma fitted graph first eig: 7.038662358471636 second eig: 7.061461168791367 spectral gap: -0.02279881031973119
+clustered graph, size: 774first eig: 19.300029148923254 second eig:19.26542778189975 spectral gap: 0.03460136702350525
+gamma fitted graph first eig: 6.998192397526895 second eig: 7.043588822035045 spectral gap: -0.045396424508149735
+clustered graph, size: 779first eig: 19.292204668995243 second eig:19.25137323118908 spectral gap: 0.04083143780616183
+gamma fitted graph first eig: 7.092821484339004 second eig: 7.193645813460906 spectral gap: -0.10082432912190153
+clustered graph, size: 843first eig: 19.486067163992484 second eig:19.385371554640592 spectral gap: 0.10069560935189159
+gamma fitted graph first eig: 7.059828009420755 second eig: 7.138914158667427 spectral gap: -0.07908614924667212
+clustered graph, size: 3273first eig: 19.785305645381598 second eig:19.782692050957163 spectral gap: 0.002613594424435206
+gamma fitted graph first eig: 7.147587482912334 second eig: 7.195669114104677 spectral gap: -0.048081631192343544
+clustered graph, size: 3358first eig: 19.80385682392836 second eig:19.769416225986504 spectral gap: 0.034440597941856055
+gamma fitted graph first eig: 7.137704435538068 second eig: 7.1569103917789745 spectral gap: -0.019205956240906374
+clustered graph, size: 3314first eig: 19.771381725472484 second eig:19.758423514088093 spectral gap: 0.012958211384390239
+gamma fitted graph first eig: 7.128210511954638 second eig: 7.156058498557275 spectral gap: -0.02784798660263732
+clustered graph, size: 817first eig: 19.34077674806228 second eig:19.301351744863165 spectral gap: 0.03942500319911346
+gamma fitted graph first eig: 7.083504926269402 second eig: 7.179449889318212 spectral gap: -0.09594496304880984
+clustered graph, size: 843first eig: 19.38151428641191 second eig:19.363535143007304 spectral gap: 0.017979143404605935
+gamma fitted graph first eig: 7.040626209128922 second eig: 7.098432988410572 spectral gap: -0.05780677928165012
+clustered graph, size: 800first eig: 19.35074450303222 second eig:19.298165507648935 spectral gap: 0.05257899538328559
+gamma fitted graph first eig: 7.031593609205938 second eig: 7.112692203694365 spectral gap: -0.08109859448842727
+clustered graph, size: 795first eig: 19.378606581342883 second eig:19.352406999625988 spectral gap: 0.02619958171689518
+gamma fitted graph first eig: 7.0420746867221276 second eig: 7.102044282666199 spectral gap: -0.059969595944071585
+clustered graph, size: 823first eig: 19.30400062931252 second eig:19.29602705247614 spectral gap: 0.00797357683637756
+gamma fitted graph first eig: 7.046101492067475 second eig: 7.078208466737364 spectral gap: -0.03210697466988943
+clustered graph, size: 808first eig: 19.405705070835136 second eig:19.371532315507007 spectral gap: 0.0341727553281288
+gamma fitted graph first eig: 7.032756864053641 second eig: 7.135782308157999 spectral gap: -0.10302544410435832
+clustered graph, size: 868first eig: 19.429374201225606 second eig:19.39349305521319 spectral gap: 0.03588114601241443
+gamma fitted graph first eig: 7.082760615338202 second eig: 7.214069745068745 spectral gap: -0.13130912973054265
+clustered graph, size: 833first eig: 19.331584241200396 second eig:19.279983175859666 spectral gap: 0.051601065340729946
+gamma fitted graph first eig: 7.046586181849323 second eig: 7.057380957620434 spectral gap: -0.010794775771111098
+clustered graph, size: 815first eig: 19.350185260358696 second eig:19.304980035527887 spectral gap: 0.04520522483080924
+gamma fitted graph first eig: 7.048187156449064 second eig: 7.081187412037782 spectral gap: -0.033000255588717664
+clustered graph, size: 831first eig: 19.391523616485923 second eig:19.299481558415106 spectral gap: 0.09204205807081678
+gamma fitted graph first eig: 7.020175781586147 second eig: 7.076564589756512 spectral gap: -0.0563888081703654
+clustered graph, size: 877first eig: 19.43472048376946 second eig:19.411824195775168 spectral gap: 0.022896287994292663
+gamma fitted graph first eig: 7.601995298119289 second eig: 7.678099297302889 spectral gap: -0.07610399918360056
+clustered graph, size: 858first eig: 19.4076858936869 second eig:19.39335498969871 spectral gap: 0.014330903988188481
+gamma fitted graph first eig: 7.0909686206777485 second eig: 7.10279011738656 spectral gap: -0.011821496708811274
+clustered graph, size: 818first eig: 19.4018736978508 second eig:19.3119688464155 spectral gap: 0.0899048514352998
+gamma fitted graph first eig: 7.099279705746792 second eig: 7.1952578192803465 spectral gap: -0.09597811353355468
+clustered graph, size: 829first eig: 19.369742789837048 second eig:19.28090013976375 spectral gap: 0.08884265007329617
+gamma fitted graph first eig: 7.055896425355836 second eig: 7.068657166244044 spectral gap: -0.012760740888208666
+clustered graph, size: 834first eig: 19.38753701676179 second eig:19.319048075774337 spectral gap: 0.06848894098745362
+gamma fitted graph first eig: 7.0501158791573655 second eig: 7.070647822245521 spectral gap: -0.020531943088155202
+clustered graph, size: 863first eig: 19.376545740902657 second eig:19.318469774600903 spectral gap: 0.05807596630175382
+gamma fitted graph first eig: 7.120408213964564 second eig: 7.186451613541405 spectral gap: -0.06604339957684147
+clustered graph, size: 819first eig: 19.334588734213927 second eig:19.304961078412727 spectral gap: 0.029627655801199637
+gamma fitted graph first eig: 7.035204255433996 second eig: 7.132945929215319 spectral gap: -0.09774167378132326
+clustered graph, size: 807first eig: 19.408125229154578 second eig:19.394500243355374 spectral gap: 0.013624985799204126
+gamma fitted graph first eig: 7.0293999051284155 second eig: 7.10014885958752 spectral gap: -0.07074895445910467
+clustered graph, size: 834first eig: 19.369766920025363 second eig:19.30977808018065 spectral gap: 0.05998883984471348
+gamma fitted graph first eig: 7.000128332079179 second eig: 7.147129378119402 spectral gap: -0.14700104604022268
+clustered graph, size: 805first eig: 19.317028448580988 second eig:19.212620106986066 spectral gap: 0.1044083415949224
+gamma fitted graph first eig: 7.076794162026015 second eig: 7.118816426783614 spectral gap: -0.04202226475759829
+clustered graph, size: 799first eig: 19.337178143004923 second eig:19.260421580942367 spectral gap: 0.0767565620625561
+gamma fitted graph first eig: 7.06545729969798 second eig: 7.208800421596651 spectral gap: -0.14334312189867138
+clustered graph, size: 784first eig: 19.23795874624427 second eig:19.203280245924482 spectral gap: 0.034678500319788697
+gamma fitted graph first eig: 6.985737606642192 second eig: 7.0648427102047835 spectral gap: -0.0791051035625916
+clustered graph, size: 781first eig: 19.26799521770855 second eig:19.205051125674405 spectral gap: 0.06294409203414375
+gamma fitted graph first eig: 7.036075226226826 second eig: 7.105964235388294 spectral gap: -0.0698890091614679
+clustered graph, size: 810first eig: 19.252587275406675 second eig:19.158784829887267 spectral gap: 0.0938024455194082
+gamma fitted graph first eig: 7.0671908714898715 second eig: 7.085105228459608 spectral gap: -0.017914356969736644
+clustered graph, size: 862first eig: 19.43801866496865 second eig:19.385933306737222 spectral gap: 0.05208535823142668
+gamma fitted graph first eig: 7.123089472234406 second eig: 7.141587350608192 spectral gap: -0.018497878373786136
+clustered graph, size: 871first eig: 19.386701631685245 second eig:19.327476847422528 spectral gap: 0.05922478426271738
+gamma fitted graph first eig: 7.491383270139982 second eig: 7.534020824057825 spectral gap: -0.0426375539178423
+clustered graph, size: 824first eig: 19.368136454907205 second eig:19.333659990429336 spectral gap: 0.03447646447786923
+gamma fitted graph first eig: 7.057394568159318 second eig: 7.165524959108856 spectral gap: -0.10813039094953769
+clustered graph, size: 3276first eig: 19.79582058642847 second eig:19.746137732195585 spectral gap: 0.04968285423288421
+gamma fitted graph first eig: 7.1795062449239335 second eig: 7.219204486238084 spectral gap: -0.03969824131415045
+clustered graph, size: 3386first eig: 19.860261997453286 second eig:19.833708635787062 spectral gap: 0.026553361666223907
+gamma fitted graph first eig: 7.149255203157731 second eig: 7.171095919908908 spectral gap: -0.021840716751177602
+clustered graph, size: 74first eig: 3.894319760825019 second eig:4.1897067293715216 spectral gap: -0.2953869685465027
+gamma fitted graph first eig: 6.144744043173219 second eig: 6.460176519507395 spectral gap: -0.31543247633417604
+clustered graph, size: 54first eig: 3.548084738270725 second eig:3.7383906139275838 spectral gap: -0.19030587565685897
+gamma fitted graph first eig: 5.193676001441075 second eig: 5.485253720139067 spectral gap: -0.291577718697992
+clustered graph, size: 61first eig: 3.7543199407350545 second eig:3.7708403346255333 spectral gap: -0.01652039389047877
+gamma fitted graph first eig: 5.367246093725418 second eig: 5.70292005916882 spectral gap: -0.33567396544340156
+clustered graph, size: 636first eig: 19.235860465915678 second eig:18.92818853383691 spectral gap: 0.30767193207876886
+gamma fitted graph first eig: 6.988563411061586 second eig: 7.048065285458882 spectral gap: -0.05950187439729593
+clustered graph, size: 638first eig: 19.222644761543876 second eig:19.13917215474574 spectral gap: 0.08347260679813573
+gamma fitted graph first eig: 7.041496069112357 second eig: 7.054029630898554 spectral gap: -0.012533561786196579
+clustered graph, size: 6531first eig: 19.908050961416848 second eig:19.89254005513282 spectral gap: 0.01551090628402818
+gamma fitted graph first eig: 7.163216888109106 second eig: 7.211514964311077 spectral gap: -0.048298076201971796
+clustered graph, size: 310first eig: 8.002608847967608 second eig:7.712558090794809 spectral gap: 0.29005075717279905
+gamma fitted graph first eig: 6.855572504804012 second eig: 7.007015330874052 spectral gap: -0.15144282607003934
+clustered graph, size: 177first eig: 5.9617628557422515 second eig:5.596615221835377 spectral gap: 0.3651476339068749
+gamma fitted graph first eig: 6.6258338529701115 second eig: 6.859431934311598 spectral gap: -0.23359808134148619
+clustered graph, size: 175first eig: 5.987147891354612 second eig:5.731212454107291 spectral gap: 0.25593543724732104
+gamma fitted graph first eig: 6.785281820125316 second eig: 6.8500633073521815 spectral gap: -0.06478148722686505
+clustered graph, size: 133first eig: 4.8371938668758885 second eig:4.372878187883281 spectral gap: 0.46431567899260706
+gamma fitted graph first eig: 6.220105991674225 second eig: 6.34263217440764 spectral gap: -0.12252618273341565
+clustered graph, size: 171first eig: 5.57273552629771 second eig:5.1703856883853785 spectral gap: 0.4023498379123316
+gamma fitted graph first eig: 6.744601531561364 second eig: 6.7698235483075075 spectral gap: -0.02522201674614344
+clustered graph, size: 157first eig: 5.927962852459538 second eig:5.723667960304019 spectral gap: 0.20429489215551833
+gamma fitted graph first eig: 6.719492551919594 second eig: 6.804930807829221 spectral gap: -0.08543825590962673
+clustered graph, size: 162first eig: 6.474919764010976 second eig:6.205705892101445 spectral gap: 0.26921387190953094
+gamma fitted graph first eig: 6.55671828919604 second eig: 6.862871234931321 spectral gap: -0.3061529457352812
+clustered graph, size: 158first eig: 6.455521515856309 second eig:6.060272678087038 spectral gap: 0.39524883776927044
+gamma fitted graph first eig: 6.554001021207774 second eig: 6.617679023041982 spectral gap: -0.06367800183420869
+clustered graph, size: 141first eig: 4.984550717740485 second eig:4.52851997463947 spectral gap: 0.45603074310101555
+gamma fitted graph first eig: 5.995078912588707 second eig: 6.2018271002314185 spectral gap: -0.2067481876427113
+clustered graph, size: 177first eig: 6.262475351263596 second eig:5.950423009081775 spectral gap: 0.3120523421818211
+gamma fitted graph first eig: 6.721239977224797 second eig: 6.749621046669054 spectral gap: -0.028381069444257
+clustered graph, size: 186first eig: 6.540041208346501 second eig:6.223374219810523 spectral gap: 0.3166669885359781
+gamma fitted graph first eig: 6.72203212654576 second eig: 7.098905570150863 spectral gap: -0.37687344360510266
+clustered graph, size: 168first eig: 6.614899028318798 second eig:6.462004149710221 spectral gap: 0.15289487860857687
+gamma fitted graph first eig: 6.482155519801737 second eig: 6.865335483076179 spectral gap: -0.3831799632744417
+clustered graph, size: 163first eig: 6.07374102437178 second eig:5.521154784647658 spectral gap: 0.5525862397241221
+gamma fitted graph first eig: 6.7166886949673295 second eig: 6.863778280302828 spectral gap: -0.14708958533549854
+clustered graph, size: 145first eig: 5.597978640370031 second eig:5.384071620645379 spectral gap: 0.21390701972465198
+gamma fitted graph first eig: 6.041580839182373 second eig: 6.334209687251034 spectral gap: -0.2926288480686612
+clustered graph, size: 1649first eig: 19.630374568891423 second eig:19.611604864115428 spectral gap: 0.01876970477599471
+gamma fitted graph first eig: 7.083982154541655 second eig: 7.141873123028293 spectral gap: -0.057890968486637995
+clustered graph, size: 171first eig: 5.7811325068534165 second eig:5.622607895752158 spectral gap: 0.15852461110125837
+gamma fitted graph first eig: 6.653993270872332 second eig: 7.02690460212154 spectral gap: -0.37291133124920783
+clustered graph, size: 157first eig: 9.99838372417656 second eig:12.549692611342596 spectral gap: -2.551308887166037
+gamma fitted graph first eig: 6.725115229168992 second eig: 7.138802909306801 spectral gap: -0.41368768013780866
+clustered graph, size: 161first eig: 10.21158434218676 second eig:11.152520155296958 spectral gap: -0.9409358131101992
+gamma fitted graph first eig: 6.986623402252254 second eig: 7.251724488839907 spectral gap: -0.2651010865876522
+clustered graph, size: 170first eig: 11.049036313692355 second eig:11.912297620629417 spectral gap: -0.863261306937062
+gamma fitted graph first eig: 7.050652075434295 second eig: 7.155074049696429 spectral gap: -0.1044219742621344
+clustered graph, size: 184first eig: 9.93311398699987 second eig:10.011152559200468 spectral gap: -0.0780385722005974
+gamma fitted graph first eig: 7.784449074083745 second eig: 8.196560540797647 spectral gap: -0.41211146671390164
+clustered graph, size: 151first eig: 11.011216779328217 second eig:11.114611148052772 spectral gap: -0.10339436872455465
+gamma fitted graph first eig: 6.809477424539296 second eig: 7.1438915917503625 spectral gap: -0.3344141672110661
+clustered graph, size: 152first eig: 9.902322484501333 second eig:10.232488927336322 spectral gap: -0.3301664428349884
+gamma fitted graph first eig: 6.45546627049413 second eig: 6.609619935989832 spectral gap: -0.15415366549570209
+clustered graph, size: 156first eig: 9.978965923428502 second eig:10.207273735951464 spectral gap: -0.22830781252296184
+gamma fitted graph first eig: 7.093370423730183 second eig: 7.343834378601988 spectral gap: -0.2504639548718055
+clustered graph, size: 186first eig: 9.997005083326489 second eig:11.765404879257911 spectral gap: -1.7683997959314226
+gamma fitted graph first eig: 6.900785244134707 second eig: 7.099378964588605 spectral gap: -0.19859372045389811
+clustered graph, size: 147first eig: 9.803182064402096 second eig:10.551418076731988 spectral gap: -0.7482360123298921
+gamma fitted graph first eig: 6.466493669548343 second eig: 6.547785437148321 spectral gap: -0.08129176759997847
+clustered graph, size: 150first eig: 9.674562738612154 second eig:10.742469537257215 spectral gap: -1.06790679864506
+gamma fitted graph first eig: 6.865240809349859 second eig: 6.995031703870774 spectral gap: -0.12979089452091497
+clustered graph, size: 174first eig: 10.473701483833679 second eig:10.85486473814037 spectral gap: -0.3811632543066903
+gamma fitted graph first eig: 7.083965594459324 second eig: 7.298953193664134 spectral gap: -0.21498759920481003
+clustered graph, size: 177first eig: 10.722567849953688 second eig:11.768042772788426 spectral gap: -1.0454749228347389
+gamma fitted graph first eig: 7.072076979468985 second eig: 7.302688127755858 spectral gap: -0.23061114828687312
+clustered graph, size: 163first eig: 9.54091954466985 second eig:10.78309096864371 spectral gap: -1.2421714239738613
+gamma fitted graph first eig: 7.08755955473405 second eig: 7.219798647499733 spectral gap: -0.13223909276568246
+clustered graph, size: 169first eig: 10.270575275289602 second eig:12.391529899611445 spectral gap: -2.1209546243218433
+gamma fitted graph first eig: 7.057992264006316 second eig: 7.293152076253813 spectral gap: -0.23515981224749716
+clustered graph, size: 177first eig: 11.17943062778641 second eig:11.724627811974656 spectral gap: -0.5451971841882468
+gamma fitted graph first eig: 6.881658927006905 second eig: 7.248561745032918 spectral gap: -0.36690281802601277
+clustered graph, size: 172first eig: 10.490040861620502 second eig:11.538067832703867 spectral gap: -1.048026971083365
+gamma fitted graph first eig: 7.022280538108944 second eig: 7.4915336029579915 spectral gap: -0.46925306484904716
+clustered graph, size: 191first eig: 10.235273680771758 second eig:10.502104996114053 spectral gap: -0.2668313153422943
+gamma fitted graph first eig: 7.606604910909557 second eig: 7.844415691714889 spectral gap: -0.23781078080533202
+clustered graph, size: 195first eig: 10.042543523819587 second eig:10.872170951386902 spectral gap: -0.8296274275673152
+gamma fitted graph first eig: 7.827346175560903 second eig: 7.898437775599263 spectral gap: -0.07109160003836035
+clustered graph, size: 168first eig: 9.967566723233237 second eig:11.066268125216755 spectral gap: -1.0987014019835186
+gamma fitted graph first eig: 7.036305702837255 second eig: 7.1500444586185 spectral gap: -0.11373875578124526
+clustered graph, size: 172first eig: 11.211334320913258 second eig:11.835308213884533 spectral gap: -0.623973892971275
+gamma fitted graph first eig: 6.530886079663299 second eig: 6.846450016442302 spectral gap: -0.31556393677900285
+clustered graph, size: 163first eig: 9.24662445857731 second eig:10.673219215498644 spectral gap: -1.4265947569213342
+gamma fitted graph first eig: 7.0886771642381845 second eig: 7.536832117631128 spectral gap: -0.44815495339294387
+clustered graph, size: 158first eig: 9.989612639373563 second eig:10.867613726526308 spectral gap: -0.8780010871527448
+gamma fitted graph first eig: 7.067424098309581 second eig: 7.286447325084718 spectral gap: -0.2190232267751373
+clustered graph, size: 155first eig: 10.060326058269727 second eig:10.324283026465224 spectral gap: -0.2639569681954974
+gamma fitted graph first eig: 6.878413127072862 second eig: 7.2234407219135495 spectral gap: -0.3450275948406878
+clustered graph, size: 163first eig: 10.06185212296024 second eig:10.459287956702637 spectral gap: -0.39743583374239755
+gamma fitted graph first eig: 6.854029930229478 second eig: 7.106832953890134 spectral gap: -0.25280302366065577
+clustered graph, size: 174first eig: 10.405387848446086 second eig:11.815742007139235 spectral gap: -1.4103541586931492
+gamma fitted graph first eig: 7.179414188546157 second eig: 7.5476599668714215 spectral gap: -0.3682457783252646
+clustered graph, size: 156first eig: 10.107787157745667 second eig:10.528935439889237 spectral gap: -0.4211482821435695
+gamma fitted graph first eig: 6.892366944830396 second eig: 7.6336257719507445 spectral gap: -0.7412588271203484
+clustered graph, size: 162first eig: 10.02441954617809 second eig:10.924736292465456 spectral gap: -0.9003167462873662
+gamma fitted graph first eig: 7.039039399685149 second eig: 7.351366454787694 spectral gap: -0.31232705510254544
+clustered graph, size: 154first eig: 10.50143875711764 second eig:11.299728288211021 spectral gap: -0.7982895310933813
+gamma fitted graph first eig: 7.159932427400183 second eig: 7.452097070840693 spectral gap: -0.2921646434405094
+clustered graph, size: 173first eig: 10.749357962620245 second eig:11.18342587881247 spectral gap: -0.43406791619222496
+gamma fitted graph first eig: 7.202314016073274 second eig: 7.321622259236365 spectral gap: -0.11930824316309163
+clustered graph, size: 154first eig: 9.740178778600981 second eig:11.209482762263468 spectral gap: -1.4693039836624866
+gamma fitted graph first eig: 6.876692348602805 second eig: 7.208105268030145 spectral gap: -0.33141291942734075
+clustered graph, size: 172first eig: 10.593066443754205 second eig:12.791770553682433 spectral gap: -2.1987041099282276
+gamma fitted graph first eig: 7.113790145269205 second eig: 7.222599686263811 spectral gap: -0.10880954099460549
+clustered graph, size: 175first eig: 9.749212878350509 second eig:9.780633276153603 spectral gap: -0.03142039780309425
+gamma fitted graph first eig: 7.52765850930928 second eig: 7.812823276111855 spectral gap: -0.2851647668025752
+clustered graph, size: 161first eig: 11.53088373594804 second eig:11.69448607413185 spectral gap: -0.16360233818381076
+gamma fitted graph first eig: 6.869258468914963 second eig: 7.207083251470005 spectral gap: -0.33782478255504156
+clustered graph, size: 143first eig: 9.799533005193354 second eig:10.480250058731293 spectral gap: -0.6807170535379399
+gamma fitted graph first eig: 7.199198508187042 second eig: 7.427525761673067 spectral gap: -0.22832725348602523
+clustered graph, size: 165first eig: 10.058462360441029 second eig:11.994800613850025 spectral gap: -1.9363382534089961
+gamma fitted graph first eig: 7.1015744154072875 second eig: 7.268264485507892 spectral gap: -0.16669007010060444
+clustered graph, size: 183first eig: 10.145204949647821 second eig:10.410848524408609 spectral gap: -0.26564357476078726
+gamma fitted graph first eig: 7.211100713875902 second eig: 7.3187997337237185 spectral gap: -0.10769901984781693
+clustered graph, size: 170first eig: 10.443999071216005 second eig:10.739890726499384 spectral gap: -0.2958916552833788
+gamma fitted graph first eig: 7.195618636869028 second eig: 7.45435515831605 spectral gap: -0.2587365214470214
+clustered graph, size: 157first eig: 9.824859315568894 second eig:11.106815714826828 spectral gap: -1.2819563992579344
+gamma fitted graph first eig: 6.878667748053052 second eig: 7.144142924799293 spectral gap: -0.2654751767462411
+clustered graph, size: 164first eig: 10.413881884955403 second eig:11.41362746369486 spectral gap: -0.9997455787394571
+gamma fitted graph first eig: 7.072769716288451 second eig: 7.34902672308508 spectral gap: -0.27625700679662923
+clustered graph, size: 142first eig: 10.421983138087496 second eig:11.443671167695816 spectral gap: -1.0216880296083204
+gamma fitted graph first eig: 6.314161906581886 second eig: 6.402259631529995 spectral gap: -0.08809772494810897
+clustered graph, size: 163first eig: 10.647673897001962 second eig:11.418237194258937 spectral gap: -0.7705632972569756
+gamma fitted graph first eig: 7.007582641897128 second eig: 7.455808734629461 spectral gap: -0.44822609273233294
+clustered graph, size: 173first eig: 10.263053253283735 second eig:10.550853358884746 spectral gap: -0.2878001056010113
+gamma fitted graph first eig: 7.0247491774029 second eig: 7.458187194461405 spectral gap: -0.4334380170585046
+clustered graph, size: 155first eig: 9.52615155463194 second eig:10.289893998238725 spectral gap: -0.7637424436067839
+gamma fitted graph first eig: 7.023875550096094 second eig: 7.055428959016028 spectral gap: -0.03155340891993408
+clustered graph, size: 186first eig: 9.671840718041471 second eig:10.584589058308119 spectral gap: -0.9127483402666474
+gamma fitted graph first eig: 7.039946370237454 second eig: 7.27505983016382 spectral gap: -0.23511345992636645
+clustered graph, size: 166first eig: 5.898837958834701 second eig:5.802066560597766 spectral gap: 0.09677139823693448
+gamma fitted graph first eig: 6.989179498616113 second eig: 7.163523367899166 spectral gap: -0.174343869283053
+clustered graph, size: 146first eig: 0.08191879624578113 second eig:0.07949155560626762 spectral gap: 0.0024272406395135088
+gamma fitted graph first eig: 6.3762963774073045 second eig: 6.544750304097333 spectral gap: -0.16845392669002823
+clustered graph, size: 167first eig: 0.08665848113999329 second eig:0.08492968885812446 spectral gap: 0.0017287922818688267
+gamma fitted graph first eig: 6.935693406665444 second eig: 7.077986710062678 spectral gap: -0.142293303397234
+clustered graph, size: 169first eig: 0.08605304859653862 second eig:0.08442868678663865 spectral gap: 0.0016243618098999713
+gamma fitted graph first eig: 1.2720039091442688 second eig: 1.3194609786085945 spectral gap: -0.04745706946432571
+clustered graph, size: 691first eig: 0.2957673726782174 second eig:0.2825501357994544 spectral gap: 0.013217236878762972
+gamma fitted graph first eig: 1.3488809895452225 second eig: 1.360952898313617 spectral gap: -0.01207190876839448
+clustered graph, size: 657first eig: 0.26514633326353765 second eig:0.26267146020366267 spectral gap: 0.0024748730598749824
+gamma fitted graph first eig: 1.2346868137848814 second eig: 1.2546570141635174 spectral gap: -0.01997020037863595
+clustered graph, size: 696first eig: 0.3011159021036652 second eig:0.2990833093953798 spectral gap: 0.0020325927082853745
+gamma fitted graph first eig: 1.5619914367687115 second eig: 1.5710179017733632 spectral gap: -0.009026465004651651
+clustered graph, size: 702first eig: 0.29854903000094773 second eig:0.2935995448992042 spectral gap: 0.004949485101743534
+gamma fitted graph first eig: 1.3566898032022263 second eig: 1.3999899199811985 spectral gap: -0.043300116778972164
+clustered graph, size: 653first eig: 0.27672761856414496 second eig:0.27609099618005756 spectral gap: 0.0006366223840874041
+gamma fitted graph first eig: 1.3005972580772767 second eig: 1.3151351656646968 spectral gap: -0.014537907587420129
+clustered graph, size: 646first eig: 0.2839630515646401 second eig:0.278513599180893 spectral gap: 0.005449452383747055
+gamma fitted graph first eig: 1.30390103175074 second eig: 1.317250965131984 spectral gap: -0.013349933381243906
+clustered graph, size: 626first eig: 0.27824384991953327 second eig:0.2579795563338144 spectral gap: 0.02026429358571885
+gamma fitted graph first eig: 1.282651019145107 second eig: 1.2950835260488909 spectral gap: -0.012432506903783835
+clustered graph, size: 604first eig: 0.2416359589602929 second eig:0.23645625675168275 spectral gap: 0.005179702208610165
+gamma fitted graph first eig: 1.176088462116012 second eig: 1.1926671677715894 spectral gap: -0.016578705655577508
+clustered graph, size: 600first eig: 0.26064720101909816 second eig:0.25918813926515627 spectral gap: 0.0014590617539418926
+gamma fitted graph first eig: 1.205454226247529 second eig: 1.2161448268329962 spectral gap: -0.010690600585467225
+clustered graph, size: 652first eig: 4.305218852383443 second eig:3.812265190787373 spectral gap: 0.4929536615960699
+gamma fitted graph first eig: 18.9439554267262 second eig: 19.335026748536105 spectral gap: -0.3910713218099069
+clustered graph, size: 627first eig: 3.7849023258855032 second eig:3.7110751218662985 spectral gap: 0.07382720401920473
+gamma fitted graph first eig: 17.569680385592395 second eig: 17.766285265813245 spectral gap: -0.19660488022084976
+clustered graph, size: 676first eig: 4.065579558060898 second eig:4.060850431339574 spectral gap: 0.004729126721324306
+gamma fitted graph first eig: 21.62631438866893 second eig: 21.939126845550135 spectral gap: -0.31281245688120407
+clustered graph, size: 698first eig: 4.353327480102806 second eig:4.336703959525356 spectral gap: 0.016623520577449646
+gamma fitted graph first eig: 22.47528556275406 second eig: 22.63530397817553 spectral gap: -0.16001841542146877
+clustered graph, size: 604first eig: 4.037511254766144 second eig:3.77256969284825 spectral gap: 0.2649415619178934
+gamma fitted graph first eig: 18.442319337931483 second eig: 18.69508747740256 spectral gap: -0.2527681394710761
+clustered graph, size: 617first eig: 4.050568377722642 second eig:3.7984086008165368 spectral gap: 0.252159776906105
+gamma fitted graph first eig: 18.709672352498878 second eig: 19.042514315519657 spectral gap: -0.33284196302077973
+clustered graph, size: 657first eig: 4.286633106899844 second eig:3.5708822174435912 spectral gap: 0.7157508894562525
+gamma fitted graph first eig: 18.566806791162186 second eig: 18.8122191610444 spectral gap: -0.2454123698822137
+clustered graph, size: 655first eig: 3.7502171526696286 second eig:3.741035491175772 spectral gap: 0.009181661493856463
+gamma fitted graph first eig: 17.138512924882324 second eig: 17.313212365981443 spectral gap: -0.1746994410991185
+clustered graph, size: 656first eig: 4.3899932031640265 second eig:4.331715845472229 spectral gap: 0.05827735769179743
+gamma fitted graph first eig: 19.733211821242907 second eig: 19.884224342585163 spectral gap: -0.15101252134225618
+clustered graph, size: 655first eig: 4.534381523911626 second eig:4.286295671126548 spectral gap: 0.24808585278507778
+gamma fitted graph first eig: 19.427609570204513 second eig: 19.58122602585214 spectral gap: -0.15361645564762583
+clustered graph, size: 76first eig: 1.0069339263716104 second eig:1.14088753119797 spectral gap: -0.13395360482635965
+gamma fitted graph first eig: 15.302987815805146 second eig: 15.805663592540297 spectral gap: -0.5026757767351508
+clustered graph, size: 59first eig: 1.0285678228733888 second eig:1.2334777790864948 spectral gap: -0.20490995621310604
+gamma fitted graph first eig: 13.856617436356933 second eig: 14.80846905722287 spectral gap: -0.9518516208659378
+clustered graph, size: 75first eig: 1.068927544125546 second eig:1.10165724678381 spectral gap: -0.032729702658264026
+gamma fitted graph first eig: 14.442372390673844 second eig: 15.017679190493004 spectral gap: -0.5753067998191597
+clustered graph, size: 53first eig: 0.9641656011530554 second eig:1.036097345251274 spectral gap: -0.07193174409821868
+gamma fitted graph first eig: 13.585103515831955 second eig: 13.844305022266987 spectral gap: -0.2592015064350317
+clustered graph, size: 58first eig: 0.939077824032722 second eig:0.9453968245206454 spectral gap: -0.006319000487923443
+gamma fitted graph first eig: 11.802789217398768 second eig: 13.3632086632593 spectral gap: -1.560419445860532
+clustered graph, size: 73first eig: 1.0207067025469032 second eig:1.1685625499757548 spectral gap: -0.1478558474288516
+gamma fitted graph first eig: 12.942361092094353 second eig: 13.901660856397694 spectral gap: -0.9592997643033403
+clustered graph, size: 682first eig: 4.346859432448569 second eig:4.075830253020517 spectral gap: 0.2710291794280515
+gamma fitted graph first eig: 19.675897077242315 second eig: 19.81698561881515 spectral gap: -0.14108854157283446
+clustered graph, size: 621first eig: 4.086279300936643 second eig:4.033213437759968 spectral gap: 0.053065863176675165
+gamma fitted graph first eig: 19.441484262801335 second eig: 19.973016169115695 spectral gap: -0.5315319063143598
+clustered graph, size: 649first eig: 2.566005482998521 second eig:2.3101698539697777 spectral gap: 0.25583562902874313
+gamma fitted graph first eig: 9.113462810422607 second eig: 9.17956322255249 spectral gap: -0.06610041212988271
+clustered graph, size: 670first eig: 2.090183203269939 second eig:2.018312641321162 spectral gap: 0.07187056194877695
+gamma fitted graph first eig: 9.497598017002815 second eig: 9.558077251703391 spectral gap: -0.060479234700576257
+clustered graph, size: 67first eig: 0.8246969937385928 second eig:0.9254626271247052 spectral gap: -0.10076563338611233
+gamma fitted graph first eig: 6.944717348275498 second eig: 7.382135405233813 spectral gap: -0.4374180569583146
+clustered graph, size: 64first eig: 0.7238492323203206 second eig:0.783054987027604 spectral gap: -0.0592057547072834
+gamma fitted graph first eig: 4.834737386177704 second eig: 4.975534791268114 spectral gap: -0.14079740509041017
+clustered graph, size: 77first eig: 0.6861822814103997 second eig:0.9141646090387197 spectral gap: -0.22798232762831994
+gamma fitted graph first eig: 4.424188189555641 second eig: 4.569140662922686 spectral gap: -0.1449524733670442
+clustered graph, size: 78first eig: 0.9154767247014273 second eig:0.9524145258511446 spectral gap: -0.03693780114971734
+gamma fitted graph first eig: 8.251171897737569 second eig: 8.895976770531906 spectral gap: -0.644804872794337
+clustered graph, size: 73first eig: 0.8121061727420548 second eig:0.8528471168574295 spectral gap: -0.040740944115374766
+gamma fitted graph first eig: 5.333829033977704 second eig: 5.4981205643954585 spectral gap: -0.16429153041775457
+clustered graph, size: 655first eig: 1.7798678352903292 second eig:1.612085136458324 spectral gap: 0.16778269883200525
+gamma fitted graph first eig: 8.187985436137545 second eig: 8.21247737302256 spectral gap: -0.024491936885015164
+clustered graph, size: 70first eig: 0.8483990505724487 second eig:0.9299977131961505 spectral gap: -0.08159866262370186
+gamma fitted graph first eig: 7.74236311130906 second eig: 7.87240607952251 spectral gap: -0.1300429682134503
+clustered graph, size: 62first eig: 0.8047196900194354 second eig:0.9364374825459585 spectral gap: -0.13171779252652305
+gamma fitted graph first eig: 7.795638802043235 second eig: 8.234836960071009 spectral gap: -0.4391981580277742
+clustered graph, size: 64first eig: 0.8642370300635311 second eig:0.9341435291543744 spectral gap: -0.06990649909084323
+gamma fitted graph first eig: 7.422478390459202 second eig: 8.39677739992618 spectral gap: -0.9742990094669777
+clustered graph, size: 66first eig: 0.8439025477935791 second eig:0.8780614604943368 spectral gap: -0.03415891270075766
+gamma fitted graph first eig: 8.285613840334863 second eig: 8.519679009619201 spectral gap: -0.23406516928433874
+clustered graph, size: 77first eig: 0.8418876597487264 second eig:0.9194051707642534 spectral gap: -0.07751751101552706
+gamma fitted graph first eig: 9.970365128311084 second eig: 10.467630000674758 spectral gap: -0.4972648723636741
+clustered graph, size: 56first eig: 0.7190338544594098 second eig:0.8514802371723516 spectral gap: -0.13244638271294173
+gamma fitted graph first eig: 4.865712866405952 second eig: 5.041625537574349 spectral gap: -0.1759126711683976
+clustered graph, size: 70first eig: 0.7385185763261568 second eig:0.8064691098567874 spectral gap: -0.06795053353063063
+gamma fitted graph first eig: 4.575859041366772 second eig: 4.808763282230492 spectral gap: -0.23290424086372052
+clustered graph, size: 56first eig: 0.8100374976603422 second eig:0.8972310056082725 spectral gap: -0.08719350794793035
+gamma fitted graph first eig: 8.668495380470002 second eig: 8.91235836249949 spectral gap: -0.24386298202948709
+clustered graph, size: 657first eig: 2.3037198886404258 second eig:2.271908866937794 spectral gap: 0.03181102170263195
+gamma fitted graph first eig: 9.091782234386416 second eig: 9.166585356117583 spectral gap: -0.07480312173116666
+clustered graph, size: 688first eig: 2.212670701288625 second eig:2.117922363782871 spectral gap: 0.09474833750575407
+gamma fitted graph first eig: 1.9221721759958694 second eig: 2.00778421233349 spectral gap: -0.08561203633762049
+clustered graph, size: 638first eig: 2.2670657497547353 second eig:2.0034209059498598 spectral gap: 0.2636448438048755
+gamma fitted graph first eig: 1.9543180795487578 second eig: 2.002517327425495 spectral gap: -0.04819924787673702
+clustered graph, size: 636first eig: 2.8458014805113168 second eig:2.8265965441622645 spectral gap: 0.019204936349052293
+gamma fitted graph first eig: 11.81382962567469 second eig: 11.960270116290673 spectral gap: -0.14644049061598174
+clustered graph, size: 636first eig: 1.6819640595776177 second eig:1.5935478740429985 spectral gap: 0.08841618553461927
+gamma fitted graph first eig: 9.076955520786235 second eig: 9.29214349656024 spectral gap: -0.21518797577400406
+clustered graph, size: 644first eig: 2.0689278760910677 second eig:1.974706537745769 spectral gap: 0.09422133834529856
+gamma fitted graph first eig: 9.106449979057974 second eig: 9.176094900676874 spectral gap: -0.06964492161890057
+clustered graph, size: 672first eig: 2.5465423672784824 second eig:2.3225916748984314 spectral gap: 0.22395069238005094
+gamma fitted graph first eig: 10.660918528305636 second eig: 10.822930764686298 spectral gap: -0.16201223638066153
+clustered graph, size: 620first eig: 2.276321704541903 second eig:1.768857221195086 spectral gap: 0.5074644833468169
+gamma fitted graph first eig: 1.9278126414112866 second eig: 1.9950605718336467 spectral gap: -0.0672479304223601
+clustered graph, size: 662first eig: 2.5259012820214823 second eig:2.2947706692102905 spectral gap: 0.23113061281119185
+gamma fitted graph first eig: 2.110546170493046 second eig: 2.1476179192278333 spectral gap: -0.037071748734787136
+clustered graph, size: 682first eig: 5.234239886577431 second eig:5.048087496850063 spectral gap: 0.18615238972736758
+gamma fitted graph first eig: 11.246194178049265 second eig: 11.337114714833202 spectral gap: -0.09092053678393697
+clustered graph, size: 666first eig: 3.303836739790884 second eig:3.2118395890893283 spectral gap: 0.09199715070155579
+gamma fitted graph first eig: 0.20998484069130202 second eig: 0.21906781587924426 spectral gap: -0.009082975187942238
+clustered graph, size: 672first eig: 2.8452991001290364 second eig:2.808864007827029 spectral gap: 0.036435092302007366
+gamma fitted graph first eig: 0.18728694098270304 second eig: 0.20452490233371368 spectral gap: -0.017237961351010633
+clustered graph, size: 669first eig: 4.873019241795785 second eig:4.749850357032433 spectral gap: 0.12316888476335208
+gamma fitted graph first eig: 2.817811799841978 second eig: 2.8463985377698537 spectral gap: -0.028586737927875916
+clustered graph, size: 662first eig: 4.796398295301082 second eig:4.702753543797936 spectral gap: 0.09364475150314622
+gamma fitted graph first eig: 2.7676236422285396 second eig: 2.8398244835081994 spectral gap: -0.07220084127965976
+clustered graph, size: 645first eig: 4.759129977040395 second eig:4.4993326421436555 spectral gap: 0.2597973348967395
+gamma fitted graph first eig: 2.5357354097338756 second eig: 2.579927920867491 spectral gap: -0.04419251113361522
+clustered graph, size: 6453first eig: 5.949067742631606 second eig:5.921784699416189 spectral gap: 0.027283043215417635
+gamma fitted graph first eig: 2.9014035346779976 second eig: 2.920757779316915 spectral gap: -0.01935424463891744
+clustered graph, size: 6631first eig: 3.319116420809201 second eig:3.2527121056246373 spectral gap: 0.06640431518456369
+gamma fitted graph first eig: 2.0714232788605815 second eig: 2.1153781558748217 spectral gap: -0.04395487701424017
+clustered graph, size: 6602first eig: 3.2886400536547034 second eig:3.281854857075143 spectral gap: 0.0067851965795604485
+gamma fitted graph first eig: 2.0149746120068035 second eig: 2.040519323952868 spectral gap: -0.025544711946064336
+clustered graph, size: 6597first eig: 0.9600384862705986 second eig:0.9365005016339855 spectral gap: 0.023537984636613163
+gamma fitted graph first eig: 0.33062381418333575 second eig: 0.3446660689553781 spectral gap: -0.01404225477204235
+clustered graph, size: 6611first eig: 3.386339835382165 second eig:3.3830678849541322 spectral gap: 0.003271950428032966
+gamma fitted graph first eig: 2.0837628749373427 second eig: 2.1287210623241393 spectral gap: -0.04495818738679658
+clustered graph, size: 6606first eig: 3.1958079223877935 second eig:3.18518032147208 spectral gap: 0.010627600915713575
+gamma fitted graph first eig: 1.9932349503135598 second eig: 2.01231430067185 spectral gap: -0.019079350358290226
+clustered graph, size: 6502first eig: 3.385985445287679 second eig:3.337098639641175 spectral gap: 0.04888680564650416
+gamma fitted graph first eig: 1.9799890036800631 second eig: 1.993329676119544 spectral gap: -0.013340672439480894
+clustered graph, size: 6539first eig: 3.127939729237613 second eig:3.0841778160206883 spectral gap: 0.043761913216924686
+gamma fitted graph first eig: 1.9010694770610594 second eig: 1.9491275971120412 spectral gap: -0.048058120050981756
+clustered graph, size: 327first eig: 1.4367920264911271 second eig:1.3748179583835878 spectral gap: 0.06197406810753936
+gamma fitted graph first eig: 1.7886591992324476 second eig: 1.8314948071003367 spectral gap: -0.04283560786788909
+clustered graph, size: 319first eig: 1.4280978947703633 second eig:1.3853741853145818 spectral gap: 0.04272370945578152
+gamma fitted graph first eig: 1.748632078127781 second eig: 1.7927432381292356 spectral gap: -0.04411116000145454
+clustered graph, size: 322first eig: 1.4683091029828075 second eig:1.4204083157105523 spectral gap: 0.04790078727225522
+gamma fitted graph first eig: 1.4833129991899356 second eig: 1.5687181669124803 spectral gap: -0.0854051677225447
+clustered graph, size: 357first eig: 1.5821221374913743 second eig:1.3206174086341527 spectral gap: 0.26150472885722165
+gamma fitted graph first eig: 1.5649167528460446 second eig: 1.6714191325324734 spectral gap: -0.10650237968642884
+clustered graph, size: 316first eig: 92407.39680511638 second eig:90198.47229069925 spectral gap: 2208.924514417129
+gamma fitted graph first eig: 63339.50134336055 second eig: 63630.799701075084 spectral gap: -291.2983577145351
+clustered graph, size: 323first eig: 101568.00381382045 second eig:99549.83088599448 spectral gap: 2018.1729278259736
+gamma fitted graph first eig: 86120.37389066695 second eig: 88093.0745975371 spectral gap: -1972.7007068701496
+clustered graph, size: 323first eig: 99736.861946449 second eig:92178.69574050202 spectral gap: 7558.166205946982
+gamma fitted graph first eig: 71663.37759291579 second eig: 73010.63619842452 spectral gap: -1347.2586055087304
+clustered graph, size: 336first eig: 10.580567741862128 second eig:10.313975972956756 spectral gap: 0.2665917689053714
+gamma fitted graph first eig: 7.551655228075105 second eig: 7.561694479046918 spectral gap: -0.010039250971813019
+clustered graph, size: 323first eig: 0.09721862651286481 second eig:0.09101904443576961 spectral gap: 0.0061995820770952
+gamma fitted graph first eig: 0.07861961582727106 second eig: 0.08101950575566302 spectral gap: -0.002399889928391963
+clustered graph, size: 333first eig: 0.09907552112422899 second eig:0.09457374028931684 spectral gap: 0.00450178083491215
+gamma fitted graph first eig: 0.07306093780322742 second eig: 0.07376651742741114 spectral gap: -0.0007055796241837164
+clustered graph, size: 3345first eig: 19.440946590772562 second eig:19.269678365273123 spectral gap: 0.1712682254994391
+gamma fitted graph first eig: 7.505082559687626 second eig: 7.528637570348306 spectral gap: -0.02355501066068033
+clustered graph, size: 3236first eig: 18.564535584951656 second eig:18.48006018456425 spectral gap: 0.08447540038740797
+gamma fitted graph first eig: 6.7936038639795 second eig: 6.823140481380047 spectral gap: -0.029536617400547804
+clustered graph, size: 3255first eig: 17.94331394018739 second eig:17.93220570241918 spectral gap: 0.011108237768212348
+gamma fitted graph first eig: 6.693674609680807 second eig: 6.702823381377074 spectral gap: -0.009148771696267488
+clustered graph, size: 3280first eig: 18.9196515509937 second eig:18.819201510456192 spectral gap: 0.10045004053750617
+gamma fitted graph first eig: 6.88060371687593 second eig: 6.9509370912090445 spectral gap: -0.07033337433311448
+clustered graph, size: 3348first eig: 18.147825673273946 second eig:18.06278971460754 spectral gap: 0.08503595866640623
+gamma fitted graph first eig: 6.889690934193395 second eig: 6.92425429622058 spectral gap: -0.034563362027184574
+clustered graph, size: 38first eig: 3.173683047576895 second eig:3.513316961708933 spectral gap: -0.33963391413203814
+gamma fitted graph first eig: 3.3797264350077016 second eig: 4.8265539138225195 spectral gap: -1.4468274788148179
+clustered graph, size: 24first eig: 2.500672315371045 second eig:2.5291949695026683 spectral gap: -0.02852265413162325
+gamma fitted graph first eig: 1.2230451891471197 second eig: 1.476961484827335 spectral gap: -0.25391629568021523
+clustered graph, size: 30first eig: 3.107977468814351 second eig:3.62969997975935 spectral gap: -0.5217225109449992
+gamma fitted graph first eig: 3.9074589509613786 second eig: 4.655789942378961 spectral gap: -0.7483309914175824
+clustered graph, size: 1711first eig: 7.7340322957268794 second eig:7.675747416220551 spectral gap: 0.05828487950632866
+gamma fitted graph first eig: 4.634419024810303 second eig: 4.68153041536109 spectral gap: -0.0471113905507865
+clustered graph, size: 1652first eig: 8.56876645774687 second eig:8.069366274808289 spectral gap: 0.49940018293858124
+gamma fitted graph first eig: 4.887486118924929 second eig: 4.894645821826219 spectral gap: -0.007159702901290643
+clustered graph, size: 1580first eig: 8.688590845843855 second eig:8.54638507400874 spectral gap: 0.1422057718351155
+gamma fitted graph first eig: 4.602151819768955 second eig: 4.691409299497949 spectral gap: -0.08925747972899423
+clustered graph, size: 1664first eig: 8.754592502809363 second eig:7.981755882258993 spectral gap: 0.7728366205503701
+gamma fitted graph first eig: 4.673784930810913 second eig: 4.827803455673067 spectral gap: -0.1540185248621535
+clustered graph, size: 1618first eig: 8.042126727622941 second eig:7.948451163522139 spectral gap: 0.0936755641008018
+gamma fitted graph first eig: 4.519243010732141 second eig: 4.71870779841203 spectral gap: -0.19946478767988918
+clustered graph, size: 1658first eig: 9.132678806280015 second eig:9.122238659182822 spectral gap: 0.010440147097193986
+gamma fitted graph first eig: 4.8444356941908175 second eig: 4.866960074251364 spectral gap: -0.022524380060546356
+clustered graph, size: 26first eig: 2.2643957885304293 second eig:2.9195669051852824 spectral gap: -0.6551711166548531
+gamma fitted graph first eig: 1.404504199651461 second eig: 1.4807305109376079 spectral gap: -0.07622631128614699
+clustered graph, size: 29first eig: 3.2103260275455208 second eig:3.876128528474297 spectral gap: -0.665802500928776
+gamma fitted graph first eig: 4.030946020144124 second eig: 4.332305371659096 spectral gap: -0.3013593515149724
+clustered graph, size: 25first eig: 3.398946974987079 second eig:3.662463682378802 spectral gap: -0.26351670739172306
+gamma fitted graph first eig: 3.526111950860239 second eig: 5.275656938686267 spectral gap: -1.7495449878260279
+clustered graph, size: 26249first eig: 20.371463742593136 second eig:20.367898172903942 spectral gap: 0.0035655696891936373
+gamma fitted graph first eig: 6.891616823044934 second eig: 6.901921604316062 spectral gap: -0.010304781271127439
+clustered graph, size: 641first eig: 11.889032708752373 second eig:10.966739307770135 spectral gap: 0.9222934009822374
+gamma fitted graph first eig: 6.695436232422029 second eig: 6.787096562523157 spectral gap: -0.09166033010112784
+clustered graph, size: 644first eig: 13.400204120443238 second eig:12.818573359826487 spectral gap: 0.5816307606167506
+gamma fitted graph first eig: 7.182766155017193 second eig: 7.252394404788901 spectral gap: -0.069628249771708
+clustered graph, size: 646first eig: 11.590900976934861 second eig:10.962929600684571 spectral gap: 0.6279713762502901
+gamma fitted graph first eig: 6.520497676278564 second eig: 6.595096869800884 spectral gap: -0.07459919352232003
+clustered graph, size: 703first eig: 15.301773580955407 second eig:13.858394512702052 spectral gap: 1.4433790682533552
+gamma fitted graph first eig: 6.514709972025543 second eig: 6.6550483931653 spectral gap: -0.14033842113975759
+clustered graph, size: 661first eig: 13.178606038689813 second eig:12.66666588710158 spectral gap: 0.5119401515882327
+gamma fitted graph first eig: 6.633506262849774 second eig: 6.688941248589693 spectral gap: -0.05543498573991901
+clustered graph, size: 669first eig: 14.481020075273538 second eig:13.815015453682964 spectral gap: 0.6660046215905737
+gamma fitted graph first eig: 6.5602686653214795 second eig: 6.720121279573337 spectral gap: -0.15985261425185726
+clustered graph, size: 638first eig: 14.033562464794114 second eig:13.242444049960264 spectral gap: 0.7911184148338499
+gamma fitted graph first eig: 7.156202742136849 second eig: 7.24730424046078 spectral gap: -0.09110149832393066
+clustered graph, size: 657first eig: 15.070917327006415 second eig:12.670326712218369 spectral gap: 2.4005906147880456
+gamma fitted graph first eig: 7.4675063234997605 second eig: 7.626306099803736 spectral gap: -0.1587997763039759
+clustered graph, size: 693first eig: 14.653552939406369 second eig:14.26969062303929 spectral gap: 0.3838623163670789
+gamma fitted graph first eig: 6.423462920259552 second eig: 6.459575381884978 spectral gap: -0.03611246162542603
+clustered graph, size: 677first eig: 13.580948898842598 second eig:13.195186972658577 spectral gap: 0.3857619261840206
+gamma fitted graph first eig: 6.4733686031062385 second eig: 6.5495705646285405 spectral gap: -0.07620196152230196
+clustered graph, size: 685first eig: 14.767503038142301 second eig:14.385156771518236 spectral gap: 0.3823462666240651
+gamma fitted graph first eig: 6.95296251737295 second eig: 6.999274045056158 spectral gap: -0.046311527683207565
+clustered graph, size: 620first eig: 10.191325841425039 second eig:9.923215683885537 spectral gap: 0.2681101575395015
+gamma fitted graph first eig: 6.182376799572176 second eig: 6.250959504238296 spectral gap: -0.06858270466612026
+clustered graph, size: 679first eig: 13.02696119474615 second eig:12.7649984676277 spectral gap: 0.2619627271184495
+gamma fitted graph first eig: 7.275201158143839 second eig: 7.364562781396672 spectral gap: -0.0893616232528327
+clustered graph, size: 6761first eig: 19.441426240327925 second eig:19.349843617194963 spectral gap: 0.09158262313296106
+gamma fitted graph first eig: 6.9736525476075855 second eig: 7.039327946677458 spectral gap: -0.06567539906987285
+clustered graph, size: 6639first eig: 19.728405556271703 second eig:19.59224842060455 spectral gap: 0.13615713566715115
+gamma fitted graph first eig: 6.918318608594753 second eig: 6.9255386281444835 spectral gap: -0.007220019549730949
+clustered graph, size: 6569first eig: 19.116604208882237 second eig:19.07528528318137 spectral gap: 0.04131892570086748
+gamma fitted graph first eig: 6.869514729159204 second eig: 6.8882580957773865 spectral gap: -0.018743366618182655
+clustered graph, size: 6644first eig: 19.482006606467998 second eig:19.405007999788157 spectral gap: 0.07699860667984026
+gamma fitted graph first eig: 7.099050734638741 second eig: 7.109244630887543 spectral gap: -0.010193896248802403
+clustered graph, size: 6704first eig: 20.04733674202474 second eig:19.82995408872083 spectral gap: 0.21738265330391116
+gamma fitted graph first eig: 7.22200561345636 second eig: 7.251708250043696 spectral gap: -0.029702636587336073
+clustered graph, size: 6724first eig: 19.53686103857655 second eig:19.499779496860764 spectral gap: 0.037081541715785704
+gamma fitted graph first eig: 6.930563895327215 second eig: 6.9482852228814584 spectral gap: -0.01772132755424316
+clustered graph, size: 6533first eig: 19.421747310396565 second eig:19.412055399382947 spectral gap: 0.009691911013618437
+gamma fitted graph first eig: 6.814745605687216 second eig: 6.826135367660392 spectral gap: -0.011389761973175538
+clustered graph, size: 6556first eig: 19.226518561326 second eig:19.05719456424952 spectral gap: 0.1693239970764786
+gamma fitted graph first eig: 7.0210656573631525 second eig: 7.0384098196852545 spectral gap: -0.017344162322102008
+clustered graph, size: 6512first eig: 20.098737016028654 second eig:19.746727156934114 spectral gap: 0.3520098590945402
+gamma fitted graph first eig: 7.128781937674938 second eig: 7.161358215882241 spectral gap: -0.03257627820730313
+clustered graph, size: 6613first eig: 19.27715414421668 second eig:19.261227234318586 spectral gap: 0.015926909898094976
+gamma fitted graph first eig: 6.750718170861853 second eig: 6.784676767091298 spectral gap: -0.033958596229445526
+clustered graph, size: 6569first eig: 19.690915708808912 second eig:19.582356249618645 spectral gap: 0.10855945919026766
+gamma fitted graph first eig: 6.945208880478749 second eig: 6.957134297049851 spectral gap: -0.011925416571102687
+clustered graph, size: 6511first eig: 20.02731241891548 second eig:19.84152779530067 spectral gap: 0.18578462361480774
+gamma fitted graph first eig: 6.859280168293534 second eig: 6.874906835955243 spectral gap: -0.01562666766170917
+clustered graph, size: 6799first eig: 19.859678491458418 second eig:19.81067147992583 spectral gap: 0.049007011532587796
+gamma fitted graph first eig: 7.0731226818764235 second eig: 7.099635050037133 spectral gap: -0.026512368160709343
+clustered graph, size: 6533first eig: 19.62071416585998 second eig:19.42161213353034 spectral gap: 0.19910203232964108
+gamma fitted graph first eig: 6.903860485439366 second eig: 6.918479399102625 spectral gap: -0.014618913663259292
+clustered graph, size: 6445first eig: 19.462991510683846 second eig:19.41193606192317 spectral gap: 0.05105544876067469
+gamma fitted graph first eig: 6.995090804798913 second eig: 7.000659230463223 spectral gap: -0.005568425664310261
+clustered graph, size: 6603first eig: 19.92186657705175 second eig:19.81973211114275 spectral gap: 0.10213446590899977
+gamma fitted graph first eig: 7.29208187815095 second eig: 7.320515420728501 spectral gap: -0.028433542577551485
+clustered graph, size: 6561first eig: 19.577058508062525 second eig:19.52887722889427 spectral gap: 0.04818127916825432
+gamma fitted graph first eig: 6.847498309179718 second eig: 6.855370848334492 spectral gap: -0.007872539154774039
+clustered graph, size: 6634first eig: 19.70154485173903 second eig:19.661034494009034 spectral gap: 0.040510357729996116
+gamma fitted graph first eig: 7.040613906716724 second eig: 7.054852535178663 spectral gap: -0.01423862846193824
+clustered graph, size: 6718first eig: 19.300692727472224 second eig:19.28814956908585 spectral gap: 0.012543158386375097
+gamma fitted graph first eig: 6.963046014907146 second eig: 6.9813891245678015 spectral gap: -0.018343109660655443
+clustered graph, size: 6598first eig: 19.62996056640747 second eig:19.576913982885383 spectral gap: 0.05304658352208591
+gamma fitted graph first eig: 6.908519213207319 second eig: 6.943480138657707 spectral gap: -0.034960925450387315
+clustered graph, size: 6550first eig: 19.718557819926144 second eig:19.597575154306174 spectral gap: 0.12098266561996951
+gamma fitted graph first eig: 7.074956250887137 second eig: 7.101216899997955 spectral gap: -0.026260649110818157
+clustered graph, size: 6533first eig: 19.371274888415638 second eig:19.364527037525818 spectral gap: 0.006747850889819773
+gamma fitted graph first eig: 6.9745199416346075 second eig: 6.986376708777642 spectral gap: -0.011856767143034297
+clustered graph, size: 6564first eig: 19.785391326138747 second eig:19.748849072662956 spectral gap: 0.03654225347579043
+gamma fitted graph first eig: 7.026525588248256 second eig: 7.062785645523109 spectral gap: -0.03626005727485282
+clustered graph, size: 6468first eig: 19.3200598261297 second eig:19.16598415915412 spectral gap: 0.1540756669755794
+gamma fitted graph first eig: 6.875583446794892 second eig: 6.888923034123366 spectral gap: -0.01333958732847318
+clustered graph, size: 6712first eig: 19.8315768187308 second eig:19.734695346898203 spectral gap: 0.09688147183259588
+gamma fitted graph first eig: 7.1277522115731085 second eig: 7.152100231277364 spectral gap: -0.02434801970425582
+clustered graph, size: 6586first eig: 19.335954680563194 second eig:19.27072238651758 spectral gap: 0.06523229404561448
+gamma fitted graph first eig: 6.902902660762434 second eig: 6.9158071895212005 spectral gap: -0.012904528758766354
+clustered graph, size: 6598first eig: 19.817437939071695 second eig:19.805430652397337 spectral gap: 0.012007286674357687
+gamma fitted graph first eig: 6.999767532779043 second eig: 7.0641161552054434 spectral gap: -0.06434862242640005
+clustered graph, size: 6446first eig: 19.23482589857702 second eig:19.182561995552906 spectral gap: 0.052263903024115876
+gamma fitted graph first eig: 6.900064262891026 second eig: 6.940927182672349 spectral gap: -0.04086291978132284
+clustered graph, size: 6505first eig: 20.19977750747624 second eig:20.058448676216173 spectral gap: 0.14132883126006845
+gamma fitted graph first eig: 6.89441853630721 second eig: 6.921303591835404 spectral gap: -0.026885055528193647
+clustered graph, size: 6419first eig: 19.19782994272717 second eig:19.033295990214402 spectral gap: 0.1645339525127696
+gamma fitted graph first eig: 6.8956897200838885 second eig: 6.901742262417063 spectral gap: -0.0060525423331743156
+clustered graph, size: 6623first eig: 19.38514857389974 second eig:19.376296458757512 spectral gap: 0.008852115142229167
+gamma fitted graph first eig: 6.899571672309044 second eig: 6.9120510291220985 spectral gap: -0.012479356813054565
+clustered graph, size: 6585first eig: 19.70886269540973 second eig:19.68679631393213 spectral gap: 0.022066381477600316
+gamma fitted graph first eig: 6.990440991962101 second eig: 7.005952131704206 spectral gap: -0.015511139742105051
+clustered graph, size: 6559first eig: 19.48956760326829 second eig:19.412847212946463 spectral gap: 0.07672039032182809
+gamma fitted graph first eig: 6.840615486680352 second eig: 6.874153869842003 spectral gap: -0.03353838316165092
+clustered graph, size: 6598first eig: 19.630968606464293 second eig:19.609264999058702 spectral gap: 0.021703607405591185
+gamma fitted graph first eig: 7.14442874775649 second eig: 7.156498193909751 spectral gap: -0.012069446153261332
+clustered graph, size: 6687first eig: 19.310476306473713 second eig:19.255955882181894 spectral gap: 0.05452042429181958
+gamma fitted graph first eig: 7.0369631587347765 second eig: 7.075229438699408 spectral gap: -0.03826627996463117
+clustered graph, size: 6526first eig: 19.9444387959287 second eig:19.891515117333196 spectral gap: 0.05292367859550495
+gamma fitted graph first eig: 7.02524953656321 second eig: 7.0388440339231595 spectral gap: -0.01359449735994911
+clustered graph, size: 6629first eig: 19.90342899201927 second eig:19.763014447879588 spectral gap: 0.14041454413968069
+gamma fitted graph first eig: 7.055441967001962 second eig: 7.060455668711148 spectral gap: -0.005013701709185803
+clustered graph, size: 6599first eig: 19.705976639986027 second eig:19.520205716705828 spectral gap: 0.18577092328019873
+gamma fitted graph first eig: 7.025774026244974 second eig: 7.048670706372577 spectral gap: -0.022896680127602487
+clustered graph, size: 6545first eig: 19.929067080240067 second eig:19.551355641466465 spectral gap: 0.377711438773602
+gamma fitted graph first eig: 7.074545224363423 second eig: 7.111632949858543 spectral gap: -0.037087725495120516
+clustered graph, size: 6761first eig: 20.198710818028708 second eig:19.48674700113747 spectral gap: 0.7119638168912381
+gamma fitted graph first eig: 7.007825620519276 second eig: 7.028526576300425 spectral gap: -0.020700955781149055
+clustered graph, size: 6630first eig: 20.103411731641067 second eig:20.029808413701954 spectral gap: 0.07360331793911357
+gamma fitted graph first eig: 7.158594831465986 second eig: 7.18012570609506 spectral gap: -0.021530874629074326
+clustered graph, size: 6707first eig: 19.96822569602773 second eig:19.893832144524005 spectral gap: 0.07439355150372506
+gamma fitted graph first eig: 7.208193602765319 second eig: 7.225366003539052 spectral gap: -0.017172400773732832
+clustered graph, size: 6588first eig: 19.414660463774716 second eig:19.345408537674427 spectral gap: 0.0692519261002893
+gamma fitted graph first eig: 7.110345441061019 second eig: 7.160409695025425 spectral gap: -0.050064253964405836
+clustered graph, size: 6623first eig: 20.369561093775076 second eig:19.775528276848302 spectral gap: 0.5940328169267737
+gamma fitted graph first eig: 7.185677694909557 second eig: 7.206509001543188 spectral gap: -0.02083130663363164
+clustered graph, size: 6502first eig: 19.289564454478764 second eig:19.131046687643636 spectral gap: 0.15851776683512853
+gamma fitted graph first eig: 6.8426719608215825 second eig: 6.85803848574026 spectral gap: -0.015366524918677626
+clustered graph, size: 6494first eig: 19.149414051797603 second eig:19.134108238757754 spectral gap: 0.01530581303984846
+gamma fitted graph first eig: 6.910870501746041 second eig: 6.946008355782183 spectral gap: -0.035137854036142
+clustered graph, size: 6601first eig: 20.0323205721894 second eig:19.84605480880389 spectral gap: 0.18626576338551004
+gamma fitted graph first eig: 7.0700440247248935 second eig: 7.123266794748732 spectral gap: -0.05322277002383835
+clustered graph, size: 6519first eig: 19.33670852481542 second eig:19.297143913897152 spectral gap: 0.03956461091826924
+gamma fitted graph first eig: 7.007220252828223 second eig: 7.0388708579821655 spectral gap: -0.03165060515394291
+clustered graph, size: 6534first eig: 18.975778849815086 second eig:18.89089727916708 spectral gap: 0.08488157064800461
+gamma fitted graph first eig: 6.786262240641505 second eig: 6.7946657402248825 spectral gap: -0.008403499583377716
+clustered graph, size: 6569first eig: 19.421887061013386 second eig:19.301310467253874 spectral gap: 0.12057659375951246
+gamma fitted graph first eig: 7.127767383243784 second eig: 7.147662188029454 spectral gap: -0.01989480478566996
+clustered graph, size: 6728first eig: 19.44060067564378 second eig:19.380693319217805 spectral gap: 0.059907356425974
+gamma fitted graph first eig: 6.812377831475774 second eig: 6.819397686519154 spectral gap: -0.0070198550433797635
+clustered graph, size: 6562first eig: 19.660164958360976 second eig:19.542471037160315 spectral gap: 0.11769392120066158
+gamma fitted graph first eig: 7.038582283484055 second eig: 7.053816945557689 spectral gap: -0.015234662073634553
+clustered graph, size: 6502first eig: 19.90267706497642 second eig:19.51925659875694 spectral gap: 0.38342046621948
+gamma fitted graph first eig: 7.017981063050901 second eig: 7.030255481117695 spectral gap: -0.01227441806679419
+clustered graph, size: 6597first eig: 1.2561370198465152 second eig:1.2534679258003547 spectral gap: 0.0026690940461604473
+gamma fitted graph first eig: 0.4148175493712378 second eig: 0.4151171081122392 spectral gap: -0.00029955874100134894
+clustered graph, size: 6621first eig: 1.2475353920651173 second eig:1.243430688940554 spectral gap: 0.004104703124563347
+gamma fitted graph first eig: 0.41159971290366015 second eig: 0.4129855781063806 spectral gap: -0.0013858652027204377
+clustered graph, size: 6507first eig: 1.255656099297448 second eig:1.2541582063610992 spectral gap: 0.0014978929363487214
+gamma fitted graph first eig: 0.4154032119730363 second eig: 0.4165491768992825 spectral gap: -0.0011459649262461902
+clustered graph, size: 6451first eig: 1.2528552255835774 second eig:1.2514648634904 spectral gap: 0.001390362093177444
+gamma fitted graph first eig: 0.4055462559734571 second eig: 0.40639034415040065 spectral gap: -0.000844088176943536
+clustered graph, size: 6579first eig: 1.2604530194250372 second eig:1.258533648663115 spectral gap: 0.0019193707619222788
+gamma fitted graph first eig: 0.41511639644941006 second eig: 0.4160521603138868 spectral gap: -0.0009357638644767463
+clustered graph, size: 6542first eig: 1.2487154117578196 second eig:1.2462916367578694 spectral gap: 0.002423774999950279
+gamma fitted graph first eig: 0.41290383151900467 second eig: 0.4132235251996864 spectral gap: -0.000319693680681743
+clustered graph, size: 6658first eig: 1.2507625730737983 second eig:1.2489856587302877 spectral gap: 0.0017769143435106827
+gamma fitted graph first eig: 0.4133438558451863 second eig: 0.41426758313616574 spectral gap: -0.0009237272909794481
+clustered graph, size: 6693first eig: 1.2590619481624823 second eig:1.2567655135274618 spectral gap: 0.0022964346350204945
+gamma fitted graph first eig: 0.4183130543012636 second eig: 0.41891459743635046 spectral gap: -0.0006015431350868683
+clustered graph, size: 6539first eig: 1.2412002477393893 second eig:1.2361124898232931 spectral gap: 0.0050877579160961695
+gamma fitted graph first eig: 0.40885232259238374 second eig: 0.41019104462192657 spectral gap: -0.001338722029542827
+clustered graph, size: 6680first eig: 1.252964545916652 second eig:1.2518300615110118 spectral gap: 0.0011344844056402348
+gamma fitted graph first eig: 0.4175803779607488 second eig: 0.41889200000224525 spectral gap: -0.0013116220414964297
+clustered graph, size: 6664first eig: 1.2590416403840257 second eig:1.2550186744110943 spectral gap: 0.004022965972931392
+gamma fitted graph first eig: 0.41579355418699704 second eig: 0.41713377157929143 spectral gap: -0.001340217392294396
+clustered graph, size: 6393first eig: 1.2572198652544193 second eig:1.2521839023416144 spectral gap: 0.005035962912804948
+gamma fitted graph first eig: 0.4054637067960388 second eig: 0.4061451026240612 spectral gap: -0.000681395828022402
+clustered graph, size: 6470first eig: 1.2572182588535203 second eig:1.25610977814647 spectral gap: 0.0011084807070502745
+gamma fitted graph first eig: 0.4098510606775706 second eig: 0.4115086475388674 spectral gap: -0.0016575868612968003
+clustered graph, size: 6677first eig: 1.253297250546091 second eig:1.245603162216887 spectral gap: 0.007694088329204041
+gamma fitted graph first eig: 0.4177611122832653 second eig: 0.41848144943823073 spectral gap: -0.0007203371549654447
+clustered graph, size: 6523first eig: 1.2525389662272852 second eig:1.2505155240774213 spectral gap: 0.002023442149863941
+gamma fitted graph first eig: 0.41061866033933625 second eig: 0.41089484990088515 spectral gap: -0.00027618956154890073
+clustered graph, size: 6573first eig: 1.2524594067413546 second eig:1.245268339585991 spectral gap: 0.007191067155363662
+gamma fitted graph first eig: 0.41705894427600015 second eig: 0.41803389669958313 spectral gap: -0.0009749524235829754
+clustered graph, size: 6420first eig: 1.2633699284366662 second eig:1.2563622418378948 spectral gap: 0.007007686598771379
+gamma fitted graph first eig: 0.40988973833626047 second eig: 0.41157397285082703 spectral gap: -0.0016842345145665627
+clustered graph, size: 6556first eig: 1.2483503818910753 second eig:1.2455379010432144 spectral gap: 0.0028124808478608987
+gamma fitted graph first eig: 0.4081933728799635 second eig: 0.4092630904797425 spectral gap: -0.0010697175997790298
+clustered graph, size: 6424first eig: 1.258511611198727 second eig:1.2550907463666803 spectral gap: 0.0034208648320466217
+gamma fitted graph first eig: 0.4015417332780854 second eig: 0.4026489263354065 spectral gap: -0.0011071930573210986
+clustered graph, size: 6655first eig: 1.2676920104640477 second eig:1.264553231470354 spectral gap: 0.003138778993693636
+gamma fitted graph first eig: 0.4173704358349102 second eig: 0.41949487846468275 spectral gap: -0.0021244426297725716
+clustered graph, size: 6539first eig: 1.2425286354453027 second eig:1.2417644316502128 spectral gap: 0.0007642037950899017
+gamma fitted graph first eig: 0.41173334362099784 second eig: 0.412078374947891 spectral gap: -0.00034503132689317484
+clustered graph, size: 6684first eig: 1.2531304666256158 second eig:1.246480948697425 spectral gap: 0.006649517928190685
+gamma fitted graph first eig: 0.4175659924813421 second eig: 0.4178441303799848 spectral gap: -0.0002781378986427274
+clustered graph, size: 6661first eig: 1.2639944211209688 second eig:1.2596708453863128 spectral gap: 0.004323575734656027
+gamma fitted graph first eig: 0.4179269858912987 second eig: 0.41895226548054265 spectral gap: -0.001025279589243977
+clustered graph, size: 6544first eig: 1.2511365263893341 second eig:1.2477935117823702 spectral gap: 0.0033430146069639566
+gamma fitted graph first eig: 0.409127893009329 second eig: 0.41020194281702377 spectral gap: -0.0010740498076947658
+clustered graph, size: 6636first eig: 1.2545591836182932 second eig:1.2523279025795377 spectral gap: 0.0022312810387554727
+gamma fitted graph first eig: 0.4163722663226075 second eig: 0.41706408777078724 spectral gap: -0.0006918214481797524
+clustered graph, size: 6754first eig: 1.2596536200778015 second eig:1.2569049362035942 spectral gap: 0.002748683874207236
+gamma fitted graph first eig: 0.41827980943788073 second eig: 0.41865805109611265 spectral gap: -0.0003782416582319148
+clustered graph, size: 6409first eig: 1.242140665328008 second eig:1.2370774947542986 spectral gap: 0.005063170573709419
+gamma fitted graph first eig: 0.4066797342628008 second eig: 0.4068517655571517 spectral gap: -0.00017203129435089393
+clustered graph, size: 6685first eig: 1.2633662553742524 second eig:1.2568176357175886 spectral gap: 0.006548619656663757
+gamma fitted graph first eig: 0.41810457488599245 second eig: 0.41918777205281677 spectral gap: -0.0010831971668243123
+clustered graph, size: 6674first eig: 1.257515181273103 second eig:1.2537375713104417 spectral gap: 0.003777609962661188
+gamma fitted graph first eig: 0.4096013555180635 second eig: 0.41049793139377977 spectral gap: -0.0008965758757162878
+clustered graph, size: 6747first eig: 1.2490291387656112 second eig:1.2482147291127939 spectral gap: 0.0008144096528173161
+gamma fitted graph first eig: 0.42063951964785246 second eig: 0.4212224562689283 spectral gap: -0.0005829366210758358
+clustered graph, size: 6508first eig: 1.2599919013941292 second eig:1.255013831577538 spectral gap: 0.004978069816591102
+gamma fitted graph first eig: 0.409680544917819 second eig: 0.4107504174604241 spectral gap: -0.0010698725426050992
+clustered graph, size: 6624first eig: 1.25464281387142 second eig:1.250302853742221 spectral gap: 0.0043399601291991274
+gamma fitted graph first eig: 0.41208265319482856 second eig: 0.4131561155062488 spectral gap: -0.001073462311420248
+clustered graph, size: 6636first eig: 1.2547538998001848 second eig:1.245799267018884 spectral gap: 0.00895463278130082
+gamma fitted graph first eig: 0.4145471521137471 second eig: 0.41531375169907975 spectral gap: -0.0007665995853326502
+clustered graph, size: 6676first eig: 1.2612859314858464 second eig:1.258794079794887 spectral gap: 0.0024918516909593347
+gamma fitted graph first eig: 0.4186084041438594 second eig: 0.4200253871199679 spectral gap: -0.001416982976108483
+clustered graph, size: 6593first eig: 1.2443000971430649 second eig:1.2386783409766067 spectral gap: 0.005621756166458214
+gamma fitted graph first eig: 0.4139971531214809 second eig: 0.4151514974290983 spectral gap: -0.0011543443076174054
+clustered graph, size: 6656first eig: 1.248744567742976 second eig:1.245707440836366 spectral gap: 0.003037126906610066
+gamma fitted graph first eig: 0.4162739551666954 second eig: 0.41719315917267463 spectral gap: -0.0009192040059792239
+clustered graph, size: 6523first eig: 1.2474432647927447 second eig:1.244105142143547 spectral gap: 0.00333812264919775
+gamma fitted graph first eig: 0.41189261081746836 second eig: 0.41283732539136003 spectral gap: -0.0009447145738916696
+clustered graph, size: 6551first eig: 1.2495676793478292 second eig:1.2473731527452807 spectral gap: 0.0021945266025484855
+gamma fitted graph first eig: 0.4116957413309081 second eig: 0.4125032956371222 spectral gap: -0.0008075543062140977
+clustered graph, size: 6656first eig: 1.251466026086659 second eig:1.2506145084702018 spectral gap: 0.0008515176164571869
+gamma fitted graph first eig: 0.4161791590158542 second eig: 0.416623238048654 spectral gap: -0.00044407903279974903
+clustered graph, size: 6693first eig: 1.2663590683388317 second eig:1.2572112080989113 spectral gap: 0.009147860239920425
+gamma fitted graph first eig: 0.41055633360348387 second eig: 0.41205586436918196 spectral gap: -0.0014995307656980872
+clustered graph, size: 6593first eig: 1.2497668767818473 second eig:1.2490717672133589 spectral gap: 0.0006951095684883946
+gamma fitted graph first eig: 0.4132885463013104 second eig: 0.41399860895985807 spectral gap: -0.0007100626585476721
+clustered graph, size: 6544first eig: 1.2566011069417982 second eig:1.2520115309310478 spectral gap: 0.004589576010750385
+gamma fitted graph first eig: 0.4103837406145129 second eig: 0.41266663497240746 spectral gap: -0.0022828943578945826
+clustered graph, size: 6573first eig: 1.2473849707076072 second eig:1.246466662645466 spectral gap: 0.0009183080621413264
+gamma fitted graph first eig: 0.41262567273822665 second eig: 0.41391414311476615 spectral gap: -0.0012884703765395078
+clustered graph, size: 6542first eig: 1.2522617340910993 second eig:1.2515420626261535 spectral gap: 0.0007196714649457814
+gamma fitted graph first eig: 0.41344399771106616 second eig: 0.41407679945028414 spectral gap: -0.0006328017392179808
+clustered graph, size: 6542first eig: 1.241141312793148 second eig:1.2372594407858841 spectral gap: 0.0038818720072639756
+gamma fitted graph first eig: 0.4095812544191551 second eig: 0.4109618981558733 spectral gap: -0.0013806437367182012
+clustered graph, size: 6561first eig: 1.2467903583318358 second eig:1.2440241099977827 spectral gap: 0.002766248334053145
+gamma fitted graph first eig: 0.4143561426283905 second eig: 0.4155092990552024 spectral gap: -0.0011531564268119077
+clustered graph, size: 6653first eig: 1.259050485562751 second eig:1.2567260357199768 spectral gap: 0.0023244498427741345
+gamma fitted graph first eig: 0.41706368772623453 second eig: 0.4172316182629145 spectral gap: -0.00016793053667996105
+clustered graph, size: 6679first eig: 1.2563319922129077 second eig:1.2538987457024473 spectral gap: 0.002433246510460396
+gamma fitted graph first eig: 0.4162255986070788 second eig: 0.416792493024573 spectral gap: -0.0005668944174941903
+clustered graph, size: 6723first eig: 1.263576687059378 second eig:1.2598262569498955 spectral gap: 0.0037504301094826165
+gamma fitted graph first eig: 0.4190315035145576 second eig: 0.4198967617276882 spectral gap: -0.0008652582131306041
+clustered graph, size: 6711first eig: 1.2597213653323975 second eig:1.258826860103445 spectral gap: 0.0008945052289526245
+gamma fitted graph first eig: 0.4196244948509677 second eig: 0.4205062288716255 spectral gap: -0.0008817340206577762
+clustered graph, size: 6574first eig: 1.2412853413922726 second eig:1.2403443471586968 spectral gap: 0.0009409942335758537
+gamma fitted graph first eig: 0.40927264982685313 second eig: 0.41009964542046395 spectral gap: -0.0008269955936108242
+clustered graph, size: 6527first eig: 1.246930463620565 second eig:1.2423956183178402 spectral gap: 0.004534845302724744
+gamma fitted graph first eig: 0.40729916103896985 second eig: 0.40798511006166555 spectral gap: -0.0006859490226956977
+clustered graph, size: 6511first eig: 10.955812778055394 second eig:10.720472492768767 spectral gap: 0.2353402852866271
+gamma fitted graph first eig: 4.640236567486815 second eig: 4.682787956036028 spectral gap: -0.0425513885492137
