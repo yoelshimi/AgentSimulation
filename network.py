@@ -66,8 +66,8 @@ def go(conf):
         if randomGraphMode == 3:
             G2 = NetGen.importNet()
         else:
-            G2, actual_weights = NetGen.DegNetGen(number_people, np.mean(degrees), avg_weights)
-        #  G2 = NetGen.DegNetGen(number_people, int(np.round(np.mean(degrees) / 2) * 2), avg_weights)
+            #  G2, actual_weights = NetGen.DegNetGen(number_people, np.mean(degrees), avg_weights)
+            G2, actual_weights = NetGen.DegNetGen(number_people, np.mean(degrees) * 10, avg_weights / 10)
         if randomGraphMode >= 2:
             G2 = RS.GraphifyNS(G2, conf.BelieverSusceptibleCorr, conf.beta_list, actual_weights)
 
