@@ -48,7 +48,8 @@ def go(conf):
 
     A = nx.adjacency_matrix(G)
 
-    print(nx.average_clustering(G))
+    cls_str = nx.average_clustering(G)
+    print(cls_str)
     # generate new graph adversary
     #  NetGen.gen_complete_graph(number_people)
     randomGraphMode = conf.RandomGraphMode
@@ -73,7 +74,8 @@ def go(conf):
 
         A2 = nx.adjacency_matrix(G2)
         A2 = A2.astype(float)
-        print(nx.average_clustering(G2))
+        cls_rnd = nx.average_clustering(G2)
+        print(cls_rnd)
         gam_e, gam_v = eigsh(A2, 10, which='LM')  # eigh(A2.toarray())  #
         gam_e = abs(gam_e)
 
@@ -84,6 +86,7 @@ def go(conf):
         lines = [
             f"\nclustered graph, size: {number_people}first eig: {clust_e[1]} second eig:{clust_e[0]} spectral gap: {clust_e[1]-clust_e[0]}"
             f"\ngamma fitted graph first eig: {gam_e[1]} second eig: {gam_e[0]} spectral gap: {gam_e[1] - gam_e[0]}"
+            f"\n average clustering coefficient structure: {cls_str}, average clustering coef random: {cls_rnd}"
         ]
         f = open('spectrum.txt','a')
         f.writelines(lines)

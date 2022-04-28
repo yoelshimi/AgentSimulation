@@ -13,7 +13,7 @@ file_path = os.path.dirname(__file__)
 
 # To open Workbook
 try:
-    wb = xlrd.open_workbook(os.path.join(file_path,WBname))
+    wb = xlrd.open_workbook(os.path.join(file_path, WBname))
 except:
     #  use local workbook in this dir.
     wb = xlrd.open_workbook(loc)
