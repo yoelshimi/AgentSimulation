@@ -347,7 +347,7 @@ class SEIRQModel(DiffusionModel):
                 if self.params['model']['is_sensitive'] and self.params['model']['is_believer']:
                     (s_ind, b_ind) = self.SB_partition(u, u_status)
 
-                t=1+1
+                t = 1 + 1
 
                 if np.random.rand() < self.params['model']['prob_d'][s_ind]:
                     #  dead

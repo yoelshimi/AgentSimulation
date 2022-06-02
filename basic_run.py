@@ -7,7 +7,6 @@ import cProfile
 
 if __name__ == "__main__":
     pars = argparse.ArgumentParser(description='input for simulation')
-
     pars.add_argument('-s','--save',default=True,type=lambda x: (str(x).lower() in ['true','1', 'yes']), required=False, help='Save output from simulation?')
     pars.add_argument('-n','--num_families',default=100,type=int, required=True, help='Number of families for simulation')
     pars.add_argument('-p','--is_plot',default=True,type=lambda x: (str(x).lower() in ['true','1', 'yes']), required=True, help='plot graphs from simulation? [0/1]')
@@ -31,6 +30,7 @@ if __name__ == "__main__":
     #  pars.add_argument('-i', '--input',type=str, required=False, help='input names for simulation')
     pars.add_argument('-o','--output',default="simulation output", type=str, required=False, help='output filename for simulation')
     pars.add_argument('-rng', '--RG_mode', default="off", type=str, required=False, help='mode of random graph')
+    pars.add_argument('-stg', '--STRG_mode', default="on", type=str, required=False, help='mode of structured graph')
     pars.add_argument('-add', '--import_address', default="off", type=str, required=False, help='path and filename to GML graph file for import')
 
     args = pars.parse_args()
@@ -56,9 +56,10 @@ if __name__ == "__main__":
                        m_p=mean_parents, e=employment, size_w=size_work, size_s=size_school,
                        r_c=args.random_connections, s_c=args.school_connections, lckn=lockdown, f=factor, s_w=school_w,
                        w_w=work_w, f_w=family_w, r_w=random_w, frq=args.frequency, b=args.beta, a=args.alpha,
-                       g=args.gamma, q=args.quarantine, q_t=args.quarantine_time,b_l=args.beta_list,g_h=args.gamma_hospital,
-                       p_h_l=args.hospital_list,p_d_l=args.death_list,sbc_l=args.SBC,
-                       p_i=args.part_infected, i=num_iter, o=args.output, rng=args.RG_mode, add=args.import_address)
+                       g=args.gamma, q=args.quarantine, q_t=args.quarantine_time, b_l=args.beta_list, g_h=args.gamma_hospital,
+                       p_h_l=args.hospital_list, p_d_l=args.death_list, sbc_l=args.SBC,
+                       p_i=args.part_infected, i=num_iter, o=args.output, rng=args.RG_mode, stg=args.stg,
+                       add=args.import_address)
 
     pf = False
     if pf:

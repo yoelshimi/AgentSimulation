@@ -195,6 +195,7 @@ def retrieveR0FromIter(iterations, resTable, freq, plot):
         PlotQn(qns)
 
     Rvalid = np.mean(qns)
+    Qvariance = np.var(qns)
 
     try:
         fit = stats.expon.fit(infectionTable[range(2, TRcalc)])
@@ -209,6 +210,6 @@ def retrieveR0FromIter(iterations, resTable, freq, plot):
     end_inf = resTable[0][len(resTable[0]) - 1] / number_people
     R0_ratio = 1 / end_inf
 
-    return (Rvalid, R0_growth, R0_ratio, time_to_max_inf * freq)
+    return (Rvalid, R0_growth, R0_ratio, time_to_max_inf * freq, Qvariance)
 
 

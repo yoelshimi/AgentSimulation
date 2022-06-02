@@ -7,49 +7,44 @@ import FamilyNetwork
 import SEIRyoel
 import time
 from scipy.sparse.linalg import eigs, eigsh
-
+import auxFunctions, DEFAULTS
 import RumorSpreading as RS
 
-
-# def weight_generator(b, int_size):
-#     return 1 - (1-b*int_size)**int_size
-
-
 def go(conf):
-    G, number_people, avg_weights, degrees = FamilyNetwork.generate(conf.num_families, conf.family_dist,
-                                                                                         conf.population_dist,conf.mean_parents,
-                                                                                         conf.employment, conf.size_work,
-                                                                                         conf.size_school,
-                                                                                         conf.random_connections, conf.plot, conf.school_w,
-                                                                                         conf.family_w, conf.work_w, conf.random_w,
-                                                                                         conf.BelieverSusceptibleCorr, conf.beta_list
-                                                                                )
+    _structGraphMode = conf.structuredGraphMode
+    if _structGraphMode == "off" or _structGraphMode == "false":
+        _structGraphMode = 0
+    if _structGraphMode == 'on' or _structGraphMode == 'true':
+        _structGraphMode = 1
+    if _structGraphMode == 'sb':
+        _structGraphMode = 2
+    if _structGraphMode == 'import':
+        _structGraphMode = 3
+    if _structGraphMode:
+        G, number_people, avg_weights, degrees = FamilyNetwork.generate(
+            conf.num_families, conf.family_dist,
+            conf.population_dist,conf.mean_parents,
+            conf.employment, conf.size_work,
+            conf.size_school,
+            conf.random_connections, conf.plot, conf.school_w,
+            conf.family_w, conf.work_w, conf.random_w,
+            conf.BelieverSusceptibleCorr, conf.beta_list
+            )
 
-    plot = conf.plot
-    # edges list, avg_weights, number of people, adjacency matrix
-    print(f"avg weight: {avg_weights}")
+        plot = conf.plot
+        # edges list, avg_weights, number of people, adjacency matrix
+        print(f"avg weight: {avg_weights}")
 
-    C = np.zeros((101,101),'float')
-    A = np.zeros(101,'float')
-    for a in G.nodes:
-        A[G.nodes[a]['age']] +=1
+        if plot:
+            A, C = auxFunctions.get_age_matrix(G)
+            plotting.GephiWrite(G)
+            plotting.plotWeightsOnGraph(C)
 
-    for e in G.edges:
-        a1 = G.nodes[e[0]]['age']
-        a2 = G.nodes[e[1]]['age']
-        C[a1][a2] += G.get_edge_data(e[0], e[1])['weight']
-
-
-
-    if plot:
-        plotting.GephiWrite(G)
-        plotting.plotWeightsOnGraph(C)
-
-
-    A = nx.adjacency_matrix(G)
-
-    cls_str = nx.average_clustering(G)
-    print(cls_str)
+        A = nx.adjacency_matrix(G)
+        cls_str = nx.average_clustering(G)
+        print(cls_str)
+        clust_e, clust_v = eigsh(A, 10, which='LM')
+        clust_e = abs(clust_e)
     # generate new graph adversary
     #  NetGen.gen_complete_graph(number_people)
     randomGraphMode = conf.RandomGraphMode
@@ -62,13 +57,19 @@ def go(conf):
         randomGraphMode = 2
     if randomGraphMode == 'import':
         randomGraphMode = 3
+    if randomGraphMode == 'manual':
+        randomGraphMode = 4
 
     if randomGraphMode:
+        if randomGraphMode == 4:
+            if __name__ == '__main__':
+                number_people = conf.num_families * DEFAULTS.FAM2PPL
+                degrees = DEFAULTS.DREGDEG
+                avg_weights = DEFAULTS.AVGWEIGHT
         if randomGraphMode == 3:
             G2 = NetGen.importNet()
         else:
-            #  G2, actual_weights = NetGen.DegNetGen(number_people, np.mean(degrees), avg_weights)
-            G2, actual_weights = NetGen.DegNetGen(number_people, np.mean(degrees) * 10, avg_weights / 10)
+            G2, actual_weights = NetGen.DegNetGen(number_people, np.mean(degrees), avg_weights)
         if randomGraphMode >= 2:
             G2 = RS.GraphifyNS(G2, conf.BelieverSusceptibleCorr, conf.beta_list, actual_weights)
 
@@ -78,9 +79,6 @@ def go(conf):
         print(cls_rnd)
         gam_e, gam_v = eigsh(A2, 10, which='LM')  # eigh(A2.toarray())  #
         gam_e = abs(gam_e)
-
-    clust_e, clust_v = eigsh(A, 10, which='LM')  # eigh(A.toarray())
-    clust_e = abs(clust_e)
 
     if randomGraphMode:
         lines = [
@@ -118,8 +116,9 @@ def go(conf):
     part_infected = conf.part_infected
     # init_inf = {num_families, num_families + 1}
     num_iter = conf.num_iter
-    # Model selection
-    model = SEIRyoel.SEIRQModel(G)
+    if _structGraphMode:
+        # Model selection
+        model = SEIRyoel.SEIRQModel(G)
 
     # Model Configuration
     cfg = mc.Configuration()
@@ -137,7 +136,8 @@ def go(conf):
     cfg.add_model_parameter("is_believer", True)
     cfg.add_model_parameter("sim_out", conf.output)
 
-    model.set_initial_status(cfg)
+    if _structGraphMode:
+        model.set_initial_status(cfg)
 
     if randomGraphMode:
         model2 = SEIRyoel.SEIRQModel(G2)
@@ -153,25 +153,25 @@ def go(conf):
     # model2.iteration = SEIRyoel.iteration
 
     # Simulation execution - model 1
-    # iterations = SEIRyoel.yoel_iteration_bunch(model, num_iter)
-    print("starting structured graph\n")
+    if _structGraphMode:
+        print("starting structured graph\n")
 
-    iterations = model.yoel_iteration_bunch(num_iter, node_status=plot)
+        iterations = model.yoel_iteration_bunch(num_iter, node_status=plot)
 
-    trends = model.build_trends(iterations)
-    T1 = np.asarray(list(trends[0]['trends']['node_count'].values()))
-    maximun_inf = np.max(T1[2]) / number_people
+        trends = model.build_trends(iterations)
+        T1 = np.asarray(list(trends[0]['trends']['node_count'].values()))
+        maximun_inf = np.max(T1[2]) / number_people
 
-    if plot:
-        (Rvalid, R0_growth, R0_ratio, TtoMax) = plotting.retrieveR0FromIter(iterations, T1, freq, plot)
-    else:
-        Rvalid, R0_growth, R0_ratio, TtoMax = 0, 0, 0, 0
+        if True:  # plot
+            (Rvalid, R0_growth, R0_ratio, TtoMax, Qvar) = plotting.retrieveR0FromIter(iterations, T1, freq, plot)
+        else:
+            Rvalid, R0_growth, R0_ratio, TtoMax, Qvar = 0, 0, 0, 0, 0
 
-    R0str = f"Graph simulation : R0 direct: {Rvalid} Growth rate: {R0_growth} R0 ratio infected at end: {R0_ratio}"
-    maxInfStr = f"max inf: {maximun_inf} at: {TtoMax}"
-    print(R0str)
-    # viz.trends()
-    print("finished structured graph\n")
+        R0str = f"Graph simulation : R0 direct: {Rvalid} Growth rate: {R0_growth} R0 ratio infected at end: {R0_ratio}"
+        maxInfStr = f"max inf: {maximun_inf} at: {TtoMax}"
+        print(R0str)
+        # viz.trends()
+        print("finished structured graph\n")
 
     if randomGraphMode:
         # simulation - model 2 - random model
@@ -183,10 +183,10 @@ def go(conf):
 
         T2 = np.asarray(list(trends2[0]['trends']['node_count'].values()))
 
-        if plot:
-            (RvalidRandom, R0_growthRandom, R0_ratioRandom, TtoMax2) = plotting.retrieveR0FromIter(iterations2, T2, freq, plot)
+        if True:  # plot
+            (RvalidRandom, R0_growthRandom, R0_ratioRandom, TtoMax2, QvarRnd) = plotting.retrieveR0FromIter(iterations2, T2, freq, plot)
         else:
-            RvalidRandom, R0_growthRandom, R0_ratioRandom, TtoMax2 = 0, 0, 0, 0
+            RvalidRandom, R0_growthRandom, R0_ratioRandom, TtoMax2, QvarRnd = 0, 0, 0, 0
         R0strRandom = f"Dreg simulation : R0 direct: {RvalidRandom} Growth rate: {R0_growthRandom} R0 ratio infected at end: {R0_ratioRandom}"
         print(R0strRandom)
 
@@ -205,28 +205,27 @@ def go(conf):
         RvalidRandom = 0
 
     # output stage
-
     if conf.save:
-        np.savetxt(
-            "israel population graph"+conf.output+".csv",
-            T1, fmt='%.13e', delimiter=",")
+        if _structGraphMode:
+            np.savetxt(
+                "israel population graph"+conf.output+".csv",
+                T1, fmt='%.13e', delimiter=",")
+            localtime = time.asctime(time.localtime(time.time()))
 
+            towrite = ["\nLocal current time :" + str(localtime),
+                       f"\nmean, var of degree dist. : {np.mean(degrees)}, {np.std(degrees)}",
+                       f"\npeople: {number_people}",
+                       f"\nclass size: {conf.size_school} office size: {conf.size_work}",
+                       f"\nbeta S->E: {conf.beta} gamma E E->I: {alpha} gamma R I->R: {gamma} iter per day: {freq}"
+                       f"\nlockdown: {conf.lockdown}"
+                       f"\nmean weight: {avg_weights} fraction initially infected: {part_infected}\n",
+                       R0str, "\n",
+                       maxInfStr,"\n",
+                       R0strRandom, "\n",
+                       maxInfStr2, "\n",
+                       f"Qvar structured: {Qvar} Qvar random: {QvarRnd}"
+                       ]
 
-
-        localtime = time.asctime(time.localtime(time.time()))
-
-        towrite = ["\nLocal current time :" + str(localtime),
-                   f"\nmean, var of degree dist. : {np.mean(degrees)}, {np.std(degrees)}",
-                   f"\npeople: {number_people}",
-                   f"\nclass size: {conf.size_school} office size: {conf.size_work}",
-                   f"\nbeta S->E: {conf.beta} gamma E E->I: {alpha} gamma R I->R: {gamma} iter per day: {freq}"
-                   f"\nlockdown: {conf.lockdown}"
-                   f"\nmean weight: {avg_weights} fraction initially infected: {part_infected}\n",
-                   R0str, "\n",
-                   maxInfStr,"\n",
-                   R0strRandom, "\n",
-                   maxInfStr2
-                   ]
         if randomGraphMode:
             import os
             print(os.getcwd() + "random graph" + conf.output + ".csv")

@@ -6,7 +6,7 @@ import cProfile
 
 class NetConfig:
     def __init__(self, p, s, n, f_d, p_d, m_p, e, size_w, size_s, r_c, s_c, lckn, f, s_w, w_w, f_w, r_w, frq, b, a, g,
-                 q, q_t, p_i, i, o, b_l, g_h, p_h_l, p_d_l, sbc_l, rng, add):
+                 q, q_t, p_i, i, o, b_l, g_h, p_h_l, p_d_l, sbc_l, rng, add, stg):
         self.save = s
         self.num_families = n
         self.family_dist = f_d
@@ -40,6 +40,7 @@ class NetConfig:
         self.BelieverSusceptibleCorr = sbc_l
         self.RandomGraphMode = rng
         self.GMLAdress = add
+        self.structuredGraphMode = stg
 
 
 if __name__ == "__main__":
