@@ -171,12 +171,11 @@ class SEIRQModel(DiffusionModel):
                  delta of nodes per status w.r.t the previous configuration (dictionary status->delta)
         """
         actual_status_count = {}
-
-
         delta = {}
         for n, v in future.utils.iteritems(self.status):
             if v != actual_status[n]:
                 delta[n] = actual_status[n]
+
         if eventNodes and last_its:
             for st in list(self.available_statuses.values()):
                 actual_status_count[st] = last_its['node_count'][st]
@@ -186,10 +185,11 @@ class SEIRQModel(DiffusionModel):
                 new_state = actual_status[n]
                 actual_status_count[new_state] += 1
 
+            if any([x < 0 for x in last_its['node_count'].values()]):
+                print("error")
         else:
             for st in list(self.available_statuses.values()):
                 actual_status_count[st] = len([x for x in actual_status.values() if x == st])
-                #  actual_status_count[st] = len([x for x in actual_status if actual_status[x] == st])
 
         if last_its:
             old_status_count = last_its['node_count']
@@ -346,8 +346,6 @@ class SEIRQModel(DiffusionModel):
                 b_ind = 0  # default: SNB
                 if self.params['model']['is_sensitive'] and self.params['model']['is_believer']:
                     (s_ind, b_ind) = self.SB_partition(u, u_status)
-
-                t = 1 + 1
 
                 if np.random.rand() < self.params['model']['prob_d'][s_ind]:
                     #  dead

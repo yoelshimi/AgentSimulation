@@ -32,7 +32,7 @@ def DegNetGen(num_nodes, degree, weight):
     actualWeights = np.mean(degree) * weight / roundDeg
     if num_nodes % 2 != 0 and roundDeg % 2 != 0:
         num_nodes += 1
-    G = nx.random_regular_graph(int(roundDeg), num_nodes)
+    G = nx.random_regular_graph(int(roundDeg), int(round(num_nodes)))
     nx.set_edge_attributes(G, values=actualWeights, name='weight')
     return G, actualWeights
 

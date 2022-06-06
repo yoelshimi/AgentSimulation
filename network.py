@@ -1,5 +1,6 @@
 import numpy as np
 import plotting
+import os
 import networkx as nx
 import ndlib.models.ModelConfig as mc
 import NetGen
@@ -11,15 +12,11 @@ import auxFunctions, DEFAULTS
 import RumorSpreading as RS
 
 def go(conf):
-    _structGraphMode = conf.structuredGraphMode
-    if _structGraphMode == "off" or _structGraphMode == "false":
-        _structGraphMode = 0
-    if _structGraphMode == 'on' or _structGraphMode == 'true':
-        _structGraphMode = 1
-    if _structGraphMode == 'sb':
-        _structGraphMode = 2
-    if _structGraphMode == 'import':
-        _structGraphMode = 3
+    print(f"structured graph mode: " + conf.structuredGraphMode)
+    print(f"random graph mode: " + conf.randomGraphMode)
+    _structGraphMode = auxFunctions.conf2vals(conf.structuredGraphMode)
+    plot = conf.plot
+
     if _structGraphMode:
         G, number_people, avg_weights, degrees = FamilyNetwork.generate(
             conf.num_families, conf.family_dist,
@@ -28,10 +25,9 @@ def go(conf):
             conf.size_school,
             conf.random_connections, conf.plot, conf.school_w,
             conf.family_w, conf.work_w, conf.random_w,
-            conf.BelieverSusceptibleCorr, conf.beta_list
+            conf.believerSusceptibleCorr, conf.beta_list
             )
 
-        plot = conf.plot
         # edges list, avg_weights, number of people, adjacency matrix
         print(f"avg weight: {avg_weights}")
 
@@ -47,40 +43,27 @@ def go(conf):
         clust_e = abs(clust_e)
     # generate new graph adversary
     #  NetGen.gen_complete_graph(number_people)
-    randomGraphMode = conf.RandomGraphMode
-    print("random graph mode: " + randomGraphMode)
-    if randomGraphMode == "off" or randomGraphMode == "false":
-        randomGraphMode = 0
-    if randomGraphMode == 'on' or randomGraphMode == 'true':
-        randomGraphMode = 1
-    if randomGraphMode == 'sb':
-        randomGraphMode = 2
-    if randomGraphMode == 'import':
-        randomGraphMode = 3
-    if randomGraphMode == 'manual':
-        randomGraphMode = 4
-
+    randomGraphMode = auxFunctions.conf2vals(conf.randomGraphMode)
     if randomGraphMode:
         if randomGraphMode == 4:
-            if __name__ == '__main__':
-                number_people = conf.num_families * DEFAULTS.FAM2PPL
-                degrees = DEFAULTS.DREGDEG
-                avg_weights = DEFAULTS.AVGWEIGHT
+            number_people = conf.num_families * DEFAULTS.FAM2PPL
+            degrees = DEFAULTS.DREGDEG
+            avg_weights = DEFAULTS.AVGWEIGHT
         if randomGraphMode == 3:
             G2 = NetGen.importNet()
         else:
             G2, actual_weights = NetGen.DegNetGen(number_people, np.mean(degrees), avg_weights)
         if randomGraphMode >= 2:
-            G2 = RS.GraphifyNS(G2, conf.BelieverSusceptibleCorr, conf.beta_list, actual_weights)
+            G2 = RS.GraphifyNS(G2, conf.believerSusceptibleCorr, conf.beta_list, actual_weights)
 
         A2 = nx.adjacency_matrix(G2)
         A2 = A2.astype(float)
         cls_rnd = nx.average_clustering(G2)
-        print(cls_rnd)
-        gam_e, gam_v = eigsh(A2, 10, which='LM')  # eigh(A2.toarray())  #
+        print(f"random clustering: {cls_rnd}, d/n: {degrees / number_people}")
+        gam_e, gam_v = eigsh(A2, 5, which='LM')  # eigh(A2.toarray())  #
         gam_e = abs(gam_e)
 
-    if randomGraphMode:
+    if _structGraphMode:
         lines = [
             f"\nclustered graph, size: {number_people}first eig: {clust_e[1]} second eig:{clust_e[0]} spectral gap: {clust_e[1]-clust_e[0]}"
             f"\ngamma fitted graph first eig: {gam_e[1]} second eig: {gam_e[0]} spectral gap: {gam_e[1] - gam_e[0]}"
@@ -92,9 +75,8 @@ def go(conf):
         Row = f"\n{number_people}, {np.flip(clust_e)},{clust_e[1]-clust_e[0]},{np.flip(gam_e)},{gam_e[1] - gam_e[0]}"
         with open('spectrum.csv', 'a') as f:
             f.write(Row)
-
-    if plot:
-        plotting.GraphDegreePlot(gam_e,clust_e)
+        if plot:
+            plotting.GraphDegreePlot(gam_e,clust_e)
 
     # frequency of calculations - number of iterations per day
     freq = conf.freq
@@ -193,26 +175,26 @@ def go(conf):
         maximun_inf2 = np.max(T2[2]) / number_people
 
         maxInfStr2 = f"max inf: {maximun_inf2} at: {TtoMax2}"
-        if plot:
-            print("blabla")
-
+        if plot and _structGraphMode:
+            print("plotting SEIR results")
             plotting.BokehPlotSEIR(model, trends, model2, trends2, conf.output)
 
-    if not randomGraphMode:
-        if plot:
+    if bool(randomGraphMode) != bool(_structGraphMode) and plot:
+        if _structGraphMode:
             plotting.BokehPlotOne(model, trends, conf.output)
-        R_0_random = 0
-        RvalidRandom = 0
+        if randomGraphMode:
+            plotting.BokehPlotOne(model2, trends2, conf.output)
 
     # output stage
     if conf.save:
+        localtime = time.asctime(time.localtime(time.time()))
+        towrite = []
         if _structGraphMode:
             np.savetxt(
                 "israel population graph"+conf.output+".csv",
                 T1, fmt='%.13e', delimiter=",")
-            localtime = time.asctime(time.localtime(time.time()))
 
-            towrite = ["\nLocal current time :" + str(localtime),
+            towrite = towrite.append(["\nLocal current time :" + str(localtime),
                        f"\nmean, var of degree dist. : {np.mean(degrees)}, {np.std(degrees)}",
                        f"\npeople: {number_people}",
                        f"\nclass size: {conf.size_school} office size: {conf.size_work}",
@@ -224,13 +206,23 @@ def go(conf):
                        R0strRandom, "\n",
                        maxInfStr2, "\n",
                        f"Qvar structured: {Qvar} Qvar random: {QvarRnd}"
-                       ]
+                       ])
 
         if randomGraphMode:
-            import os
+            if not bool(_structGraphMode):
+                towrite.append(["\nLocal current time :" + str(localtime),
+                      f"\nmean, var of degree dist. : {np.mean(degrees)}, {np.std(degrees)}",
+                      f"\npeople: {number_people}",
+                      R0strRandom, "\n",
+                      maxInfStr2
+                      ])
+                towrite = ''.join(towrite[0])
+            else:
+                towrite = ''.join(towrite)
+
             print(os.getcwd() + "random graph" + conf.output + ".csv")
             np.savetxt("random graph" + conf.output + ".csv", T2, fmt='%.13e', delimiter=",")
-            towrite = ''.join(towrite)
+
         f = open("run details.txt", "a")
         f.writelines(towrite)
         f.close()

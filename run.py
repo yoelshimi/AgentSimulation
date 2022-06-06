@@ -37,8 +37,8 @@ class NetConfig:
         self.gamma_hospital = g_h
         self.prob_hosp = p_h_l
         self.prob_dead = p_d_l
-        self.BelieverSusceptibleCorr = sbc_l
-        self.RandomGraphMode = rng
+        self.believerSusceptibleCorr = sbc_l
+        self.randomGraphMode = rng
         self.GMLAdress = add
         self.structuredGraphMode = stg
 

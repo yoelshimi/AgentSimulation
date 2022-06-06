@@ -106,7 +106,6 @@ def BokehPlotSEIR(model, trends, model2, trends2, output_name):
 # plotting for one graph
 def BokehPlotOne(model, trends, output_name):
     vm = MultiPlot()
-
     viz = DiffusionTrend(model, trends)
     viz.title = ' - clustered town disease spread: '
     p1 = viz.plot(width=650, height=550)

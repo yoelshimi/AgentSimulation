@@ -58,7 +58,7 @@ if __name__ == "__main__":
                        w_w=work_w, f_w=family_w, r_w=random_w, frq=args.frequency, b=args.beta, a=args.alpha,
                        g=args.gamma, q=args.quarantine, q_t=args.quarantine_time, b_l=args.beta_list, g_h=args.gamma_hospital,
                        p_h_l=args.hospital_list, p_d_l=args.death_list, sbc_l=args.SBC,
-                       p_i=args.part_infected, i=num_iter, o=args.output, rng=args.RG_mode, stg=args.stg,
+                       p_i=args.part_infected, i=num_iter, o=args.output, rng=args.RG_mode, stg=args.STRG_mode,
                        add=args.import_address)
 
     pf = False
