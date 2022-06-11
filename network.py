@@ -189,12 +189,12 @@ def go(conf):
     if conf.save:
         localtime = time.asctime(time.localtime(time.time()))
         towrite = []
-        if _structGraphMode:
+        if bool(_structGraphMode):
             np.savetxt(
                 "israel population graph"+conf.output+".csv",
                 T1, fmt='%.13e', delimiter=",")
 
-            towrite = towrite.append(["\nLocal current time :" + str(localtime),
+            towrite.append(["\nLocal current time :" + str(localtime),
                        f"\nmean, var of degree dist. : {np.mean(degrees)}, {np.std(degrees)}",
                        f"\npeople: {number_people}",
                        f"\nclass size: {conf.size_school} office size: {conf.size_work}",
@@ -218,7 +218,7 @@ def go(conf):
                       ])
                 towrite = ''.join(towrite[0])
             else:
-                towrite = ''.join(towrite)
+                towrite = ''.join(towrite[0])
 
             print(os.getcwd() + "random graph" + conf.output + ".csv")
             np.savetxt("random graph" + conf.output + ".csv", T2, fmt='%.13e', delimiter=",")

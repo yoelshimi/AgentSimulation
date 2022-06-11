@@ -176,7 +176,7 @@ class SEIRQModel(DiffusionModel):
             if v != actual_status[n]:
                 delta[n] = actual_status[n]
 
-        if eventNodes and last_its:
+        if False and eventNodes and last_its:
             for st in list(self.available_statuses.values()):
                 actual_status_count[st] = last_its['node_count'][st]
             for n in eventNodes:
@@ -184,9 +184,6 @@ class SEIRQModel(DiffusionModel):
                 actual_status_count[last_state] -= 1
                 new_state = actual_status[n]
                 actual_status_count[new_state] += 1
-
-            if any([x < 0 for x in last_its['node_count'].values()]):
-                print("error")
         else:
             for st in list(self.available_statuses.values()):
                 actual_status_count[st] = len([x for x in actual_status.values() if x == st])
@@ -199,7 +196,10 @@ class SEIRQModel(DiffusionModel):
                 old_status_count[st] = len([x for x in self.status if self.status[x] == st])
 
         status_delta = {st: actual_status_count[st] - old_status_count[st] for st in actual_status_count}
-
+        #  if [len([x for x in actual_status.values() if x == y]) for y in range(len(self.available_statuses))] != [actual_status_count[x] for x in range(len(self.available_statuses))]:
+        #      print("error")
+        if any([x < 0 for x in actual_status_count.values()]):
+            print("error")
         return delta, actual_status_count, status_delta
 
     def iteration(self, last_its, node_status=True, is_final=False):
@@ -235,7 +235,9 @@ class SEIRQModel(DiffusionModel):
 
         eventNodes = list(np.flatnonzero([self.progress < 0]))
         if eventNodes:
-            eventNodes = [eventNodes[i] for i in np.fromiter(np.argsort(self.progress[eventNodes], 0), dtype="int32")]
+            # order them so the first node is first.
+            if len(eventNodes) > 1:
+                eventNodes = [eventNodes[i] for i in np.fromiter(np.argsort(self.progress[eventNodes], 0), dtype="int32")]
             for u in eventNodes:
                 actual_status = self.run_node(actual_status=actual_status, u=u)
         if len(eventNodes) != 0 or not last_its:
