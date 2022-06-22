@@ -149,8 +149,8 @@ def go(conf):
         else:
             Rvalid, R0_growth, R0_ratio, TtoMax, Qvar = 0, 0, 0, 0, 0
 
-        R0str = f"Graph simulation : R0 direct: {Rvalid} Growth rate: {R0_growth} R0 ratio infected at end: {R0_ratio}"
-        maxInfStr = f"max inf: {maximun_inf} at: {TtoMax}"
+        R0str = f"Graph simulation R direct: {Rvalid} Graph Growth rate: {R0_growth} Graph R ratio: {R0_ratio}"
+        maxInfStr = f"Graph max inf: {maximun_inf} Graph maxTime: {TtoMax}"
         print(R0str)
         # viz.trends()
         print("finished structured graph\n")
@@ -169,12 +169,12 @@ def go(conf):
             (RvalidRandom, R0_growthRandom, R0_ratioRandom, TtoMax2, QvarRnd) = plotting.retrieveR0FromIter(iterations2, T2, freq, plot)
         else:
             RvalidRandom, R0_growthRandom, R0_ratioRandom, TtoMax2, QvarRnd = 0, 0, 0, 0
-        R0strRandom = f"Dreg simulation : R0 direct: {RvalidRandom} Growth rate: {R0_growthRandom} R0 ratio infected at end: {R0_ratioRandom}"
+        R0strRandom = f"Dreg simulation R direct: {RvalidRandom} Dreg Growth rate: {R0_growthRandom} Dreg R ratio: {R0_ratioRandom}"
         print(R0strRandom)
 
         maximun_inf2 = np.max(T2[2]) / number_people
 
-        maxInfStr2 = f"max inf: {maximun_inf2} at: {TtoMax2}"
+        maxInfStr2 = f"Dreg max inf: {maximun_inf2} Dreg maxTime: {TtoMax2}"
         if plot and _structGraphMode:
             print("plotting SEIR results")
             plotting.BokehPlotSEIR(model, trends, model2, trends2, conf.output)
@@ -205,7 +205,7 @@ def go(conf):
                        maxInfStr,"\n",
                        R0strRandom, "\n",
                        maxInfStr2, "\n",
-                       f"Qvar structured: {Qvar} Qvar random: {QvarRnd}"
+                       f"Qvar structured: {Qvar}"
                        ])
 
         if randomGraphMode:
@@ -214,7 +214,8 @@ def go(conf):
                       f"\nmean, var of degree dist. : {np.mean(degrees)}, {np.std(degrees)}",
                       f"\npeople: {number_people}",
                       R0strRandom, "\n",
-                      maxInfStr2
+                      maxInfStr2, "\n",
+                      f"Qvar random: {QvarRnd}"
                       ])
                 towrite = ''.join(towrite[0])
             else:

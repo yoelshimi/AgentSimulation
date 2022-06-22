@@ -870,3 +870,113 @@ hospital divisions:
 Dead divisions:
  'snb': 0.0, 'sb': 2.0, 'nsnb': 6.0, 'nsb': 8.0
 infectors SB: {'snb': 1584, 'sb': 392, 'nsnb': 816, 'nsb': 495} 
+**-------------------------**
+ Fri Jun  3 10:34:59 2022
+population: {'snb': 337, 'sb': 461, 'nsnb': 169, 'nsb': 681} 
+sick divisions:
+ 'snb': 227.0, 'sb': 169.0, 'nsnb': 131.0, 'nsb': 233.0
+hospital divisions:
+ 'snb': 4.0, 'sb': 3.0, 'nsnb': 21.0, 'nsb': 40.0
+Dead divisions:
+ 'snb': 0.0, 'sb': 0.0, 'nsnb': 0.0, 'nsb': 2.0
+infectors SB: {'snb': 376, 'sb': 62, 'nsnb': 224, 'nsb': 82} 
+**-------------------------**
+ Sat Jun 11 23:08:14 2022
+population: {'snb': 303, 'sb': 489, 'nsnb': 154, 'nsb': 668} 
+sick divisions:
+ 'snb': 174.0, 'sb': 153.0, 'nsnb': 91.0, 'nsb': 206.0
+hospital divisions:
+ 'snb': 4.0, 'sb': 7.0, 'nsnb': 20.0, 'nsb': 43.0
+Dead divisions:
+ 'snb': 0.0, 'sb': 0.0, 'nsnb': 0.0, 'nsb': 5.0
+infectors SB: {'snb': 336, 'sb': 64, 'nsnb': 115, 'nsb': 93} 
+**-------------------------**
+ Sat Jun 11 23:09:25 2022
+population: {'snb': 330, 'sb': 517, 'nsnb': 153, 'nsb': 682} 
+sick divisions:
+ 'snb': 194.0, 'sb': 158.0, 'nsnb': 96.0, 'nsb': 189.0
+hospital divisions:
+ 'snb': 4.0, 'sb': 4.0, 'nsnb': 22.0, 'nsb': 29.0
+Dead divisions:
+ 'snb': 1.0, 'sb': 1.0, 'nsnb': 1.0, 'nsb': 0.0
+infectors SB: {'snb': 297, 'sb': 75, 'nsnb': 165, 'nsb': 84} 
+**-------------------------**
+ Sat Jun 11 23:12:22 2022
+population: {'snb': 330, 'sb': 507, 'nsnb': 160, 'nsb': 636} 
+sick divisions:
+ 'snb': 221.0, 'sb': 189.0, 'nsnb': 116.0, 'nsb': 238.0
+hospital divisions:
+ 'snb': 5.0, 'sb': 2.0, 'nsnb': 23.0, 'nsb': 46.0
+Dead divisions:
+ 'snb': 0.0, 'sb': 2.0, 'nsnb': 0.0, 'nsb': 5.0
+infectors SB: {'snb': 403, 'sb': 83, 'nsnb': 180, 'nsb': 82} 
+**-------------------------**
+ Sat Jun 11 23:15:20 2022
+population: {'snb': 348, 'sb': 492, 'nsnb': 157, 'nsb': 709} 
+sick divisions:
+ 'snb': 255.0, 'sb': 185.0, 'nsnb': 116.0, 'nsb': 231.0
+hospital divisions:
+ 'snb': 5.0, 'sb': 5.0, 'nsnb': 25.0, 'nsb': 48.0
+Dead divisions:
+ 'snb': 1.0, 'sb': 1.0, 'nsnb': 3.0, 'nsb': 0.0
+infectors SB: {'snb': 404, 'sb': 88, 'nsnb': 191, 'nsb': 87} 
+**-------------------------**
+ Sun Jun 12 00:51:12 2022
+population: {'snb': 337, 'sb': 475, 'nsnb': 171, 'nsb': 660} 
+sick divisions:
+ 'snb': 218.0, 'sb': 170.0, 'nsnb': 126.0, 'nsb': 238.0
+hospital divisions:
+ 'snb': 4.0, 'sb': 1.0, 'nsnb': 20.0, 'nsb': 35.0
+Dead divisions:
+ 'snb': 0.0, 'sb': 0.0, 'nsnb': 1.0, 'nsb': 3.0
+infectors SB: {'snb': 372, 'sb': 67, 'nsnb': 203, 'nsb': 94} 
+**-------------------------**
+ Sun Jun 12 00:51:46 2022
+population: {'snb': 306, 'sb': 537, 'nsnb': 182, 'nsb': 681} 
+sick divisions:
+ 'snb': 160.0, 'sb': 173.0, 'nsnb': 97.0, 'nsb': 178.0
+hospital divisions:
+ 'snb': 3.0, 'sb': 1.0, 'nsnb': 15.0, 'nsb': 41.0
+Dead divisions:
+ 'snb': 2.0, 'sb': 0.0, 'nsnb': 1.0, 'nsb': 0.0
+infectors SB: {'snb': 286, 'sb': 64, 'nsnb': 174, 'nsb': 67} 
+**-------------------------**
+ Mon Jun 13 00:04:45 2022
+population: {'snb': 314, 'sb': 491, 'nsnb': 150, 'nsb': 656} 
+sick divisions:
+ 'snb': 177.0, 'sb': 126.0, 'nsnb': 89.0, 'nsb': 196.0
+hospital divisions:
+ 'snb': 1.0, 'sb': 3.0, 'nsnb': 17.0, 'nsb': 30.0
+Dead divisions:
+ 'snb': 0.0, 'sb': 0.0, 'nsnb': 1.0, 'nsb': 2.0
+infectors SB: {'snb': 284, 'sb': 58, 'nsnb': 135, 'nsb': 95} 
+**-------------------------**
+ Mon Jun 20 00:36:47 2022
+population: {'snb': 339, 'sb': 480, 'nsnb': 185, 'nsb': 674} 
+sick divisions:
+ 'snb': 217.0, 'sb': 154.0, 'nsnb': 122.0, 'nsb': 242.0
+hospital divisions:
+ 'snb': 5.0, 'sb': 1.0, 'nsnb': 18.0, 'nsb': 47.0
+Dead divisions:
+ 'snb': 1.0, 'sb': 0.0, 'nsnb': 2.0, 'nsb': 2.0
+infectors SB: {'snb': 371, 'sb': 76, 'nsnb': 170, 'nsb': 102} 
+**-------------------------**
+ Tue Jun 21 22:36:04 2022
+population: {'snb': 358, 'sb': 484, 'nsnb': 142, 'nsb': 658} 
+sick divisions:
+ 'snb': 343.0, 'sb': 412.0, 'nsnb': 140.0, 'nsb': 571.0
+hospital divisions:
+ 'snb': 11.0, 'sb': 7.0, 'nsnb': 25.0, 'nsb': 122.0
+Dead divisions:
+ 'snb': 3.0, 'sb': 0.0, 'nsnb': 0.0, 'nsb': 5.0
+infectors SB: {'snb': 648, 'sb': 232, 'nsnb': 299, 'nsb': 271} 
+**-------------------------**
+ Wed Jun 22 13:50:50 2022
+population: {'snb': 343, 'sb': 508, 'nsnb': 167, 'nsb': 659} 
+sick divisions:
+ 'snb': 328.0, 'sb': 437.0, 'nsnb': 163.0, 'nsb': 546.0
+hospital divisions:
+ 'snb': 8.0, 'sb': 8.0, 'nsnb': 31.0, 'nsb': 104.0
+Dead divisions:
+ 'snb': 1.0, 'sb': 3.0, 'nsnb': 1.0, 'nsb': 7.0
+infectors SB: {'snb': 654, 'sb': 219, 'nsnb': 297, 'nsb': 288} 

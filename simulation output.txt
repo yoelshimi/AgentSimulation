@@ -1,12 +1,13 @@
 
-Local current time :Sun Nov 21 21:29:12 2021
-mean, var of degree dist. : 17.005682690830902, 10.646948692966248
-people: 6511
+Local current time :Mon Jun 20 00:36:48 2022
+mean, var of degree dist. : 20.0, 0.0
+people: 1650.0
 class size: 25 office size: 5
-beta S->E: 3.0 gamma E E->I: inf gamma R I->R: 0.25 iter per day: 24
+beta S->E: 3.0 gamma E E->I: 1.0 gamma R I->R: 0.25 iter per day: 24
 lockdown: 1
-mean weight: 0.181940049131173 fraction initially infected: 0.01
-Graph simulation : R0 direct: 2.781609195402299 Growth rate: 18.4375 R0 ratio infected at end: 1.8938336242001166
-max inf: 0.09230532944248196 at: 8328
-Dreg simulation : R0 direct: 2.5866666666666664 Growth rate: 13.200000000000003 R0 ratio infected at end: 2.608974358974359
-max inf: 0.15942251574258948 at: 6672
+mean weight: 1 fraction initially infected: 0.01
+Graph simulation R direct: 2.75 Graph Growth rate: 2.8139534883720927 Graph R ratio: 1.7794273594909864
+Graph max inf: 0.08727272727272728 Graph maxTime: 10920
+Dreg simulation R direct: 4.703703703703703 Dreg Growth rate: 4.307692307692307 Dreg R ratio: 117.85714285714285
+Dreg max inf: 0.4296969696969697 Dreg maxTime: 3816
+Qvar structured: 7.520833333333333 Qvar random: 7.912208504801096

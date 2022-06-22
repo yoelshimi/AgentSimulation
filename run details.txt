@@ -1869,3 +1869,67 @@ Graph simulation : R0 direct: 2.781609195402299 Growth rate: 18.4375 R0 ratio in
 max inf: 0.09230532944248196 at: 8328
 Dreg simulation : R0 direct: 2.5866666666666664 Growth rate: 13.200000000000003 R0 ratio infected at end: 2.608974358974359
 max inf: 0.15942251574258948 at: 6672
+Local current time :Fri Jun  3 00:57:03 2022
+mean, var of degree dist. : 20.0, 0.0
+people: 1650.0Dreg simulation : R0 direct: 3.142857142857143 Growth rate: 1.3846153846153832 R0 ratio infected at end: 183.33333333333331
+max inf: 0.47515151515151516 at: 3768
+Local current time :Sat Jun 11 23:15:28 2022
+mean, var of degree dist. : 20.0, 0.0
+people: 1650.0
+class size: 25 office size: 5
+beta S->E: 3.0 gamma E E->I: 1.0 gamma R I->R: 0.25 iter per day: 24
+lockdown: 1
+mean weight: 1 fraction initially infected: 0.01
+Graph simulation : R0 direct: 2.6470588235294117 Growth rate: 2.34375 R0 ratio infected at end: 1.8563656147986944
+max inf: 0.06181818181818182 at: 8208
+Dreg simulation : R0 direct: 4.631578947368421 Growth rate: 0.9230769230769234 R0 ratio infected at end: 150.0
+max inf: 0.4684848484848485 at: 3624
+Qvar structured: 3.757785467128028 Qvar random: 11.706371191135736
+Local current time :Sun Jun 12 00:51:15 2022
+mean, var of degree dist. : 20.0, 0.0
+people: 1650.0
+class size: 25 office size: 5
+beta S->E: 3.0 gamma E E->I: 1.0 gamma R I->R: 0.25 iter per day: 24
+lockdown: 1
+mean weight: 1 fraction initially infected: 0.01
+Graph simulation : R0 direct: 2.8421052631578947 Growth rate: 4.468085106382979 R0 ratio infected at end: 1.8439955106621773
+max inf: 0.06848484848484848 at: 11880
+Dreg simulation : R0 direct: 5.117647058823529 Growth rate: 0.8461538461538467 R0 ratio infected at end: 183.33333333333331
+max inf: 0.4581818181818182 at: 3792
+Qvar structured: 4.448753462603878 Qvar random: 12.927335640138407
+Local current time :Sun Jun 12 00:51:56 2022
+mean, var of degree dist. : 20.0, 0.0
+people: 1650.0
+class size: 25 office size: 5
+beta S->E: 3.0 gamma E E->I: 1.0 gamma R I->R: 0.25 iter per day: 24
+lockdown: 1
+mean weight: 1 fraction initially infected: 0.01
+Graph simulation : R0 direct: 1.0 Growth rate: 4.260869565217391 R0 ratio infected at end: 1.5537340619307833
+max inf: 0.04363636363636364 at: 22632
+Dreg simulation : R0 direct: 4.9 Growth rate: 1.6923076923076934 R0 ratio infected at end: 103.125
+max inf: 0.45454545454545453 at: 3624
+Qvar structured: 0.0 Qvar random: 12.290000000000003
+Local current time :Mon Jun 13 00:04:46 2022
+mean, var of degree dist. : 20.0, 0.0
+people: 1650.0
+class size: 25 office size: 5
+beta S->E: 3.0 gamma E E->I: 1.0 gamma R I->R: 0.25 iter per day: 24
+lockdown: 1
+mean weight: 1 fraction initially infected: 0.01
+Graph simulation R direct: 2.0 Graph Growth rate: 3.3414634146341466 R ratio infected at end: 1.5747800586510263
+Graph max inf: 0.02727272727272727 Graph maxTime: 20328
+Dreg simulation R direct: 4.25 Dreg Growth rate: 2.3846153846153832 Dreg R ratio: 117.85714285714285
+Dreg max inf: 0.4793939393939394 Dreg maxTime: 3648
+Qvar structured: 1.5294117647058822 Qvar random: 8.1875
+Local current time :Mon Jun 20 00:36:48 2022
+mean, var of degree dist. : 20.0, 0.0
+people: 1650.0
+class size: 25 office size: 5
+beta S->E: 3.0 gamma E E->I: 1.0 gamma R I->R: 0.25 iter per day: 24
+lockdown: 1
+mean weight: 1 fraction initially infected: 0.01
+Graph simulation R direct: 2.75 Graph Growth rate: 2.8139534883720927 Graph R ratio: 1.7794273594909864
+Graph max inf: 0.08727272727272728 Graph maxTime: 10920
+Dreg simulation R direct: 4.703703703703703 Dreg Growth rate: 4.307692307692307 Dreg R ratio: 117.85714285714285
+Dreg max inf: 0.4296969696969697 Dreg maxTime: 3816
+Qvar structured: 7.520833333333333 Qvar random: 7.912208504801096
