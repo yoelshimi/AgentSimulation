@@ -67,7 +67,6 @@ def GephiWrite(G):
         del G_print.nodes[n]['is_believer']
         del G_print.nodes[n]['is_sensitive']
 
-
     nx.write_gml(G_print, 'test1.gml')
 
 

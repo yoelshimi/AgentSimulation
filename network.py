@@ -37,7 +37,7 @@ def go(conf):
             plotting.plotWeightsOnGraph(C)
 
         A = nx.adjacency_matrix(G)
-        cls_str = nx.average_clustering(G)
+        cls_str = auxFunctions.getClusteringCoeff(G)
         print(cls_str)
         clust_e, clust_v = eigsh(A, 10, which='LM')
         clust_e = abs(clust_e)
@@ -58,7 +58,7 @@ def go(conf):
 
         A2 = nx.adjacency_matrix(G2)
         A2 = A2.astype(float)
-        cls_rnd = nx.average_clustering(G2)
+        cls_rnd = auxFunctions.getClusteringCoeff(G2)
         print(f"random clustering: {cls_rnd}, d/n: {degrees / number_people}")
         gam_e, gam_v = eigsh(A2, 5, which='LM')  # eigh(A2.toarray())  #
         gam_e = abs(gam_e)
@@ -205,7 +205,8 @@ def go(conf):
                        maxInfStr,"\n",
                        R0strRandom, "\n",
                        maxInfStr2, "\n",
-                       f"Qvar structured: {Qvar}"
+                       f"Qvar structured: {Qvar}",
+                        f""
                        ])
 
         if randomGraphMode:

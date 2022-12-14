@@ -1,4 +1,5 @@
 import numpy as np
+import networkx as nx
 AGESIZE = 101
 
 def get_age_matrix(G):
@@ -28,3 +29,7 @@ def conf2vals(configValue):
     if configValue == 'manual':
         res = 4
     return res
+
+
+def getClusteringCoeff(graph):
+    return nx.transitivity(graph)

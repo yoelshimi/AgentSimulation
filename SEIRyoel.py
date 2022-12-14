@@ -288,7 +288,7 @@ class SEIRQModel(DiffusionModel):
                 actual_status[u] = 2  # Exposed
                 self.progress[u] = np.random.exponential(self.params['model']['alpha'])
 
-            if u_status == 2:  # Exposed
+            if u_status == 2:  # Exposed becomes infected
                 actual_status[u] = 1  # Infected
                 self.inf_time[u] = self.actual_iteration
                 self.progress[u] = np.random.exponential(self.params['model']['gamma'])

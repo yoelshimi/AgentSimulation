@@ -1056,3 +1056,6 @@ gamma fitted graph first eig: 13.047662703775323 second eig: 13.345882867292378 
 clustered graph, size: 1650.0first eig: 8.829360068361272 second eig:8.54602614820475 spectral gap: 0.28333392015652237
 gamma fitted graph first eig: 13.10054991999964 second eig: 13.425387040445562 spectral gap: -0.32483712044592217
  average clustering coefficient structure: 0.4970035560094183, average clustering coef random: 0.0018181818181818177
+clustered graph, size: 32555first eig: 11.622999047671776 second eig:11.584215845557734 spectral gap: 0.038783202114041515
+gamma fitted graph first eig: 1.4468950351742356 second eig: 1.4475540599300696 spectral gap: -0.0006590247558340145
+ average clustering coefficient structure: 0.6838881126753577, average clustering coef random: 0.000444482990394831
